@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Insurance Result</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Insurance Calculation</h1>
+
+<p><strong>Name:</strong> <span id="name"></span></p>
+
+<p><strong>Location:</strong> <span id="location"></span></p>
+
+<p><strong>Weekly Income:</strong> ₹<span id="weeklyIncome"></span></p>
+
+<p><strong>Weekly Premium:</strong> ₹<span id="weeklyPremium"></span></p>
+
+<p><strong>Daily Premium:</strong> ₹<span id="dailyPremium"></span></p>
+
+</div>
+
+<script>
+
+const data = JSON.parse(localStorage.getItem("insuranceResult"))
+
+document.getElementById("name").textContent = data.name
+document.getElementById("location").textContent = data.location
+document.getElementById("weeklyIncome").textContent = data.weeklyIncome
+document.getElementById("weeklyPremium").textContent = data.weeklyPremium
+document.getElementById("dailyPremium").textContent = data.dailyPremium
+
+</script>
+
+</body>
+</html>
