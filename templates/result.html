@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Insurance Result</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
 <body>
@@ -15,11 +15,19 @@
 
 <p><strong>Location:</strong> <span id="location"></span></p>
 
+<p><strong>Risk Score:</strong> <span id="riskScore"></span></p>
+
+<p><strong>Area Risk:</strong> <span id="areaRisk"></span></p>
+
 <p><strong>Weekly Income:</strong> ₹<span id="weeklyIncome"></span></p>
 
 <p><strong>Weekly Premium:</strong> ₹<span id="weeklyPremium"></span></p>
 
 <p><strong>Daily Premium:</strong> ₹<span id="dailyPremium"></span></p>
+
+<br>
+
+<button onclick="goPayment()">Proceed to Payment</button>
 
 </div>
 
@@ -27,11 +35,21 @@
 
 const data = JSON.parse(localStorage.getItem("insuranceResult"))
 
+if(!data){
+    window.location.href = "/index"
+}
+
 document.getElementById("name").textContent = data.name
 document.getElementById("location").textContent = data.location
+document.getElementById("riskScore").textContent = data.riskScore
+document.getElementById("areaRisk").textContent = data.areaRisk
 document.getElementById("weeklyIncome").textContent = data.weeklyIncome
 document.getElementById("weeklyPremium").textContent = data.weeklyPremium
 document.getElementById("dailyPremium").textContent = data.dailyPremium
+
+function goPayment(){
+    window.location.href = "/payment"
+}
 
 </script>
 

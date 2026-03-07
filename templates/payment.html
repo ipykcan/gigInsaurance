@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Insurance Payment</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Insurance Payment</h1>
+
+<p><strong>Weekly Premium:</strong> ₹<span id="premium"></span></p>
+
+<br>
+
+<button onclick="pay()">Pay Insurance</button>
+
+<p id="status"></p>
+
+</div>
+
+<script>
+
+const data = JSON.parse(localStorage.getItem("insuranceResult"))
+
+document.getElementById("premium").textContent = data.weeklyPremium
+
+async function pay(){
+
+const response = await fetch("http://127.0.0.1:5000/pay",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({
+name:data.name,
+premium:data.weeklyPremium
+})
+})
+
+const result = await response.json()
+
+document.getElementById("status").innerHTML = result.message
+
+}
+
+</script>
+
+</body>
+</html>
