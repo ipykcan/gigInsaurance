@@ -14,21 +14,68 @@ const firebaseConfig = {
   measurementId: "G-WNXBJZSR6B"
 };
 
+document.addEventListener("DOMContentLoaded", function(){
+
+  const slides = document.querySelectorAll(".carousel-slide");
+  const dots = document.querySelectorAll(".carousel-dot");
+  const prevBtn = document.querySelector(".carousel-prev");
+  const nextBtn = document.querySelector(".carousel-next");
+
+  let currentSlide = 0;
+
+  function showSlide(index){
+
+    if(index >= slides.length) index = 0;
+    if(index < 0) index = slides.length - 1;
+
+    slides.forEach((slide,i)=>{
+      slide.classList.remove("active");
+      if(i===index){
+        slide.classList.add("active");
+      }
+    });
+
+    dots.forEach((dot,i)=>{
+      dot.classList.remove("active");
+      if(i===index){
+        dot.classList.add("active");
+      }
+    });
+
+    currentSlide = index;
+
+  }
+
+  if(nextBtn){
+    nextBtn.addEventListener("click",()=>showSlide(currentSlide+1));
+  }
+
+  if(prevBtn){
+    prevBtn.addEventListener("click",()=>showSlide(currentSlide-1));
+  }
+
+  dots.forEach((dot,index)=>{
+    dot.addEventListener("click",()=>showSlide(index));
+  });
+
+});
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-const form = document.getElementById("driverForm");
+const form = document.getElementById("insuranceForm");
 
 form.addEventListener("submit", async (e) => {
 
   e.preventDefault();
 
-  const name = document.getElementById("name").value;
+  const name = document.getElementById("fullName").value;
   const age = Number(document.getElementById("age").value);
   const location = document.getElementById("location").value.toLowerCase();
-  const income = Number(document.getElementById("income").value);
-  const shift = document.getElementById("shift").value;
+  const income = Number(document.getElementById("dailyIncome").value);
+  const shiftStart = document.getElementById("shiftStartTime").value;
+  const shiftEnd = document.getElementById("shiftEndTime").value;
   const nightShift = document.getElementById("nightShift").value;
 
   let riskScore = 0;
@@ -73,7 +120,8 @@ form.addEventListener("submit", async (e) => {
     Age: age,
     Location: location,
     DailyIncome: income,
-    shiftTime: shift,
+    shiftStartTime: shiftStart,
+    shiftEndTime: shiftEnd,
     NightShift: nightShift === "yes",
 
     areaRisk: areaRisk,
