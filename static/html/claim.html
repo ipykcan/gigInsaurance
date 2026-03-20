@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fraud Shield v2.0</title>
+  <link rel="stylesheet" href="css/claim.css">
+  <!-- Lucide icons CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+  <div class="app-container">
+    <header class="header animate-fade-in" style="position: relative;">
+      <a href="dashboard.html" class="btn btn-secondary"
+        style="position: absolute; left: 20px; top: 10px; padding: 6px 12px; font-size: 0.85rem; text-decoration: none; display: flex; align-items: center; gap: 4px;">
+        <i data-lucide="arrow-left" style="width: 16px; height: 16px;"></i> Dashboard
+      </a>
+      <button id="btnSignOut" class="btn btn-secondary"
+        style="position: absolute; right: 20px; top: 10px; padding: 6px 12px; font-size: 0.85rem;">Sign Out</button>
+      <h1>Claim Verification Platform</h1>
+      <p>Set Home Zone & Verify Claims Authenticity via Real-Time Intelligence</p>
+    </header>
+
+    <div class="layout-grid">
+      <section class="glass-panel animate-fade-in" style="padding: 24px; animation-delay: 0.1s;">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+          <h2 style="display: flex; align-items: center; gap: 8px;">
+            <i data-lucide="map-pin" color="var(--accent-primary)"></i>
+            Set Home Zone
+          </h2>
+          <span id="homeZoneActiveBadge"
+            style="display: none; font-size: 0.85rem; background: var(--accent-success); padding: 4px 8px; border-radius: 12px; color: #fff; font-weight: bold;">
+            Active
+          </span>
+        </div>
+        <p style="color: var(--text-muted); margin-bottom: 24px;">
+          Define your operational radius to validate claims against. Only claims within a 5km radius will be processed.
+        </p>
+
+        <!-- Home Zone Locked state -->
+        <div id="homeZoneSet"
+          style="display: none; background: #f0fdf4; border: 1px solid #bbf7d0; padding: 16px; border-radius: 8px; margin-bottom: 20px; color: #166534;">
+          <p style="margin-bottom: 8px;"><strong>Home Zone Locked</strong></p>
+          <p style="font-size: 0.9rem;" id="homeZoneCoords">Lat: -, Lng: -</p>
+          <p style="font-size: 0.8rem; margin-top: 8px; color: #15803d;">* Your home zone is set permanently for your
+            account and cannot be modified.</p>
+        </div>
+
+        <!-- Home Zone Buttons -->
+        <div id="homeZoneControls" style="display: flex; gap: 12px; flex-wrap: wrap;">
+          <button class="btn" id="btnDetectLocation">Detect Location</button>
+          <button class="btn btn-secondary" id="btnSetManually">Set Manually (Demo)</button>
+        </div>
+      </section>
+
+      <section class="glass-panel animate-fade-in" style="padding: 24px; animation-delay: 0.2s;">
+        <h2 style="margin-bottom: 16px; display: flex; align-items: center; gap: 8px;">
+          <i data-lucide="shield-alert" color="var(--accent-primary)"></i>
+          Submit Claim
+        </h2>
+        <form id="claimForm" style="display: flex; flex-direction: column; gap: 16px;">
+          <div>
+            <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">Issue Type</label>
+            <select id="claimType">
+              <option value="weather">Extreme Weather</option>
+              <option value="extreme_heat">Extreme Heat</option>
+              <option value="curfew">Civil Curfew</option>
+              <option value="strikes">Labor Strikes</option>
+              <option value="disaster">Natural Disaster</option>
+            </select>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px;">
+            <div>
+              <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">State</label>
+              <select id="selectedState" required>
+                <option value="" disabled selected>Select State</option>
+              </select>
+            </div>
+            <div>
+              <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">City</label>
+              <select id="selectedCity" disabled required>
+                <option value="" disabled selected>Select City</option>
+              </select>
+            </div>
+            <div>
+              <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">Local Area</label>
+              <select id="selectedArea" disabled required>
+                <option value="" disabled selected>Select Area</option>
+              </select>
+            </div>
+          </div>
+          <button class="btn" type="submit" id="btnSubmitClaim" style="margin-top: 8px;">
+            Verify & Submit Claim
+          </button>
+        </form>
+      </section>
+    </div>
+
+    <div id="resultBox" class="glass-panel result-modal animate-fade-in"
+      style="display: none; margin-top: 30px; padding: 24px; animation-delay: 0.3s;">
+      <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+        <div id="resultIcon"></div>
+        <h3 id="resultTitle" style="margin: 0;"></h3>
+      </div>
+      <p id="resultMessage" style="white-space: pre-line; line-height: 1.6; color: var(--text-muted);"></p>
+    </div>
+  </div>
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+
+
+  <!-- Use Type=Module to utilize modern import syntax for firebase-config.js -->
+  <script type="module" src="../public/js/claim.js"></script>
+
+</body>
+
+</html>
