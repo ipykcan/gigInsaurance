@@ -1,6 +1,7 @@
 # Fraud Shield: Micro-Insurance for Delivery Partners
 
 > **A real-time, AI-powered geofenced micro-insurance platform built to protect gig-economy delivery riders from unforeseen disruptions.**
+> **link to website**: [https://youtu.be/lHyRTZcCJRk] 
 
 ## What is this project for?
 In the face of recent market crashes and economic volatility, gig workers—especially delivery riders—are often left without a financial safety net. They face daily risks ranging from extreme weather conditions (heavy rains, severe heatwaves) to sudden geopolitical strikes or local disasters that halt their daily earnings. 
