@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Shield v2.0 - Auth</title>
+    <link rel="stylesheet" href="css/claim.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .auth-container {
+            max-width: 450px;
+            margin: 60px auto;
+        }
+
+        .form-header {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .auth-toggle {
+            text-align: center;
+            margin-top: 16px;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .auth-toggle a {
+            color: var(--accent-primary);
+            font-weight: 500;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .auth-toggle a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="app-container">
+
+        <div class="auth-container glass-panel animate-fade-in" style="padding: 32px;">
+            <div class="form-header">
+                <i data-lucide="shield-check" color="var(--accent-primary)"
+                    style="width: 48px; height: 48px; margin-bottom: 12px;"></i>
+                <h2 id="formTitle">Sign In</h2>
+                <p style="color: var(--text-muted); margin-top: 8px;">Access your Fraud Shield dashboard</p>
+            </div>
+
+            <div style="display:flex; gap:10px; margin-bottom:16px;">
+                <button type="button" id="btnRoleClient" class="btn"
+                    style="flex:1; background: var(--accent-primary); color: #fff;">Login as Client</button>
+                <button type="button" id="btnRoleAdmin" class="btn btn-secondary" style="flex:1;">Login as
+                    Admin</button>
+            </div>
+
+            <form id="authForm" style="display: flex; flex-direction: column; gap: 16px;">
+                <div>
+                    <label id="labelIdentifier"
+                        style="display: block; margin-bottom: 8px; color: var(--text-muted);">Email Address</label>
+                    <input type="text" id="identifier" required placeholder="name@company.com" autocomplete="username">
+                </div>
+                <div>
+                    <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">Password</label>
+                    <input type="password" id="password" required placeholder="••••••••"
+                        autocomplete="current-password">
+                </div>
+                <div id="authErrorMsg"
+                    style="display: none; color: var(--accent-error); font-size: 0.9rem; margin-top: -4px;"></div>
+                <button type="submit" class="btn" id="btnAuthSubmit" style="margin-top: 12px; width: 100%;">
+                    Sign In
+                </button>
+            </form>
+
+            <div class="auth-toggle">
+                <span id="toggleText">Don't have an account?</span>
+                <a id="toggleLink">Sign Up</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+    </script>
+    <!-- Use Type=Module to utilize modern import syntax -->
+    <script type="module" src="js/register.js"></script>
+</body>
+
+</html>
