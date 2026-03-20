@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Result - Fraud Shield</title>
+    <link rel="stylesheet" href="css/claim.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .result-container {
+            max-width: 500px;
+            margin: 60px auto;
+            text-align: center;
+            padding: 40px;
+        }
+
+        .success-icon {
+            width: 80px;
+            height: 80px;
+            background: rgba(22, 163, 74, 0.1);
+            color: #16a34a;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 24px;
+        }
+
+        h2 {
+            margin-bottom: 16px;
+            color: var(--text-main);
+        }
+
+        p {
+            color: var(--text-muted);
+            margin-bottom: 32px;
+            line-height: 1.6;
+        }
+
+        .details-card {
+            background: rgba(0, 0, 0, 0.02);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 32px;
+            text-align: left;
+        }
+
+        .detail-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            font-size: 0.9rem;
+        }
+
+        .detail-label {
+            color: var(--text-muted);
+        }
+
+        .detail-value {
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="app-container">
+        <div class="glass-panel result-container animate-fade-in">
+            <div class="success-icon">
+                <i data-lucide="check-circle" size="48"></i>
+            </div>
+            <h2>Payment Successful!</h2>
+            <p>Your subscription has been updated. You now have full access to all premium fraud detection features.</p>
+
+            <div class="details-card">
+                <div class="detail-row">
+                    <span class="detail-label">Transaction ID</span>
+                    <span class="detail-value">#FS-882910</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Plan</span>
+                    <span class="detail-value">Enterprise Grade</span>
+                </div>
+                <div class="detail-row" style="margin-bottom: 0;">
+                    <span class="detail-label">Amount</span>
+                    <span class="detail-value">$49.00 / mo</span>
+                </div>
+            </div>
+
+            <a href="dashboard.html" class="btn"
+                style="width: 100%; text-decoration: none; display: inline-block;">Return to Dashboard</a>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>

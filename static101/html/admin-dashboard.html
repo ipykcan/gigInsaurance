@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Dashboard - Fraud Shield</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/dashboard.css">
+    <link rel="stylesheet" href="css/admin-dashboard.css">
+</head>
+
+<body>
+    <div class="dashboard-wrapper">
+        <header class="dashboard-header">
+            <div class="header-left">
+                <div class="logo-badge" aria-hidden="true">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        <path d="M9 12l2 2 4-4" stroke="white" stroke-width="2" fill="none"></path>
+                    </svg>
+                </div>
+                <h1 class="dashboard-title">Admin Dashboard</h1>
+            </div>
+
+            <nav class="dashboard-tabs" aria-label="Admin Navigation">
+                <a href="admin-dashboard.html" class="tab active">Users</a>
+            </nav>
+
+            <div class="header-right">
+                <button id="btnAdminSignOut" class="btn"
+                    style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; font-size: 0.85rem; margin-right: 15px; cursor: pointer;">
+                    Sign Out
+                </button>
+                <div class="avatar-circle">A</div>
+            </div>
+        </header>
+
+        <div class="dashboard-divider"></div>
+
+        <div class="dashboard-container">
+            <section class="admin-grid">
+                <div class="admin-panel">
+                    <div class="admin-panel-header">
+                        <h2 class="admin-panel-title">All Clients</h2>
+                        <input id="userSearch" class="admin-search" type="search" placeholder="Search by email/uid..." />
+                    </div>
+                    <div id="usersList" class="admin-list">
+                        <div class="admin-empty">Loading users...</div>
+                    </div>
+                </div>
+
+                <div class="admin-panel">
+                    <div class="admin-panel-header">
+                        <h2 class="admin-panel-title">Client Details</h2>
+                    </div>
+                    <div id="userDetails" class="admin-details">
+                        <div class="admin-empty">Select a client to view details.</div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <footer class="dashboard-footer">
+            <p>&copy; 2026 Fraud Shield. Admin console.</p>
+            <div class="footer-links">
+                <a href="dashboard.html">Client Dashboard</a>
+            </div>
+        </footer>
+    </div>
+
+    <script type="module" src="../public/js/admin-dashboard.js"></script>
+</body>
+
+</html>
+

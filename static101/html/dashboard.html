@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Dashboard - Fraud Shield</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+
+<body>
+    <div class="dashboard-wrapper">
+        <!-- Header -->
+        <header class="dashboard-header">
+            <div class="header-left">
+                <div class="logo-badge">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        <path d="M9 12l2 2 4-4" stroke="white" stroke-width="2" fill="none"></path>
+                    </svg>
+                </div>
+                <h1 class="dashboard-title">Client Dashboard</h1>
+            </div>
+
+            <!-- Navigation Tabs -->
+            <nav class="dashboard-tabs">
+                <a href="dashboard.html" class="tab active">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="3" y="3" width="7" height="7"></rect>
+                        <rect x="14" y="3" width="7" height="7"></rect>
+                        <rect x="14" y="14" width="7" height="7"></rect>
+                        <rect x="3" y="14" width="7" height="7"></rect>
+                    </svg>
+                    Dashboard
+                </a>
+                <a href="claim.html" class="tab">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                    </svg>
+                    Claim
+                </a>
+            </nav>
+
+            <div class="header-right">
+                <button id="btnSignOut" class="btn"
+                    style="background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 12px; font-size: 0.85rem; margin-right: 15px; cursor: pointer;">Sign
+                    Out</button>
+                <div class="avatar-circle"></div>
+            </div>
+        </header>
+
+        <div class="dashboard-divider"></div>
+
+        <!-- Main Content -->
+        <div class="dashboard-container">
+
+            <!-- User Profile Card -->
+            <section class="profile-card">
+                <div class="profile-left">
+                    <div class="profile-avatar">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2">
+                            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                            <circle cx="12" cy="7" r="4"></circle>
+                        </svg>
+                    </div>
+                    <div class="profile-info">
+                        <h2 class="profile-name">Loading...</h2>
+                        <div class="profile-location">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                <circle cx="12" cy="10" r="3"></circle>
+                            </svg>
+                            <span>Mumbai, India</span>
+                        </div>
+                    </div>
+                    <div class="online-indicator"></div>
+                </div>
+                <div class="profile-actions">
+                    <button class="btn btn-outline">Edit Profile</button>
+                    <button class="btn btn-primary">Download Report</button>
+                </div>
+            </section>
+
+            <!-- Stats Cards Section (Client Claim Summary) -->
+            <section class="stats-section">
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span class="stat-label">CLAIMS ACCEPTED</span>
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#D4A574" stroke-width="1.5"
+                            opacity="0.3">
+                            <path
+                                d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3.05h16.94a2 2 0 0 0 1.71-3.05L13.71 3.86a2 2 0 0 0-3.42 0z">
+                            </path>
+                            <line x1="12" y1="9" x2="12" y2="13"></line>
+                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="statAccepted">0</div>
+                    <div class="stat-badge success">Approved</div>
+                    <div class="stat-progress">
+                        <div class="progress-bar" id="barAccepted" style="width: 0%;"></div>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span class="stat-label">CLAIMS REJECTED</span>
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#D4A574" stroke-width="1.5"
+                            opacity="0.3">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                            <circle cx="12" cy="10" r="3" fill="none"></circle>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="statRejected">0</div>
+                    <div class="stat-badge success">Processed</div>
+                    <div class="stat-progress">
+                        <div class="progress-bar" id="barRejected" style="width: 0%;"></div>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-header">
+                        <span class="stat-label">TOTAL CLAIMS</span>
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#D4A574" stroke-width="1.5"
+                            opacity="0.3">
+                            <circle cx="12" cy="12" r="9"></circle>
+                            <path d="M12 6v12M9 9h6a3 3 0 0 1 0 6H9"></path>
+                        </svg>
+                    </div>
+                    <div class="stat-value" id="statTotal">0</div>
+                    <div class="stat-subtext">Based on all submitted claims</div>
+                </div>
+            </section>
+
+            <!-- 7-Day AI Forecast Section -->
+            <section class="forecast-section" style="margin-bottom: 30px;">
+                <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-dark); margin-bottom: 5px;">AI 7-Day
+                    Working Conditions Forecast</h3>
+                <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 20px;">Powered by predictive
+                    analytics mapping real-time weather and socioeconomic market disruptions in your Home Zone.</p>
+
+                <div id="forecastContainer" style="display: flex; gap: 15px; overflow-x: auto; padding-bottom: 15px;">
+                    <div
+                        style="padding: 20px; text-align: center; color: var(--text-muted); width: 100%; background: #f8fafc; border-radius: 12px; border: 1px solid var(--border);">
+                        Loading AI Predictions...
+                    </div>
+                </div>
+                <div id="newsHighlights"
+                    style="margin-top: 14px; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--border); background: #f8fafc; color: var(--text-muted); font-size: 0.88rem; line-height: 1.5;">
+                    Loading latest disruptions...
+                </div>
+            </section>
+
+            <!-- Main Content Section -->
+            <section class="main-content single"
+                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+                <div class="premium-card">
+                    <h3 class="card-title">Weekly Insurance Premium</h3>
+                    <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 20px;">Protect yourself
+                        against unforeseen events like severe weather operations by maintaining an active premium
+                        deposit.</p>
+
+                    <div style="font-size: 2.5rem; font-weight: 800; color: var(--text-dark); margin-bottom: 10px;">
+                        ₹100<span style="font-size: 1rem; color: var(--text-muted); font-weight: 500;"> / week</span>
+                    </div>
+
+                    <button id="btnPayPremium" class="btn btn-primary"
+                        style="width: 100%; padding: 14px; font-size: 1.05rem; display: flex; align-items: center; justify-content: center; gap: 8px;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <rect x="2" y="5" width="20" height="14" rx="2"></rect>
+                            <line x1="2" y1="10" x2="22" y2="10"></line>
+                        </svg>
+                        Deposit ₹100 Premium
+                    </button>
+                    <div id="premiumMessage"
+                        style="margin-top: 15px; font-size: 0.9rem; font-weight: 600; text-align: center;"></div>
+                </div>
+
+                <div class="premium-card">
+                    <h3 class="card-title">Your Financial Summary</h3>
+
+                    <div style="margin-top: 20px; display: flex; flex-direction: column; gap: 15px;">
+                        <div
+                            style="padding: 15px; border-radius: 12px; border: 1px solid var(--border); background: #f8fafc;">
+                            <div
+                                style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); letter-spacing: 0.05em; margin-bottom: 5px;">
+                                TOTAL DEPOSITED</div>
+                            <div id="userTotalDeposits" style="font-size: 1.6rem; font-weight: 800; color: #10b981;">₹0
+                            </div>
+                        </div>
+
+                        <div
+                            style="padding: 15px; border-radius: 12px; border: 1px solid var(--border); background: #f8fafc;">
+                            <div
+                                style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); letter-spacing: 0.05em; margin-bottom: 5px;">
+                                TOTAL INSURANCE PAYOUTS RECEIVED</div>
+                            <div id="userTotalPayouts" style="font-size: 1.6rem; font-weight: 800; color: #3b82f6;">₹0
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Footer -->
+        <footer class="dashboard-footer">
+            <p>&copy; 2023 PremiumCalc Insurance Solutions. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+                <a href="#">Contact Support</a>
+            </div>
+        </footer>
+    </div>
+
+    <script type="module" src="../public/js/dashboard.js"></script>
+</body>
+
+</html>
