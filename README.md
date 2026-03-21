@@ -1,4 +1,4 @@
-# Fraud Shield: Micro-Insurance for Delivery Partners
+# Driver Shield: Micro-Insurance for Delivery Partners
 
 > **A real-time, AI-powered geofenced micro-insurance platform built to protect gig-economy delivery riders from unforeseen disruptions.**
 >  **link to website**: [https://fraud-detection-bf47b.web.app/] 
