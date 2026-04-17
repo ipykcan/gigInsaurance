@@ -1,0 +1,680 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Client Dashboard - DriverSheild</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="css/dashboard.css" />
+</head>
+
+<body>
+    <div class="dashboard-wrapper">
+        <!-- LEFT SIDEBAR -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-logo">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a2a" stroke-width="2.5">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        <path d="M9 12l2 2 4-4" stroke="#ff8a2a" stroke-width="2.5" fill="none"></path>
+                    </svg>
+                    <span class="sidebar-logo-text">DriverSheild</span>
+                </div>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="dashboard.html" class="sidebar-nav-item active">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    <span>Dashboard</span>
+                </a>
+                <a href="profile.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                        <circle cx="12" cy="7" r="4"></circle>
+                    </svg>
+                    <span>Profile</span>
+                </a>
+                <a href="claim.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                    <span>Claim</span>
+                </a>
+                <a href="working-conditions.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path
+                            d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12">
+                        </path>
+                    </svg>
+                    <span>Working Conditions</span>
+                </a>
+                <a href="ai-recommendations.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 11l3 3L22 4"></path>
+                        <path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <span>AI Recommendations</span>
+                </a>
+                <a href="history.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    <span>History</span>
+                </a>
+            </nav>
+        </aside>
+
+        <!-- MAIN CONTENT -->
+        <div class="main-wrapper">
+            <style>
+                @keyframes slideDownAlert {
+                    from {
+                        transform: translateY(-20px);
+                        opacity: 0;
+                    }
+
+                    to {
+                        transform: translateY(0);
+                        opacity: 1;
+                    }
+                }
+
+                .shimmer {
+                    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.08) 50%, rgba(255, 255, 255, 0) 100%);
+                    background-size: 200% 100%;
+                    animation: shimmerEffect 3s infinite linear;
+                }
+
+                @keyframes shimmerEffect {
+                    0% {
+                        background-position: 200% 0;
+                    }
+
+                    100% {
+                        background-position: -200% 0;
+                    }
+                }
+
+                @keyframes pingEffect {
+                    0% {
+                        transform: scale(1);
+                        opacity: 0.8;
+                    }
+
+                    75%,
+                    100% {
+                        transform: scale(1.5);
+                        opacity: 0;
+                    }
+                }
+            </style>
+
+            <!-- AUTO CLAIM BANNER -->
+            <div id="autoClaimBanner" style="
+          background: linear-gradient(135deg, #e88c3a, #b45309);
+          color: white;
+          padding: 16px 24px;
+          border-radius: 12px;
+          margin: 24px 24px 0 24px;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          box-shadow: 0 10px 25px rgba(180, 83, 9, 0.3);
+          animation: slideDownAlert 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+          border: 1px solid rgba(255, 255, 255, 0.15);
+          position: relative;
+          overflow: hidden;
+        ">
+                <!-- decorative rain effect -->
+                <div
+                    style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: url('data:image/svg+xml;utf8,<svg width=\'20\' height=\'20\' viewBox=\'0 0 20 20\' xmlns=\'http://www.w3.org/2000/svg\'><line x1=\'10\' y1=\'-5\' x2=\'10\' y2=\'15\' stroke=\'rgba(255,255,255,0.08)\' stroke-width=\'1\' stroke-linecap=\'round\' transform=\'rotate(15 10 10)\'/></svg>') repeat; opacity: 0.8; pointer-events: none;">
+                </div>
+
+                <!-- shimmer highlight -->
+                <div class="shimmer"
+                    style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; pointer-events: none;"></div>
+
+                <div style="display: flex; align-items: center; gap: 16px; z-index: 1;">
+                    <div style="
+              width: 48px; height: 48px; border-radius: 12px; background: rgba(255,255,255,0.15); 
+              display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+              box-shadow: inset 0 0 10px rgba(255,255,255,0.1);
+              position: relative;
+            ">
+                        <!-- Animated pulse ring -->
+                        <div
+                            style="position: absolute; inset: 0; border-radius: 12px; border: 2px solid #ffffff; animation: pingEffect 2s cubic-bezier(0, 0, 0.2, 1) infinite; opacity: 0.8;">
+                        </div>
+
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2.5"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M20 16.58A5 5 0 0 0 18 7h-1.26A8 8 0 1 0 4 15.25" />
+                            <path d="M16 14v6" />
+                            <path d="M8 14v6" />
+                            <path d="M12 16v6" />
+                        </svg>
+                    </div>
+                    <div>
+                        <h4
+                            style="margin: 0; font-size: 1.15rem; font-weight: 800; letter-spacing: 0.02em; text-shadow: 0 2px 4px rgba(0,0,0,0.15);">
+                            Claim Auto-Triggered due to Heavy Rain</h4>
+                        <p
+                            style="margin: 0; font-size: 0.9rem; color: rgba(255, 255, 255, 0.95); margin-top: 4px; font-weight: 500;">
+                            <span
+                                style="background: rgba(255, 255, 255, 0.3); padding: 2px 6px; border-radius: 4px; font-size: 0.8rem; font-weight: 800; color: #ffffff; margin-right: 6px; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">CASE
+                                #84920</span>
+                            Weather systems detected severe conditions in your zone. We've automatically initiated a
+                            claim.
+                        </p>
+                    </div>
+                </div>
+                <div style="display: flex; gap: 12px; z-index: 1;">
+                    <button style="
+               background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 10px 20px; 
+               border-radius: 8px; font-weight: 700; cursor: pointer; transition: all 0.2s;
+               backdrop-filter: blur(4px); box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+             " onmouseover="this.style.background='rgba(255,255,255,0.3)'; this.style.transform='translateY(-1px)'"
+                        onmouseout="this.style.background='rgba(255,255,255,0.2)'; this.style.transform='none'">Review
+                        Details</button>
+                    <button style="
+               background: none; border: none; color: rgba(255,255,255,0.8); cursor: pointer;
+               display: flex; align-items: center; justify-content: center; padding: 8px; border-radius: 8px;
+               transition: background 0.2s, color 0.2s;
+             " onmouseover="this.style.background='rgba(255,255,255,0.2)'; this.style.color='white'"
+                        onmouseout="this.style.background='none'; this.style.color='rgba(255,255,255,0.8)'"
+                        onclick="document.getElementById('autoClaimBanner').style.display='none'">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <!-- HEADER -->
+            <header class="dashboard-header">
+                <div class="header-content">
+                    <h1 class="header-title">Welcome back</h1>
+                    <p class="header-subtitle">Your insurance dashboard</p>
+                </div>
+                <div class="header-right">
+                    <button id="btnSignOut"
+                        style="background: #fff3e0; color: #ff6a00; border: 1px solid rgba(255, 106, 0, 0.2); padding: 8px 16px; border-radius: 12px; font-weight: 700; display: flex; align-items: center; gap: 8px; cursor: pointer; transition: all 0.2s; box-shadow: 0 4px 6px rgba(255, 138, 42, 0.05);"
+                        onmouseover="this.style.background='#ffedcc'; this.style.transform='translateY(-2px)'; this.style.borderColor='rgba(255, 106, 0, 0.4)';"
+                        onmouseout="this.style.background='#fff3e0'; this.style.transform='none'; this.style.borderColor='rgba(255, 106, 0, 0.2)';">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+                            <polyline points="16 17 21 12 16 7"></polyline>
+                            <line x1="21" y1="12" x2="9" y2="12"></line>
+                        </svg>
+                        Sign Out
+                    </button>
+                    <div class="avatar-circle" onclick="window.location.href='profile.html'" style="cursor: pointer;"
+                        title="Go to Profile"></div>
+                </div>
+            </header>
+
+            <!-- HERO CARD -->
+            <section class="hero-card" id="heroCard">
+                <!-- Top row: badge + greeting -->
+                <div class="hero-top-row">
+                    <div class="hero-badge">
+                        <svg width="10" height="10" viewBox="0 0 10 10" style="flex-shrink:0;">
+                            <circle cx="5" cy="5" r="5" fill="rgba(255,255,255,0.9)" />
+                        </svg>
+                        ACTIVE MEMBER
+                    </div>
+                </div>
+
+                <h2 class="hero-title">
+                    Good morning, <span class="profile-name">Loading...</span>
+                </h2>
+
+                <!-- Location chip -->
+                <div class="hero-location-row">
+                    <div class="hero-location-chip">
+                        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.9)"
+                            stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                            <circle cx="12" cy="10" r="3" />
+                        </svg>
+                        <span class="profile-location-text">Home Zone Not Set</span>
+                    </div>
+                    <div class="hero-location-chip" id="heroWeatherChip" style="display: none; background: rgba(0,0,0,0.2);">
+                        <span id="heroWeatherIcon">🌤️</span>
+                        <span id="heroWeatherText">--°C</span>
+                    </div>
+                    <div class="hero-status-pill">
+                        <span class="hero-status-dot"></span>
+                        Your insurance is active and protecting you
+                    </div>
+                </div>
+
+                <!-- Work Status Tracker -->
+                <div class="hero-shift-tracker">
+                    <div class="shift-info">
+                        <div class="shift-status-row">
+                            <span class="shift-status-indicator" id="shiftStatusDot"></span>
+                            <div>
+                                <div class="shift-label">WORK STATUS</div>
+                                <div class="shift-value" id="shiftStatusText">Off Duty</div>
+                            </div>
+                        </div>
+                    </div>
+                    <button id="btnToggleShift" class="shift-toggle-btn">
+                        Start Shift
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="5" y1="12" x2="19" y2="12" />
+                            <polyline points="12 5 19 12 12 19" />
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- Claim Stats -->
+                <div class="hero-stats">
+                    <div class="hero-stat-box">
+                        <div class="hero-stat-icon hero-stat-icon--success">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12" />
+                            </svg>
+                        </div>
+                        <span class="hero-stat-label">Claims Accepted</span>
+                        <span class="hero-stat-value" id="statAccepted">0</span>
+                    </div>
+                    <div class="hero-stat-box">
+                        <div class="hero-stat-icon hero-stat-icon--danger">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="18" y1="6" x2="6" y2="18" />
+                                <line x1="6" y1="6" x2="18" y2="18" />
+                            </svg>
+                        </div>
+                        <span class="hero-stat-label">Claims Rejected</span>
+                        <span class="hero-stat-value" id="statRejected">0</span>
+                    </div>
+                    <div class="hero-stat-box">
+                        <div class="hero-stat-icon hero-stat-icon--info">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                                <polyline points="14 2 14 8 20 8" />
+                            </svg>
+                        </div>
+                        <span class="hero-stat-label">Total Claims</span>
+                        <span class="hero-stat-value" id="statTotal">0</span>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- WEATHER FORECAST SECTION -->
+            <section class="weather-section" id="weatherSection">
+                <div class="weather-header">
+                    <h3>7-Day Weather Forecast</h3>
+                    <a href="#" class="weather-detailed-link">View Detailed Map</a>
+                </div>
+                <div class="weather-cards">
+                    <div class="weather-card">
+                        <div class="weather-day">MON</div>
+                        <div class="weather-icon">☀️</div>
+                        <div class="weather-temp">24&deg;</div>
+                        <div class="weather-desc">Sunny</div>
+                    </div>
+                    <div class="weather-card">
+                        <div class="weather-day">TUE</div>
+                        <div class="weather-icon">🌤️</div>
+                        <div class="weather-temp">22&deg;</div>
+                        <div class="weather-desc">Partly Cloudy</div>
+                    </div>
+                    <div class="weather-card">
+                        <div class="weather-day">WED</div>
+                        <div class="weather-icon">⛈️</div>
+                        <div class="weather-temp">19&deg;</div>
+                        <div class="weather-desc">Storms</div>
+                    </div>
+                    <div class="weather-card">
+                        <div class="weather-day">THU</div>
+                        <div class="weather-icon">☁️</div>
+                        <div class="weather-temp">20&deg;</div>
+                        <div class="weather-desc">Cloudy</div>
+                    </div>
+                    <div class="weather-card">
+                        <div class="weather-day">FRI</div>
+                        <div class="weather-icon">🌦️</div>
+                        <div class="weather-temp">21&deg;</div>
+                        <div class="weather-desc">Showers</div>
+                    </div>
+                    <div class="weather-card">
+                        <div class="weather-day">SAT</div>
+                        <div class="weather-icon">☀️</div>
+                        <div class="weather-temp">25&deg;</div>
+                        <div class="weather-desc">Sunny</div>
+                    </div>
+                    <div class="weather-card">
+                        <div class="weather-day">SUN</div>
+                        <div class="weather-icon">☀️</div>
+                        <div class="weather-temp">26&deg;</div>
+                        <div class="weather-desc">Sunny</div>
+                    </div>
+                </div>
+                <div class="weather-insight">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" class="insight-icon"
+                        style="flex-shrink: 0; margin-top: 3px">
+                        <path d="M12 2L13.5 8.5L20 10L13.5 11.5L12 18L10.5 11.5L4 10L10.5 8.5L12 2Z" fill="#ff8a2a" />
+                        <path d="M5.5 4.5L6.5 6.5L8.5 7.5L6.5 8.5L5.5 10.5L4.5 8.5L2.5 7.5L4.5 6.5L5.5 4.5Z"
+                            fill="#8b4513" />
+                    </svg>
+                    <div class="insight-text">
+                        <strong>AI Insight:</strong> Wednesday's storm surge may impact
+                        your zone. DriverSheild recommends securing outdoor assets by Tuesday
+                        evening.<br />
+                        Coverage is fully active for environmental damages.
+                    </div>
+                </div>
+            </section>
+
+            <!-- ACTIVE PLAN DASHBOARD (Shown when user has a plan) -->
+            <section class="active-plan-wrapper" id="activePlanDashboard" style="display: none; background: #fff; border-radius: 20px; padding: 2rem; border: 1px solid #f0f0f0; margin-bottom: 2rem; box-shadow: 0 4px 12px rgba(0,0,0,0.02);">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 2rem;">
+                    <div style="flex: 1;">
+                        <h3 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 0.5rem; color: #1a1a1a;">Your Active Insurance</h3>
+                        <div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;">
+                            <div style="width: 50px; height: 50px; border-radius: 12px; background: #e0f2fe; display: flex; align-items: center; justify-content: center; color: #0284c7;">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                </svg>
+                            </div>
+                            <div>
+                                <h4 id="activePlanNameDisplay" style="font-weight: 800; font-size: 1.5rem; color: #ff8a2a; margin: 0;">Loading Plan...</h4>
+                                <span style="background: #10b981; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; margin-top: 4px; display: inline-block;">ACTIVE</span>
+                            </div>
+                        </div>
+                        <button id="btnChangePlan" style="margin-top: 1.5rem; background: transparent; color: #0284c7; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid #bae6fd; font-weight: 600; font-size: 0.9rem; cursor: pointer; transition: all 0.2s;">
+                            Change or Renew Plan →
+                        </button>
+                    </div>
+                    
+                    <div style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
+                        <div style="background: #fafafa; padding: 1.5rem; border-radius: 16px; min-width: 200px; border: 1px solid #f0f0f0; display: flex; flex-direction: column; justify-content: center;">
+                            <p style="font-size: 0.9rem; color: #666; margin: 0 0 0.5rem 0; font-weight: 600;">Total Deposited</p>
+                            <div id="activePlanTotalDeposits" style="font-size: 2rem; font-weight: 800; color: #222; margin: 0;">₹0</div>
+                        </div>
+                        
+                        <div style="background: #fafafa; padding: 1.5rem; border-radius: 16px; min-width: 200px; border: 1px solid #f0f0f0; display: flex; flex-direction: column; justify-content: center;">
+                            <p style="font-size: 0.9rem; color: #666; margin: 0 0 0.5rem 0; font-weight: 600;">Weekly Commitment</p>
+                            <button id="btnMakeWeeklyDeposit" style="width: 100%; background: linear-gradient(135deg, #10b981, #059669); color: white; padding: 1rem; border-radius: 10px; border: none; font-weight: 700; font-size: 1rem; cursor: pointer; transition: all 0.2s; box-shadow: 0 4px 12px rgba(16, 185, 129, 0.2);">
+                                Make Deposit - ₹<span id="activePlanDepositAmount">0</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- INSURANCE PLANS & AI REC -->
+            <section class="plans-ai-wrapper" id="plansSection">
+                <!-- INSURANCE PLANS COLUMN -->
+                <div>
+                    <h3 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 1.5rem; color: #1a1a1a;">Insurance
+                        Plans</h3>
+                    <div id="insurancePlansList" style="display: flex; flex-direction: column; gap: 1rem;">
+
+                        <!-- Basic Shield -->
+                        <div class="plan-card" data-price="49" data-plan="basic" onclick="togglePlanDetails(this)"
+                            style="display: flex; flex-direction: column; padding: 1.25rem 1.5rem; background: #fff; border-radius: 16px; border: 1px solid #f0f0f0; cursor: pointer; transition: all 0.2s;">
+                            <div style="display: flex; align-items: center; justify-content: space-between;">
+                                <div style="display: flex; align-items: center; gap: 1rem;">
+                                    <div
+                                        style="width: 44px; height: 44px; border-radius: 12px; background: #faede6; display: flex; align-items: center; justify-content: center; color: #b45309; flex-shrink: 0;">
+                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <h4 style="font-weight: 700; margin: 0; font-size: 1.05rem; color: #222;">Basic
+                                            Shield</h4>
+                                        <p style="margin: 0; color: #666; font-size: 0.85rem; margin-top: 4px;">
+                                            Essential property protection</p>
+                                    </div>
+                                </div>
+                                <div style="font-weight: 800; font-size: 1.25rem; color: #222;">
+                                    ₹49<span style="font-size: 0.85rem; color: #999; font-weight: 500;">/mo</span>
+                                </div>
+                            </div>
+                            <!-- Accordion Content -->
+                            <div class="plan-details"
+                                style="display: none; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #f0f0f0;">
+                                <ul
+                                    style="margin: 0; padding-left: 1.2rem; font-size: 0.9rem; color: #555; line-height: 1.6;">
+                                    <li>Essential property protection up to ₹50,000</li>
+                                    <li>Standard support during business hours</li>
+                                    <li>Basic deductible applies on all claims</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Mid Guard (Featured) -->
+                        <div class="plan-card" data-price="89" data-plan="mid" onclick="togglePlanDetails(this)"
+                            style="position: relative; display: flex; flex-direction: column; padding: 1.25rem 1.5rem; background: #fff; border-radius: 16px; border: 1px solid #f0f0f0; cursor: pointer; transition: all 0.2s;">
+                            <div
+                                style="position: absolute; top: -14px; left: 24px; background: #f59e0b; color: white; font-size: 0.7rem; font-weight: 700; padding: 4px 12px; border-radius: 20px; display: flex; align-items: center; gap: 4px; letter-spacing: 0.02em;">
+                                <span>★</span> AI PICK
+                            </div>
+                            <div style="display: flex; align-items: center; justify-content: space-between;">
+                                <div style="display: flex; align-items: center; gap: 1rem;">
+                                    <div
+                                        style="width: 44px; height: 44px; border-radius: 12px; background: #faede6; display: flex; align-items: center; justify-content: center; color: #b45309; flex-shrink: 0;">
+                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
+                                            stroke="currentColor" stroke-width="2.5">
+                                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                            <path d="M9 12l2 2 4-4" stroke="currentColor" stroke-width="2.5"
+                                                fill="none"></path>
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <h4 style="font-weight: 700; margin: 0; font-size: 1.05rem; color: #222;">Mid
+                                            Guard</h4>
+                                        <p style="margin: 0; color: #666; font-size: 0.85rem; margin-top: 4px;">Balanced
+                                            protection & weather alerts</p>
+                                    </div>
+                                </div>
+                                <div style="text-align: right;">
+                                    <div style="font-weight: 800; font-size: 1.4rem; color: #222;">
+                                        ₹89<span style="font-size: 0.85rem; color: #999; font-weight: 500;">/mo</span>
+                                    </div>
+                                    <div
+                                        style="font-size: 0.7rem; color: #f59e0b; font-weight: 700; text-transform: uppercase; margin-top: 2px;">
+                                        MOST POPULAR</div>
+                                </div>
+                            </div>
+                            <!-- Accordion Content -->
+                            <div class="plan-details"
+                                style="display: none; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #f0f0f0;">
+                                <ul
+                                    style="margin: 0; padding-left: 1.2rem; font-size: 0.9rem; color: #555; line-height: 1.6;">
+                                    <li>Balanced protection up to ₹100,000</li>
+                                    <li>Intelligent weather alerts & tracking</li>
+                                    <li>24/7 priority customer support</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Pro Armor -->
+                        <div class="plan-card" data-price="149" data-plan="pro" onclick="togglePlanDetails(this)"
+                            style="display: flex; flex-direction: column; padding: 1.25rem 1.5rem; background: #fff; border-radius: 16px; border: 1px solid #f0f0f0; cursor: pointer; transition: all 0.2s;">
+                            <div style="display: flex; align-items: center; justify-content: space-between;">
+                                <div style="display: flex; align-items: center; gap: 1rem;">
+                                    <div
+                                        style="width: 44px; height: 44px; border-radius: 12px; background: #faede6; display: flex; align-items: center; justify-content: center; color: #b45309; flex-shrink: 0;">
+                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                        </svg>
+                                    </div>
+                                    <div>
+                                        <h4 style="font-weight: 700; margin: 0; font-size: 1.05rem; color: #222;">Pro
+                                            Armor</h4>
+                                        <p style="margin: 0; color: #666; font-size: 0.85rem; margin-top: 4px;">Full
+                                            coverage & dedicated agent</p>
+                                    </div>
+                                </div>
+                                <div style="font-weight: 800; font-size: 1.25rem; color: #222;">
+                                    ₹149<span style="font-size: 0.85rem; color: #999; font-weight: 500;">/mo</span>
+                                </div>
+                            </div>
+                            <!-- Accordion Content -->
+                            <div class="plan-details"
+                                style="display: none; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #f0f0f0;">
+                                <ul
+                                    style="margin: 0; padding-left: 1.2rem; font-size: 0.9rem; color: #555; line-height: 1.6;">
+                                    <li>Comprehensive full-value coverage (₹500k+)</li>
+                                    <li>Dedicated personal insurance agent</li>
+                                    <li>Zero deductible on weather-related claims</li>
+                                    <li>Free legal consultation included</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Pay Now Button Container -->
+                        <div id="payNowContainer"
+                            style="display: none; margin-top: 0.5rem; animation: slideDownAlert 0.3s ease-out;">
+                            <button id="payNowBtn"
+                                style="width: 100%; background: linear-gradient(135deg, #ff8a2a, #e85d04); color: white; padding: 1.25rem; border-radius: 12px; border: none; font-weight: 800; font-size: 1.15rem; cursor: pointer; transition: all 0.2s; box-shadow: 0 6px 16px rgba(232, 93, 4, 0.25);"
+                                onmouseover="this.style.boxShadow='0 8px 20px rgba(232, 93, 4, 0.35)'; this.style.transform='translateY(-2px)';"
+                                onmouseout="this.style.boxShadow='0 6px 16px rgba(232, 93, 4, 0.25)'; this.style.transform='none';">
+                                Pay Now - ₹0
+                            </button>
+                        </div>
+                    </div>
+
+                    <script>
+                        function togglePlanDetails(clickedCard) {
+                            const allCards = document.querySelectorAll('.plan-card');
+                            const isActive = clickedCard.classList.contains('active-plan');
+
+                            // Reset all
+                            allCards.forEach(card => {
+                                card.classList.remove('active-plan');
+                                const details = card.querySelector('.plan-details');
+                                if (details) details.style.display = 'none';
+
+                                // Reset borders explicitly mapping off selection
+                                card.style.borderColor = '#f0f0f0';
+                                card.style.boxShadow = 'none';
+                            });
+
+                            const payContainer = document.getElementById('payNowContainer');
+                            const payBtn = document.getElementById('payNowBtn');
+
+                            if (!isActive) {
+                                // Activate clicked
+                                clickedCard.classList.add('active-plan');
+                                const details = clickedCard.querySelector('.plan-details');
+                                if (details) details.style.display = 'block';
+
+                                clickedCard.style.borderColor = '#ff8a2a';
+                                clickedCard.style.boxShadow = '0 4px 12px rgba(255, 138, 42, 0.15)';
+
+                                const price = clickedCard.dataset.price;
+                                payBtn.textContent = `Pay Now - $${price}`;
+                                payContainer.style.display = 'block';
+                            } else {
+                                // Hide pay button if clicking the active card
+                                payContainer.style.display = 'none';
+                            }
+                        }
+                    </script>
+                </div>
+
+                <!-- AI RECOMMENDATION COLUMN -->
+                <div>
+                    <h3 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 1.5rem; color: #1a1a1a;">AI
+                        Recommendation</h3>
+                    <div
+                        style="background: #efe6e1; border-radius: 20px; padding: 2rem; color: #444; display: flex; flex-direction: column; justify-content: flex-start; height: 100%;">
+                        <div>
+                            <div style="margin-bottom: 1.25rem; color: #a45a20;">
+                                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path d="M12 2L13.5 8.5L20 10L13.5 11.5L12 18L10.5 11.5L4 10L10.5 8.5L12 2Z"
+                                        fill="currentColor"></path>
+                                    <path d="M5.5 4.5L6.5 6.5L8.5 7.5L6.5 8.5L5.5 10.5L4.5 8.5L2.5 7.5L4.5 6.5L5.5 4.5Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </div>
+                            <h4 style="font-weight: 800; font-size: 1.15rem; margin-bottom: 1rem; color: #222;">
+                                Personalized Plan Matcher</h4>
+                            <p style="font-size: 0.9rem; line-height: 1.5; color: #555; margin-bottom: 1.5rem;">
+                                Enter your details below. Our heuristic model will combine this with your Home Zone data to find the optimal insurance tier for you.
+                            </p>
+                            
+                            <div style="display: flex; flex-direction: column; gap: 0.8rem; margin-bottom: 1.5rem;">
+                                <input type="number" id="aiIncome" placeholder="Monthly Income (₹)" style="padding: 12px; border-radius: 8px; border: 1px solid #d4c2b4; background: #fff; width: 100%;">
+                                <input type="number" id="aiHours" placeholder="Working Hours / Week" style="padding: 12px; border-radius: 8px; border: 1px solid #d4c2b4; background: #fff; width: 100%;">
+                                <input type="number" id="aiAge" placeholder="Age" style="padding: 12px; border-radius: 8px; border: 1px solid #d4c2b4; background: #fff; width: 100%;">
+                            </div>
+                        </div>
+                        <div style="display: flex; flex-direction: column; gap: 1rem;">
+                            <button id="btnGetAiRec"
+                                style="background: #e88c3a; color: white; padding: 1.1rem; border-radius: 12px; border: none; font-weight: 700; font-size: 1rem; cursor: pointer; transition: background 0.2s;">
+                                Get Recommendation
+                            </button>
+                        </div>
+                        
+                        <!-- Recommendation Result -->
+                        <div id="aiRecResult" style="display: none; margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid #d4c2b4;">
+                            <p id="aiRecText" style="font-size: 0.95rem; font-weight: 600; color: #222; margin-bottom: 1rem;"></p>
+                            <button id="btnAiPurchase"
+                                style="width: 100%; background: #10b981; color: white; padding: 1rem; border-radius: 12px; border: none; font-weight: 700; font-size: 1rem; cursor: pointer;">
+                                Select Plan
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- MAIN CONTENT GRID -->
+            <section class="content-grid" id="contentGrid">
+
+
+
+
+            </section>
+        </div>
+    </div>
+
+    <!-- FLOATING NEW CLAIM BUTTON -->
+    <button class="btn-new-claim" id="btnNewClaim" title="Create a new claim">
+        +
+    </button>
+
+    <!-- FOOTER -->
+    <footer class="dashboard-footer">
+        <p>&copy; 2024 DriverShield mibomba! Solutions. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+            <a href="#">Contact Support</a>
+        </div>
+    </footer>
+
+    <script type="module" src="js/dashboard.js?v=3"></script>
+
+
+</body>
+
+</html>

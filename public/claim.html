@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DriverShield </title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="css/dashboard.css">
+  <link rel="stylesheet" href="css/claim.css">
+  <!-- Lucide icons CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+  <div class="dashboard-wrapper">
+    <!-- LEFT SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="sidebar-logo">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a2a" stroke-width="2.5">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+            <path d="M9 12l2 2 4-4" stroke="#ff8a2a" stroke-width="2.5" fill="none"></path>
+          </svg>
+          <span class="sidebar-logo-text">DriverSheild</span>
+        </div>
+      </div>
+      <nav class="sidebar-nav">
+        <a href="dashboard.html" class="sidebar-nav-item">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+            <polyline points="9 22 9 12 15 12 15 22"></polyline>
+          </svg>
+          <span>Dashboard</span>
+        </a>
+        <a href="profile.html" class="sidebar-nav-item">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+            <circle cx="12" cy="7" r="4"></circle>
+          </svg>
+          <span>Profile</span>
+        </a>
+        <a href="claim.html" class="sidebar-nav-item active">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+            <polyline points="14 2 14 8 20 8"></polyline>
+            <line x1="16" y1="13" x2="8" y2="13"></line>
+            <line x1="16" y1="17" x2="8" y2="17"></line>
+            <polyline points="10 9 9 9 8 9"></polyline>
+          </svg>
+          <span>Claim</span>
+        </a>
+        <a href="working-conditions.html" class="sidebar-nav-item">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12"></path>
+          </svg>
+          <span>Working Conditions</span>
+        </a>
+        <a href="ai-recommendations.html" class="sidebar-nav-item">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M9 11l3 3L22 4"></path>
+            <path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <span>AI Recommendations</span>
+        </a>
+        <a href="history.html" class="sidebar-nav-item">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+            <polyline points="9 22 9 12 15 12 15 22"></polyline>
+          </svg>
+          <span>History</span>
+        </a>
+      </nav>
+    </aside>
+
+    <div class="main-wrapper">
+      <div class="app-container">
+        <header class="header animate-fade-in" style="position: relative;">
+          <button id="btnSignOut"
+            style="position: absolute; right: 20px; top: 10px; padding: 6px 12px; font-size: 0.85rem; background: #fff3e0; color: #ff6a00; border: 1px solid rgba(255, 106, 0, 0.2); border-radius: 8px; font-weight: 700; cursor: pointer; transition: all 0.2s;"
+            onmouseover="this.style.background='#ffedcc'; this.style.borderColor='rgba(255, 106, 0, 0.4)';"
+            onmouseout="this.style.background='#fff3e0'; this.style.borderColor='rgba(255, 106, 0, 0.2)';">Sign
+            Out</button>
+          <h1>Claim Verification Platform</h1>
+          <p>Set Home Zone & Verify Claims Authenticity via Real-Time Intelligence</p>
+        </header>
+
+        <div class="layout-grid">
+
+
+          <section class="glass-panel animate-fade-in" style="padding: 24px; animation-delay: 0.2s;">
+            <h2 style="margin-bottom: 16px; display: flex; align-items: center; gap: 8px;">
+              <i data-lucide="shield-alert" color="var(--accent-primary)"></i>
+              Submit Claim
+            </h2>
+            <form id="claimForm" style="display: flex; flex-direction: column; gap: 16px;">
+              <div>
+                <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">Issue Type</label>
+                <select id="claimType">
+                  <option value="weather">Extreme Weather</option>
+                  <option value="extreme_heat">Extreme Heat</option>
+                  <option value="curfew">Civil Curfew</option>
+                  <option value="strikes">Labor Strikes</option>
+                  <option value="disaster">Natural Disaster</option>
+                </select>
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px;">
+                <div>
+                  <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">State</label>
+                  <select id="selectedState" required>
+                    <option value="" disabled selected>Select State</option>
+                  </select>
+                </div>
+                <div>
+                  <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">City</label>
+                  <select id="selectedCity" disabled required>
+                    <option value="" disabled selected>Select City</option>
+                  </select>
+                </div>
+                <div>
+                  <label style="display: block; margin-bottom: 8px; color: var(--text-muted);">Local Area</label>
+                  <select id="selectedArea" disabled required>
+                    <option value="" disabled selected>Select Area</option>
+                  </select>
+                </div>
+              </div>
+              <button class="btn" type="submit" id="btnSubmitClaim" style="margin-top: 8px;">
+                Verify & Submit Claim
+              </button>
+            </form>
+          </section>
+        </div>
+
+        <div id="resultBox" class="glass-panel result-modal animate-fade-in"
+          style="display: none; margin-top: 30px; padding: 24px; animation-delay: 0.3s;">
+          <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+            <div id="resultIcon"></div>
+            <h3 id="resultTitle" style="margin: 0;"></h3>
+          </div>
+          <p id="resultMessage" style="white-space: pre-line; line-height: 1.6; color: var(--text-muted);"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+
+
+  <!-- Use Type=Module to utilize modern import syntax for firebase-config.js -->
+  <script type="module" src="js/claim.js?v=2"></script>
+
+</body>
+
+</html>

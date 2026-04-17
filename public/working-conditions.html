@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Working Conditions - DriverShield</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+
+<body>
+    <div class="dashboard-wrapper">
+        <!-- LEFT SIDEBAR -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-logo">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a2a" stroke-width="2.5">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        <path d="M9 12l2 2 4-4" stroke="#ff8a2a" stroke-width="2.5" fill="none"></path>
+                    </svg>
+                    <span class="sidebar-logo-text">DriverSheild</span>
+                </div>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="dashboard.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    <span>Dashboard</span>
+                </a>
+                <a href="profile.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                        <circle cx="12" cy="7" r="4"></circle>
+                    </svg>
+                    <span>Profile</span>
+                </a>
+                <a href="claim.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                    <span>Claim</span>
+                </a>
+                <a href="working-conditions.html" class="sidebar-nav-item active">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path
+                            d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12">
+                        </path>
+                    </svg>
+                    <span>Working Conditions</span>
+                </a>
+                <a href="ai-recommendations.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 11l3 3L22 4"></path>
+                        <path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <span>AI Recommendations</span>
+                </a>
+                <a href="history.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    <span>History</span>
+                </a>
+            </nav>
+        </aside>
+
+        <!-- MAIN CONTENT WRAPPER -->
+        <div class="main-wrapper">
+            <!-- HEADER -->
+            <header class="dashboard-header">
+                <div class="header-content">
+                    <h1 class="header-title">Working Conditions</h1>
+                    <p class="header-subtitle">AI 7-Day Forecasting and Disruption Radar</p>
+                </div>
+                <div class="header-right">
+                    <button id="btnSignOut"
+                        style="background: #fff3e0; color: #ff6a00; border: 1px solid rgba(255, 106, 0, 0.2); padding: 8px 16px; border-radius: 12px; font-weight: 700; display: flex; align-items: center; gap: 8px; cursor: pointer; transition: all 0.2s; box-shadow: 0 4px 6px rgba(255, 138, 42, 0.05);"
+                        onmouseover="this.style.background='#ffedcc'; this.style.transform='translateY(-2px)'; this.style.borderColor='rgba(255, 106, 0, 0.4)';"
+                        onmouseout="this.style.background='#fff3e0'; this.style.transform='none'; this.style.borderColor='rgba(255, 106, 0, 0.2)';">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+                            <polyline points="16 17 21 12 16 7"></polyline>
+                            <line x1="21" y1="12" x2="9" y2="12"></line>
+                        </svg>
+                        Sign Out
+                    </button>
+                    <div class="avatar-circle" onclick="window.location.href='profile.html'" style="cursor: pointer;"
+                        title="Go to Profile"></div>
+                </div>
+            </header>
+
+            <main class="main-content">
+                <!-- FORECAST SECTION -->
+                <section class="forecast-section" id="forecastSection"
+                    style="max-width: 1000px; display: block; margin: 0;">
+                    <div class="section-header">
+                        <h3>AI 7-Day Working Conditions Forecast</h3>
+                        <p>Powered by predictive analytics mapping real-time weather and disruptions in your area</p>
+                    </div>
+                    <div id="forecastContainer" class="forecast-container">
+                        <div class="forecast-loading">Loading AI Predictions...</div>
+                    </div>
+                    <div id="newsHighlights" class="news-highlights">
+                        Loading latest disruptions...
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+    <button class="btn-new-claim" id="btnNewClaim" title="Create a new claim">+</button>
+
+
+    <!-- FOOTER -->
+    <footer class="dashboard-footer">
+        <p>&copy; 2024 DriverSheild Insurance Solutions. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+            <a href="#">Contact Support</a>
+        </div>
+    </footer>
+
+    <script type="module" src="js/working-conditions.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Profile - DriverSheild</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+
+<body>
+    <div class="dashboard-wrapper">
+        <!-- LEFT SIDEBAR -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-logo">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff8a2a" stroke-width="2.5">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        <path d="M9 12l2 2 4-4" stroke="#ff8a2a" stroke-width="2.5" fill="none"></path>
+                    </svg>
+                    <span class="sidebar-logo-text">DriverSheild</span>
+                </div>
+            </div>
+            <nav class="sidebar-nav">
+                <a href="dashboard.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    <span>Dashboard</span>
+                </a>
+                <a href="profile.html" class="sidebar-nav-item active">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                        <circle cx="12" cy="7" r="4"></circle>
+                    </svg>
+                    <span>Profile</span>
+                </a>
+                <a href="claim.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                    <span>Claim</span>
+                </a>
+                <a href="working-conditions.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path
+                            d="M9.59 4.59A2 2 0 1 1 11 8H2m10.59 11.41A2 2 0 1 0 14 16H2m15.73-8.27A2.5 2.5 0 1 1 19.5 12">
+                        </path>
+                    </svg>
+                    <span>Working Conditions</span>
+                </a>
+                <a href="ai-recommendations.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 11l3 3L22 4"></path>
+                        <path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <span>AI Recommendations</span>
+                </a>
+                <a href="history.html" class="sidebar-nav-item">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                    </svg>
+                    <span>History</span>
+                </a>
+            </nav>
+        </aside>
+
+        <!-- MAIN CONTENT -->
+        <div class="main-wrapper">
+            <!-- HEADER -->
+            <header class="dashboard-header">
+                <div class="header-content">
+                    <h1 class="header-title">Welcome back</h1>
+                    <p class="header-subtitle">Your insurance dashboard</p>
+                </div>
+                <div class="header-right">
+                    <button id="btnSignOut"
+                        style="background: #fff3e0; color: #ff6a00; border: 1px solid rgba(255, 106, 0, 0.2); padding: 8px 16px; border-radius: 12px; font-weight: 700; display: flex; align-items: center; gap: 8px; cursor: pointer; transition: all 0.2s; box-shadow: 0 4px 6px rgba(255, 138, 42, 0.05);"
+                        onmouseover="this.style.background='#ffedcc'; this.style.transform='translateY(-2px)'; this.style.borderColor='rgba(255, 106, 0, 0.4)';"
+                        onmouseout="this.style.background='#fff3e0'; this.style.transform='none'; this.style.borderColor='rgba(255, 106, 0, 0.2)';">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+                            <polyline points="16 17 21 12 16 7"></polyline>
+                            <line x1="21" y1="12" x2="9" y2="12"></line>
+                        </svg>
+                        Sign Out
+                    </button>
+                    <div class="avatar-circle" onclick="window.location.href='profile.html'" style="cursor: pointer;"
+                        title="Go to Profile"></div>
+                </div>
+            </header>
+
+            <!-- PROFILE FORM SECTION -->
+            <section class="profile-section" style="padding: 24px; max-width: 800px; margin: 0 auto; width: 100%;">
+                <div class="premium-card" style="margin-top: 20px;">
+                    <h3 class="card-title" style="font-size: 1.5rem; margin-bottom: 25px;">Tracked Profile</h3>
+                    <form id="profileForm" style="display: flex; flex-direction: column; gap: 20px;">
+
+                        <div>
+                            <label
+                                style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Full
+                                Name</label>
+                            <input type="text" id="profName" class="form-input"
+                                style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;"
+                                required>
+                        </div>
+
+                        <div>
+                            <label
+                                style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Delivery
+                                Partner Service</label>
+                            <select id="profService" class="form-input"
+                                style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;"
+                                required>
+                                <option value="" disabled selected>Select an option</option>
+                                <option value="Uber">Uber</option>
+                                <option value="Ola">Ola</option>
+                                <option value="Zomato">Zomato</option>
+                                <option value="Swiggy">Swiggy</option>
+                                <option value="Zepto">Zepto</option>
+                                <option value="Dunzo">Dunzo</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+
+                        <div style="display: flex; gap: 20px;">
+                            <div style="flex: 1;">
+                                <label style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Age</label>
+                                <input type="number" id="profAge" class="form-input" style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;" min="18" placeholder="e.g. 25" required>
+                            </div>
+                            <div style="flex: 1;">
+                                <label style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Weekly Working Hours</label>
+                                <input type="number" id="profHours" class="form-input" style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;" min="1" placeholder="e.g. 40" required>
+                            </div>
+                        </div>
+
+                        <div>
+                            <label style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Monthly Income (₹)</label>
+                            <input type="number" id="profMonthlyIncome" class="form-input" style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;" min="0" placeholder="e.g. 35000" required>
+                        </div>
+
+                        <div>
+                            <label style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Daily Income Target (₹)</label>
+                            <input type="number" id="profIncome" class="form-input" style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;" min="0" placeholder="e.g. 1500" required>
+                        </div>
+
+                        <div style="display: flex; gap: 20px;">
+                            <div style="flex: 1;">
+                                <label
+                                    style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Shift
+                                    Start</label>
+                                <input type="time" id="profShiftStart" class="form-input"
+                                    style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;"
+                                    required>
+                            </div>
+                            <div style="flex: 1;">
+                                <label
+                                    style="font-size: 0.85rem; font-weight: 700; color: #666; margin-bottom: 8px; display: block; text-transform: uppercase;">Shift
+                                    End</label>
+                                <input type="time" id="profShiftEnd" class="form-input"
+                                    style="width: 100%; border: 1px solid #ddd; padding: 12px; border-radius: 8px; background: #fafafa; font-family: inherit;"
+                                    required>
+                            </div>
+                        </div>
+
+                        <button type="submit" id="btnSaveProfile"
+                            style="background: #ff8a2a; color: white; border: none; border-radius: 8px; padding: 14px; font-weight: 700; cursor: pointer; transition: all 0.2s; margin-top: 10px; font-size: 1rem;">
+                            Save Profile Settings
+                        </button>
+                    </form>
+                </div>
+
+                <div class="premium-card" style="margin-top: 20px;">
+                    <h3 class="card-title">Your Active Plan</h3>
+                    <p class="card-description"
+                        style="font-size: 24px; font-weight: 700; color: #1a1a1a; margin-top: 5px; margin-bottom: 5px;"
+                        id="lblActivePlan">
+                        Loading...
+                    </p>
+                    <div style="font-size: 14px; color: #10b981; font-weight: 600; margin-bottom: 15px;">
+                        ● Currently PROTECTED
+                    </div>
+                    <button id="btnRenewPlan" class="btn btn-secondary" style="width: 100%">
+                        Renew or Change Plan
+                    </button>
+                </div>
+
+                <div class="premium-card" style="margin-top: 20px;">
+                    <h3 class="card-title">Your Financial Summary</h3>
+                    <div class="financial-grid">
+                        <div class="financial-box">
+                            <div class="financial-label">TOTAL DEPOSITED</div>
+                            <div class="financial-value" id="userTotalDeposits">₹0</div>
+                        </div>
+                        <div class="financial-box">
+                            <div class="financial-label">TOTAL PAYOUTS</div>
+                            <div class="financial-value" id="userTotalPayouts">₹0</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+        </div>
+    </div>
+
+    <!-- FLOATING NEW CLAIM BUTTON -->
+    <button class="btn-new-claim" id="btnNewClaim" title="Create a new claim">+</button>
+
+
+    <!-- FOOTER -->
+    <footer class="dashboard-footer">
+        <p>&copy; 2024 DriverSheild Insurance Solutions. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms of Service</a>
+            <a href="#">Contact Support</a>
+        </div>
+    </footer>
+
+    <script type="module" src="js/profile.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Worker Registration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #1976d2;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        button:hover {
+            background: #1565c0;
+        }
+        .error {
+            color: red;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>📝 Worker Registration</h2>
+        
+        <input type="text" id="name" placeholder="Full Name" value="Raj Kumar">
+        <input type="text" id="workerId" placeholder="Worker ID" value="DEL-123">
+        
+        <select id="city">
+            <option value="Mumbai">Mumbai</option>
+            <option value="Delhi">Delhi</option>
+            <option value="Bangalore">Bangalore</option>
+            <option value="Chennai">Chennai</option>
+            <option value="Kolkata">Kolkata</option>
+            <option value="Vadodara">Vadodara</option>
+            <option value="Pune">Pune</option>
+            <option value="Hyderabad">Hyderabad</option>
+        </select>
+        
+        <input type="number" id="income" placeholder="Daily Income (₹)" value="800">
+        
+        <button onclick="register()">Register & View Risk Score</button>
+    </div>
+
+    <script>
+        function register() {
+            // Get values
+            const worker = {
+                name: document.getElementById('name').value,
+                workerId: document.getElementById('workerId').value,
+                city: document.getElementById('city').value,
+                income: document.getElementById('income').value
+            };
+            
+            // Save to localStorage
+            localStorage.setItem('worker', JSON.stringify(worker));
+            
+            // Go to risk page
+            window.location.href = '/risk';
+        }
+    </script>
+</body>
+</html>

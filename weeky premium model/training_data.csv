@@ -1,0 +1,1921 @@
+state,city,area,weekly_income,working_hours_per_day,orders_per_day,shift_timing,rainfall_intensity,temperature_trend,disruption_frequency,location_risk_score,income_per_hour,activity_level,shift_risk,risk_score
+Gujarat,Vadodara,Alkapuri,9775,6,14,afternoon,0.38,0.72,0.3,0.458,232.74,2.33,0.3,0.45
+Gujarat,Vadodara,Alkapuri,7982,7,9,afternoon,0.38,0.72,0.3,0.458,162.9,1.29,0.3,0.429
+Gujarat,Vadodara,Alkapuri,4263,10,30,morning,0.38,0.72,0.3,0.458,60.9,3.0,0.2,0.458
+Gujarat,Vadodara,Alkapuri,7836,11,14,afternoon,0.38,0.72,0.3,0.458,101.77,1.27,0.3,0.428
+Gujarat,Vadodara,Alkapuri,9248,11,32,morning,0.38,0.72,0.3,0.458,120.1,2.91,0.2,0.456
+Gujarat,Vadodara,Alkapuri,3156,11,25,night,0.38,0.72,0.3,0.458,40.99,2.27,0.7,0.468
+Gujarat,Vadodara,Alkapuri,4051,5,31,afternoon,0.38,0.72,0.3,0.458,115.74,6.2,0.3,0.503
+Gujarat,Vadodara,Alkapuri,7328,4,17,evening,0.38,0.72,0.3,0.458,261.71,4.25,0.6,0.503
+Gujarat,Vadodara,Alkapuri,7204,12,25,afternoon,0.38,0.72,0.3,0.458,85.76,2.08,0.3,0.445
+Gujarat,Vadodara,Alkapuri,6191,12,14,afternoon,0.38,0.72,0.3,0.458,73.7,1.17,0.3,0.426
+Gujarat,Vadodara,Alkapuri,6401,12,8,night,0.38,0.72,0.3,0.458,76.2,0.67,0.7,0.436
+Gujarat,Vadodara,Alkapuri,5201,4,21,evening,0.38,0.72,0.3,0.458,185.75,5.25,0.6,0.518
+Gujarat,Vadodara,Alkapuri,8744,11,29,evening,0.38,0.72,0.3,0.458,113.56,2.64,0.6,0.471
+Gujarat,Vadodara,Alkapuri,9373,9,16,afternoon,0.38,0.72,0.3,0.458,148.78,1.78,0.3,0.439
+Gujarat,Vadodara,Alkapuri,7371,12,25,afternoon,0.38,0.72,0.3,0.458,87.75,2.08,0.3,0.445
+Gujarat,Vadodara,Alkapuri,3291,12,22,morning,0.38,0.72,0.3,0.458,39.18,1.83,0.2,0.435
+Gujarat,Vadodara,Alkapuri,3501,11,16,morning,0.38,0.72,0.3,0.458,45.47,1.45,0.2,0.427
+Gujarat,Vadodara,Alkapuri,3870,11,33,evening,0.38,0.72,0.3,0.458,50.26,3.0,0.6,0.478
+Gujarat,Vadodara,Alkapuri,7196,8,13,morning,0.38,0.72,0.3,0.458,128.5,1.62,0.2,0.43
+Gujarat,Vadodara,Alkapuri,8904,7,8,afternoon,0.38,0.72,0.3,0.458,181.71,1.14,0.3,0.426
+Gujarat,Vadodara,Alkapuri,5634,12,35,afternoon,0.38,0.72,0.3,0.458,67.07,2.92,0.3,0.461
+Gujarat,Vadodara,Alkapuri,9228,4,14,night,0.38,0.72,0.3,0.458,329.57,3.5,0.7,0.493
+Gujarat,Vadodara,Alkapuri,9359,8,8,evening,0.38,0.72,0.3,0.458,167.12,1.0,0.6,0.438
+Gujarat,Vadodara,Alkapuri,6652,10,15,morning,0.38,0.72,0.3,0.458,95.03,1.5,0.2,0.428
+Gujarat,Vadodara,Alkapuri,7447,9,17,afternoon,0.38,0.72,0.3,0.458,118.21,1.89,0.3,0.441
+Gujarat,Vadodara,Alkapuri,9615,9,23,morning,0.38,0.72,0.3,0.458,152.62,2.56,0.2,0.449
+Gujarat,Vadodara,Alkapuri,4327,7,24,afternoon,0.38,0.72,0.3,0.458,88.31,3.43,0.3,0.472
+Gujarat,Vadodara,Alkapuri,4782,6,16,morning,0.38,0.72,0.3,0.458,113.86,2.67,0.2,0.451
+Gujarat,Vadodara,Alkapuri,8835,9,11,afternoon,0.38,0.72,0.3,0.458,140.24,1.22,0.3,0.427
+Gujarat,Vadodara,Alkapuri,4893,4,23,evening,0.38,0.72,0.3,0.458,174.75,5.75,0.6,0.518
+Gujarat,Vadodara,Alkapuri,4975,4,28,morning,0.38,0.72,0.3,0.458,177.68,7.0,0.2,0.498
+Gujarat,Vadodara,Alkapuri,5462,9,9,morning,0.38,0.72,0.3,0.458,86.7,1.0,0.2,0.418
+Gujarat,Vadodara,Alkapuri,8654,4,14,night,0.38,0.72,0.3,0.458,309.07,3.5,0.7,0.493
+Gujarat,Vadodara,Alkapuri,5006,5,24,morning,0.38,0.72,0.3,0.458,143.03,4.8,0.2,0.494
+Gujarat,Vadodara,Alkapuri,5559,5,34,evening,0.38,0.72,0.3,0.458,158.83,6.8,0.6,0.518
+Gujarat,Vadodara,Alkapuri,8536,6,32,night,0.38,0.72,0.3,0.458,203.24,5.33,0.7,0.523
+Gujarat,Vadodara,Alkapuri,6080,8,28,afternoon,0.38,0.72,0.3,0.458,108.57,3.5,0.3,0.473
+Gujarat,Vadodara,Alkapuri,8600,12,29,night,0.38,0.72,0.3,0.458,102.38,2.42,0.7,0.471
+Gujarat,Vadodara,Alkapuri,3605,12,18,morning,0.38,0.72,0.3,0.458,42.92,1.5,0.2,0.428
+Gujarat,Vadodara,Alkapuri,9067,7,29,evening,0.38,0.72,0.3,0.458,185.04,4.14,0.6,0.501
+Gujarat,Vadodara,Alkapuri,7976,4,13,night,0.38,0.72,0.3,0.458,284.86,3.25,0.7,0.488
+Gujarat,Vadodara,Alkapuri,5615,4,27,evening,0.38,0.72,0.3,0.458,200.54,6.75,0.6,0.518
+Gujarat,Vadodara,Alkapuri,9892,11,12,morning,0.38,0.72,0.3,0.458,128.47,1.09,0.2,0.42
+Gujarat,Vadodara,Alkapuri,3729,7,19,afternoon,0.38,0.72,0.3,0.458,76.1,2.71,0.3,0.457
+Gujarat,Vadodara,Alkapuri,3291,9,25,evening,0.38,0.72,0.3,0.458,52.24,2.78,0.6,0.474
+Gujarat,Vadodara,Alkapuri,9111,10,17,afternoon,0.38,0.72,0.3,0.458,130.16,1.7,0.3,0.437
+Gujarat,Vadodara,Alkapuri,8061,8,26,afternoon,0.38,0.72,0.3,0.458,143.95,3.25,0.3,0.468
+Gujarat,Vadodara,Alkapuri,8447,8,21,night,0.38,0.72,0.3,0.458,150.84,2.62,0.7,0.475
+Gujarat,Vadodara,Alkapuri,9965,7,34,morning,0.38,0.72,0.3,0.458,203.37,4.86,0.2,0.495
+Gujarat,Vadodara,Alkapuri,7210,8,21,morning,0.38,0.72,0.3,0.458,128.75,2.62,0.2,0.45
+Gujarat,Vadodara,Alkapuri,5493,11,26,evening,0.38,0.72,0.3,0.458,71.34,2.36,0.6,0.465
+Gujarat,Vadodara,Alkapuri,8663,5,13,morning,0.38,0.72,0.3,0.458,247.51,2.6,0.2,0.45
+Gujarat,Vadodara,Alkapuri,4817,4,13,morning,0.38,0.72,0.3,0.458,172.04,3.25,0.2,0.463
+Gujarat,Vadodara,Alkapuri,4851,4,8,evening,0.38,0.72,0.3,0.458,173.25,2.0,0.6,0.458
+Gujarat,Vadodara,Alkapuri,5035,4,11,night,0.38,0.72,0.3,0.458,179.82,2.75,0.7,0.478
+Gujarat,Vadodara,Alkapuri,8555,5,18,evening,0.38,0.72,0.3,0.458,244.43,3.6,0.6,0.49
+Gujarat,Vadodara,Alkapuri,5677,5,14,night,0.38,0.72,0.3,0.458,162.2,2.8,0.7,0.479
+Gujarat,Vadodara,Alkapuri,8641,4,11,morning,0.38,0.72,0.3,0.458,308.61,2.75,0.2,0.453
+Gujarat,Vadodara,Alkapuri,8113,12,33,evening,0.38,0.72,0.3,0.458,96.58,2.75,0.6,0.473
+Gujarat,Vadodara,Alkapuri,4050,9,31,morning,0.38,0.72,0.3,0.458,64.29,3.44,0.2,0.467
+Gujarat,Vadodara,Alkapuri,5818,10,16,afternoon,0.38,0.72,0.3,0.458,83.11,1.6,0.3,0.435
+Gujarat,Vadodara,Alkapuri,3020,11,28,morning,0.38,0.72,0.3,0.458,39.22,2.55,0.2,0.449
+Gujarat,Vadodara,Alkapuri,8781,11,29,afternoon,0.38,0.72,0.3,0.458,114.04,2.64,0.3,0.456
+Gujarat,Vadodara,Alkapuri,5359,7,16,afternoon,0.38,0.72,0.3,0.458,109.37,2.29,0.3,0.449
+Gujarat,Vadodara,Alkapuri,3587,7,13,morning,0.38,0.72,0.3,0.458,73.2,1.86,0.2,0.435
+Gujarat,Vadodara,Alkapuri,5285,7,28,evening,0.38,0.72,0.3,0.458,107.86,4.0,0.6,0.498
+Gujarat,Vadodara,Alkapuri,7621,4,13,night,0.38,0.72,0.3,0.458,272.18,3.25,0.7,0.488
+Gujarat,Vadodara,Alkapuri,7799,9,31,night,0.38,0.72,0.3,0.458,123.79,3.44,0.7,0.492
+Gujarat,Vadodara,Alkapuri,8341,6,26,evening,0.38,0.72,0.3,0.458,198.6,4.33,0.6,0.505
+Gujarat,Vadodara,Alkapuri,5595,6,28,afternoon,0.38,0.72,0.3,0.458,133.21,4.67,0.3,0.496
+Gujarat,Vadodara,Alkapuri,7019,11,10,afternoon,0.38,0.72,0.3,0.458,91.16,0.91,0.3,0.421
+Gujarat,Vadodara,Alkapuri,8307,12,23,morning,0.38,0.72,0.3,0.458,98.89,1.92,0.2,0.436
+Gujarat,Vadodara,Alkapuri,8881,4,19,evening,0.38,0.72,0.3,0.458,317.18,4.75,0.6,0.513
+Gujarat,Vadodara,Alkapuri,8789,4,25,night,0.38,0.72,0.3,0.458,313.89,6.25,0.7,0.523
+Gujarat,Vadodara,Alkapuri,5775,11,19,morning,0.38,0.72,0.3,0.458,75.0,1.73,0.2,0.433
+Gujarat,Vadodara,Alkapuri,3721,11,24,night,0.38,0.72,0.3,0.458,48.32,2.18,0.7,0.467
+Gujarat,Vadodara,Alkapuri,7656,9,13,morning,0.38,0.72,0.3,0.458,121.52,1.44,0.2,0.427
+Gujarat,Vadodara,Alkapuri,8226,6,23,morning,0.38,0.72,0.3,0.458,195.86,3.83,0.2,0.475
+Gujarat,Vadodara,Alkapuri,4476,11,32,afternoon,0.38,0.72,0.3,0.458,58.13,2.91,0.3,0.461
+Gujarat,Vadodara,Alkapuri,9189,6,34,afternoon,0.38,0.72,0.3,0.458,218.79,5.67,0.3,0.503
+Gujarat,Vadodara,Station Road,6204,7,34,afternoon,0.45,0.7,0.42,0.516,126.61,4.86,0.3,0.55
+Gujarat,Vadodara,Station Road,5299,11,20,afternoon,0.45,0.7,0.42,0.516,68.82,1.82,0.3,0.489
+Gujarat,Vadodara,Station Road,9991,6,8,afternoon,0.45,0.7,0.42,0.516,237.88,1.33,0.3,0.479
+Gujarat,Vadodara,Station Road,9359,8,20,afternoon,0.45,0.7,0.42,0.516,167.12,2.5,0.3,0.502
+Gujarat,Vadodara,Station Road,3572,5,13,morning,0.45,0.7,0.42,0.516,102.06,2.6,0.2,0.499
+Gujarat,Vadodara,Station Road,5326,8,21,night,0.45,0.7,0.42,0.516,95.11,2.62,0.7,0.525
+Gujarat,Vadodara,Station Road,3548,7,10,afternoon,0.45,0.7,0.42,0.516,72.41,1.43,0.3,0.481
+Gujarat,Vadodara,Station Road,6312,6,15,evening,0.45,0.7,0.42,0.516,150.29,2.5,0.6,0.517
+Gujarat,Vadodara,Station Road,6781,12,16,morning,0.45,0.7,0.42,0.516,80.73,1.33,0.2,0.474
+Gujarat,Vadodara,Station Road,5682,7,33,night,0.45,0.7,0.42,0.516,115.96,4.71,0.7,0.567
+Gujarat,Vadodara,Station Road,7318,12,17,afternoon,0.45,0.7,0.42,0.516,87.12,1.42,0.3,0.481
+Gujarat,Vadodara,Station Road,4427,8,17,night,0.45,0.7,0.42,0.516,79.05,2.12,0.7,0.515
+Gujarat,Vadodara,Station Road,3504,10,25,morning,0.45,0.7,0.42,0.516,50.06,2.5,0.2,0.497
+Gujarat,Vadodara,Station Road,4928,7,24,night,0.45,0.7,0.42,0.516,100.57,3.43,0.7,0.541
+Gujarat,Vadodara,Station Road,3962,11,23,afternoon,0.45,0.7,0.42,0.516,51.45,2.09,0.3,0.494
+Gujarat,Vadodara,Station Road,8075,10,23,afternoon,0.45,0.7,0.42,0.516,115.36,2.3,0.3,0.498
+Gujarat,Vadodara,Station Road,7397,6,14,morning,0.45,0.7,0.42,0.516,176.12,2.33,0.2,0.494
+Gujarat,Vadodara,Station Road,4880,11,15,afternoon,0.45,0.7,0.42,0.516,63.38,1.36,0.3,0.48
+Gujarat,Vadodara,Station Road,3266,9,13,afternoon,0.45,0.7,0.42,0.516,51.84,1.44,0.3,0.481
+Gujarat,Vadodara,Station Road,9132,12,18,afternoon,0.45,0.7,0.42,0.516,108.71,1.5,0.3,0.483
+Gujarat,Vadodara,Station Road,9640,7,19,afternoon,0.45,0.7,0.42,0.516,196.73,2.71,0.3,0.507
+Gujarat,Vadodara,Station Road,6132,10,13,night,0.45,0.7,0.42,0.516,87.6,1.3,0.7,0.498
+Gujarat,Vadodara,Station Road,4924,12,9,evening,0.45,0.7,0.42,0.516,58.62,0.75,0.6,0.483
+Gujarat,Vadodara,Station Road,6184,9,21,morning,0.45,0.7,0.42,0.516,98.16,2.33,0.2,0.494
+Gujarat,Vadodara,Station Road,5976,12,23,evening,0.45,0.7,0.42,0.516,71.14,1.92,0.6,0.506
+Gujarat,Vadodara,Station Road,4354,9,30,afternoon,0.45,0.7,0.42,0.516,69.11,3.33,0.3,0.519
+Gujarat,Vadodara,Station Road,7894,11,15,morning,0.45,0.7,0.42,0.516,102.52,1.36,0.2,0.475
+Gujarat,Vadodara,Station Road,9430,5,19,night,0.45,0.7,0.42,0.516,269.43,3.8,0.7,0.549
+Gujarat,Vadodara,Station Road,4672,8,27,morning,0.45,0.7,0.42,0.516,83.43,3.38,0.2,0.515
+Gujarat,Vadodara,Station Road,9185,11,33,morning,0.45,0.7,0.42,0.516,119.29,3.0,0.2,0.507
+Gujarat,Vadodara,Station Road,7222,12,29,evening,0.45,0.7,0.42,0.516,85.98,2.42,0.6,0.516
+Gujarat,Vadodara,Station Road,5082,5,15,morning,0.45,0.7,0.42,0.516,145.2,3.0,0.2,0.507
+Gujarat,Vadodara,Station Road,5127,9,25,night,0.45,0.7,0.42,0.516,81.38,2.78,0.7,0.528
+Gujarat,Vadodara,Station Road,6899,4,30,night,0.45,0.7,0.42,0.516,246.39,7.5,0.7,0.573
+Gujarat,Vadodara,Station Road,7043,11,20,evening,0.45,0.7,0.42,0.516,91.47,1.82,0.6,0.504
+Gujarat,Vadodara,Station Road,4189,11,27,night,0.45,0.7,0.42,0.516,54.4,2.45,0.7,0.521
+Gujarat,Vadodara,Station Road,6920,6,24,night,0.45,0.7,0.42,0.516,164.76,4.0,0.7,0.553
+Gujarat,Vadodara,Station Road,4894,8,14,afternoon,0.45,0.7,0.42,0.516,87.39,1.75,0.3,0.487
+Gujarat,Vadodara,Station Road,5708,8,9,morning,0.45,0.7,0.42,0.516,101.93,1.12,0.2,0.47
+Gujarat,Vadodara,Station Road,6035,11,33,morning,0.45,0.7,0.42,0.516,78.38,3.0,0.2,0.507
+Gujarat,Vadodara,Station Road,3572,12,24,morning,0.45,0.7,0.42,0.516,42.52,2.0,0.2,0.488
+Gujarat,Vadodara,Station Road,9450,5,9,night,0.45,0.7,0.42,0.516,270.0,1.8,0.7,0.508
+Gujarat,Vadodara,Station Road,3485,12,24,evening,0.45,0.7,0.42,0.516,41.49,2.0,0.6,0.508
+Gujarat,Vadodara,Station Road,6955,4,15,morning,0.45,0.7,0.42,0.516,248.39,3.75,0.2,0.522
+Gujarat,Vadodara,Station Road,6130,9,29,night,0.45,0.7,0.42,0.516,97.3,3.22,0.7,0.537
+Gujarat,Vadodara,Station Road,5679,4,32,afternoon,0.45,0.7,0.42,0.516,202.82,8.0,0.3,0.552
+Gujarat,Vadodara,Station Road,4779,11,10,night,0.45,0.7,0.42,0.516,62.06,0.91,0.7,0.491
+Gujarat,Vadodara,Station Road,9278,4,23,morning,0.45,0.7,0.42,0.516,331.36,5.75,0.2,0.547
+Gujarat,Vadodara,Station Road,5434,6,25,morning,0.45,0.7,0.42,0.516,129.38,4.17,0.2,0.531
+Gujarat,Vadodara,Station Road,7446,11,34,morning,0.45,0.7,0.42,0.516,96.7,3.09,0.2,0.509
+Gujarat,Vadodara,Station Road,7238,5,24,morning,0.45,0.7,0.42,0.516,206.8,4.8,0.2,0.543
+Gujarat,Vadodara,Station Road,8957,6,25,afternoon,0.45,0.7,0.42,0.516,213.26,4.17,0.3,0.536
+Gujarat,Vadodara,Station Road,8463,4,25,afternoon,0.45,0.7,0.42,0.516,302.25,6.25,0.3,0.552
+Gujarat,Vadodara,Station Road,5346,7,21,night,0.45,0.7,0.42,0.516,109.1,3.0,0.7,0.532
+Gujarat,Vadodara,Station Road,7458,10,19,afternoon,0.45,0.7,0.42,0.516,106.54,1.9,0.3,0.491
+Gujarat,Vadodara,Station Road,7697,10,12,evening,0.45,0.7,0.42,0.516,109.96,1.2,0.6,0.492
+Gujarat,Vadodara,Station Road,7509,7,18,afternoon,0.45,0.7,0.42,0.516,153.24,2.57,0.3,0.504
+Gujarat,Vadodara,Station Road,4772,10,30,afternoon,0.45,0.7,0.42,0.516,68.17,3.0,0.3,0.512
+Gujarat,Vadodara,Station Road,4822,8,17,night,0.45,0.7,0.42,0.516,86.11,2.12,0.7,0.515
+Gujarat,Vadodara,Station Road,7958,7,27,morning,0.45,0.7,0.42,0.516,162.41,3.86,0.2,0.525
+Gujarat,Vadodara,Station Road,7613,10,26,evening,0.45,0.7,0.42,0.516,108.76,2.6,0.6,0.519
+Gujarat,Vadodara,Station Road,3758,11,26,afternoon,0.45,0.7,0.42,0.516,48.81,2.36,0.3,0.5
+Gujarat,Vadodara,Station Road,4442,5,8,afternoon,0.45,0.7,0.42,0.516,126.91,1.6,0.3,0.485
+Gujarat,Vadodara,Station Road,8523,11,9,afternoon,0.45,0.7,0.42,0.516,110.69,0.82,0.3,0.469
+Gujarat,Vadodara,Station Road,4825,8,16,morning,0.45,0.7,0.42,0.516,86.16,2.0,0.2,0.488
+Gujarat,Vadodara,Station Road,6964,6,28,night,0.45,0.7,0.42,0.516,165.81,4.67,0.7,0.566
+Gujarat,Vadodara,Station Road,4806,9,25,evening,0.45,0.7,0.42,0.516,76.29,2.78,0.6,0.523
+Gujarat,Vadodara,Station Road,3854,12,16,morning,0.45,0.7,0.42,0.516,45.88,1.33,0.2,0.474
+Gujarat,Vadodara,Station Road,6357,11,25,afternoon,0.45,0.7,0.42,0.516,82.56,2.27,0.3,0.498
+Gujarat,Vadodara,Station Road,4110,11,24,evening,0.45,0.7,0.42,0.516,53.38,2.18,0.6,0.511
+Gujarat,Vadodara,Station Road,7632,9,29,afternoon,0.45,0.7,0.42,0.516,121.14,3.22,0.3,0.517
+Gujarat,Vadodara,Station Road,8978,11,30,night,0.45,0.7,0.42,0.516,116.6,2.73,0.7,0.527
+Gujarat,Vadodara,Station Road,8085,10,20,night,0.45,0.7,0.42,0.516,115.5,2.0,0.7,0.513
+Gujarat,Vadodara,Station Road,7729,8,20,evening,0.45,0.7,0.42,0.516,138.02,2.5,0.6,0.517
+Gujarat,Vadodara,Station Road,3334,6,31,morning,0.45,0.7,0.42,0.516,79.38,5.17,0.2,0.547
+Gujarat,Vadodara,Station Road,5966,7,18,afternoon,0.45,0.7,0.42,0.516,121.76,2.57,0.3,0.504
+Gujarat,Vadodara,Station Road,9495,9,28,evening,0.45,0.7,0.42,0.516,150.71,3.11,0.6,0.53
+Gujarat,Vadodara,Station Road,5743,7,10,night,0.45,0.7,0.42,0.516,117.2,1.43,0.7,0.501
+Gujarat,Vadodara,Station Road,5662,5,21,morning,0.45,0.7,0.42,0.516,161.77,4.2,0.2,0.532
+Gujarat,Vadodara,Station Road,4846,9,17,afternoon,0.45,0.7,0.42,0.516,76.92,1.89,0.3,0.49
+Gujarat,Vadodara,Waghodia,3880,4,17,night,0.36,0.74,0.34,0.468,138.57,4.25,0.7,0.516
+Gujarat,Vadodara,Waghodia,9321,6,29,morning,0.36,0.74,0.34,0.468,221.93,4.83,0.2,0.503
+Gujarat,Vadodara,Waghodia,6525,4,9,morning,0.36,0.74,0.34,0.468,233.04,2.25,0.2,0.451
+Gujarat,Vadodara,Waghodia,3556,10,31,night,0.36,0.74,0.34,0.468,50.8,3.1,0.7,0.493
+Gujarat,Vadodara,Waghodia,8309,9,18,morning,0.36,0.74,0.34,0.468,131.89,2.0,0.2,0.446
+Gujarat,Vadodara,Waghodia,7727,7,17,evening,0.36,0.74,0.34,0.468,157.69,2.43,0.6,0.475
+Gujarat,Vadodara,Waghodia,7595,8,9,morning,0.36,0.74,0.34,0.468,135.62,1.12,0.2,0.428
+Gujarat,Vadodara,Waghodia,7766,10,35,evening,0.36,0.74,0.34,0.468,110.94,3.5,0.6,0.496
+Gujarat,Vadodara,Waghodia,6206,8,17,afternoon,0.36,0.74,0.34,0.468,110.82,2.12,0.3,0.453
+Gujarat,Vadodara,Waghodia,3355,5,12,evening,0.36,0.74,0.34,0.468,95.86,2.4,0.6,0.474
+Gujarat,Vadodara,Waghodia,7394,9,30,evening,0.36,0.74,0.34,0.468,117.37,3.33,0.6,0.493
+Gujarat,Vadodara,Waghodia,7944,11,25,afternoon,0.36,0.74,0.34,0.468,103.17,2.27,0.3,0.456
+Gujarat,Vadodara,Waghodia,9480,9,22,morning,0.36,0.74,0.34,0.468,150.48,2.44,0.2,0.455
+Gujarat,Vadodara,Waghodia,5436,7,21,evening,0.36,0.74,0.34,0.468,110.94,3.0,0.6,0.486
+Gujarat,Vadodara,Waghodia,6106,10,12,night,0.36,0.74,0.34,0.468,87.23,1.2,0.7,0.455
+Gujarat,Vadodara,Waghodia,9488,7,23,morning,0.36,0.74,0.34,0.468,193.63,3.29,0.2,0.472
+Gujarat,Vadodara,Waghodia,5193,11,30,night,0.36,0.74,0.34,0.468,67.44,2.73,0.7,0.486
+Gujarat,Vadodara,Waghodia,9435,11,18,morning,0.36,0.74,0.34,0.468,122.53,1.64,0.2,0.439
+Gujarat,Vadodara,Waghodia,3232,10,34,evening,0.36,0.74,0.34,0.468,46.17,3.4,0.6,0.494
+Gujarat,Vadodara,Waghodia,3338,12,13,night,0.36,0.74,0.34,0.468,39.74,1.08,0.7,0.453
+Gujarat,Vadodara,Waghodia,9274,10,10,afternoon,0.36,0.74,0.34,0.468,132.49,1.0,0.3,0.431
+Gujarat,Vadodara,Waghodia,8924,10,32,evening,0.36,0.74,0.34,0.468,127.49,3.2,0.6,0.49
+Gujarat,Vadodara,Waghodia,8694,7,26,morning,0.36,0.74,0.34,0.468,177.43,3.71,0.2,0.48
+Gujarat,Vadodara,Waghodia,4205,6,14,morning,0.36,0.74,0.34,0.468,100.12,2.33,0.2,0.453
+Gujarat,Vadodara,Waghodia,4527,8,30,morning,0.36,0.74,0.34,0.468,80.84,3.75,0.2,0.481
+Gujarat,Vadodara,Waghodia,7729,12,22,evening,0.36,0.74,0.34,0.468,92.01,1.83,0.6,0.463
+Gujarat,Vadodara,Waghodia,3149,9,8,afternoon,0.36,0.74,0.34,0.468,49.98,0.89,0.3,0.429
+Gujarat,Vadodara,Waghodia,5515,8,30,afternoon,0.36,0.74,0.34,0.468,98.48,3.75,0.3,0.486
+Gujarat,Vadodara,Waghodia,6603,11,30,afternoon,0.36,0.74,0.34,0.468,85.75,2.73,0.3,0.466
+Gujarat,Vadodara,Waghodia,4175,4,10,afternoon,0.36,0.74,0.34,0.468,149.11,2.5,0.3,0.461
+Gujarat,Vadodara,Waghodia,9706,4,11,morning,0.36,0.74,0.34,0.468,346.64,2.75,0.2,0.461
+Gujarat,Vadodara,Waghodia,3620,10,12,night,0.36,0.74,0.34,0.468,51.71,1.2,0.7,0.455
+Gujarat,Vadodara,Waghodia,7411,12,25,morning,0.36,0.74,0.34,0.468,88.23,2.08,0.2,0.448
+Gujarat,Vadodara,Waghodia,5030,11,24,evening,0.36,0.74,0.34,0.468,65.32,2.18,0.6,0.47
+Gujarat,Vadodara,Waghodia,7282,5,33,evening,0.36,0.74,0.34,0.468,208.06,6.6,0.6,0.526
+Gujarat,Vadodara,Waghodia,4403,11,9,afternoon,0.36,0.74,0.34,0.468,57.18,0.82,0.3,0.427
+Gujarat,Vadodara,Waghodia,9428,10,8,afternoon,0.36,0.74,0.34,0.468,134.69,0.8,0.3,0.427
+Gujarat,Vadodara,Waghodia,9162,4,33,night,0.36,0.74,0.34,0.468,327.21,8.25,0.7,0.531
+Gujarat,Vadodara,Waghodia,6849,4,17,evening,0.36,0.74,0.34,0.468,244.61,4.25,0.6,0.511
+Gujarat,Vadodara,Waghodia,7755,10,10,evening,0.36,0.74,0.34,0.468,110.79,1.0,0.6,0.446
+Gujarat,Vadodara,Waghodia,7548,6,12,evening,0.36,0.74,0.34,0.468,179.71,2.0,0.6,0.466
+Gujarat,Vadodara,Waghodia,6380,4,11,afternoon,0.36,0.74,0.34,0.468,227.86,2.75,0.3,0.466
+Gujarat,Vadodara,Waghodia,6352,4,34,morning,0.36,0.74,0.34,0.468,226.86,8.5,0.2,0.506
+Gujarat,Vadodara,Waghodia,3842,5,33,afternoon,0.36,0.74,0.34,0.468,109.77,6.6,0.3,0.511
+Gujarat,Vadodara,Waghodia,7092,9,22,afternoon,0.36,0.74,0.34,0.468,112.57,2.44,0.3,0.46
+Gujarat,Vadodara,Waghodia,5802,5,31,afternoon,0.36,0.74,0.34,0.468,165.77,6.2,0.3,0.511
+Gujarat,Vadodara,Waghodia,5960,10,20,night,0.36,0.74,0.34,0.468,85.14,2.0,0.7,0.471
+Gujarat,Vadodara,Waghodia,4983,7,15,morning,0.36,0.74,0.34,0.468,101.69,2.14,0.2,0.449
+Gujarat,Vadodara,Waghodia,8867,5,21,evening,0.36,0.74,0.34,0.468,253.34,4.2,0.6,0.51
+Gujarat,Vadodara,Waghodia,6090,5,29,morning,0.36,0.74,0.34,0.468,174.0,5.8,0.2,0.506
+Gujarat,Vadodara,Waghodia,8612,4,16,afternoon,0.36,0.74,0.34,0.468,307.57,4.0,0.3,0.491
+Gujarat,Vadodara,Waghodia,9397,11,27,morning,0.36,0.74,0.34,0.468,122.04,2.45,0.2,0.455
+Gujarat,Vadodara,Waghodia,7366,6,19,night,0.36,0.74,0.34,0.468,175.38,3.17,0.7,0.494
+Gujarat,Vadodara,Waghodia,9491,4,21,evening,0.36,0.74,0.34,0.468,338.96,5.25,0.6,0.526
+Gujarat,Vadodara,Waghodia,6342,12,12,morning,0.36,0.74,0.34,0.468,75.5,1.0,0.2,0.426
+Gujarat,Vadodara,Waghodia,6649,8,13,afternoon,0.36,0.74,0.34,0.468,118.73,1.62,0.3,0.443
+Gujarat,Vadodara,Waghodia,7826,12,11,evening,0.36,0.74,0.34,0.468,93.17,0.92,0.6,0.444
+Gujarat,Vadodara,Waghodia,4824,6,15,evening,0.36,0.74,0.34,0.468,114.86,2.5,0.6,0.476
+Gujarat,Vadodara,Waghodia,8021,6,25,afternoon,0.36,0.74,0.34,0.468,190.98,4.17,0.3,0.494
+Gujarat,Vadodara,Waghodia,8855,4,9,night,0.36,0.74,0.34,0.468,316.25,2.25,0.7,0.476
+Gujarat,Vadodara,Waghodia,3792,8,19,afternoon,0.36,0.74,0.34,0.468,67.71,2.38,0.3,0.459
+Gujarat,Vadodara,Waghodia,7018,5,16,evening,0.36,0.74,0.34,0.468,200.51,3.2,0.6,0.49
+Gujarat,Vadodara,Waghodia,5357,11,15,evening,0.36,0.74,0.34,0.468,69.57,1.36,0.6,0.453
+Gujarat,Vadodara,Waghodia,9710,12,22,evening,0.36,0.74,0.34,0.468,115.6,1.83,0.6,0.463
+Gujarat,Vadodara,Waghodia,7981,7,31,evening,0.36,0.74,0.34,0.468,162.88,4.43,0.6,0.515
+Gujarat,Vadodara,Waghodia,5763,6,25,afternoon,0.36,0.74,0.34,0.468,137.21,4.17,0.3,0.494
+Gujarat,Vadodara,Waghodia,5178,5,34,evening,0.36,0.74,0.34,0.468,147.94,6.8,0.6,0.526
+Gujarat,Vadodara,Waghodia,7362,11,10,night,0.36,0.74,0.34,0.468,95.61,0.91,0.7,0.449
+Gujarat,Vadodara,Waghodia,4611,8,18,night,0.36,0.74,0.34,0.468,82.34,2.25,0.7,0.476
+Gujarat,Vadodara,Waghodia,3817,7,24,morning,0.36,0.74,0.34,0.468,77.9,3.43,0.2,0.475
+Gujarat,Vadodara,Waghodia,4671,8,32,evening,0.36,0.74,0.34,0.468,83.41,4.0,0.6,0.506
+Gujarat,Vadodara,Waghodia,9821,4,25,night,0.36,0.74,0.34,0.468,350.75,6.25,0.7,0.531
+Gujarat,Vadodara,Waghodia,5334,10,25,morning,0.36,0.74,0.34,0.468,76.2,2.5,0.2,0.456
+Gujarat,Vadodara,Waghodia,4763,5,34,afternoon,0.36,0.74,0.34,0.468,136.09,6.8,0.3,0.511
+Gujarat,Vadodara,Waghodia,3549,12,34,night,0.36,0.74,0.34,0.468,42.25,2.83,0.7,0.488
+Gujarat,Vadodara,Waghodia,7280,6,14,afternoon,0.36,0.74,0.34,0.468,173.33,2.33,0.3,0.458
+Gujarat,Vadodara,Waghodia,8204,11,16,afternoon,0.36,0.74,0.34,0.468,106.55,1.45,0.3,0.44
+Gujarat,Vadodara,Waghodia,3499,10,32,evening,0.36,0.74,0.34,0.468,49.99,3.2,0.6,0.49
+Gujarat,Vadodara,Waghodia,7399,9,12,night,0.36,0.74,0.34,0.468,117.44,1.33,0.7,0.458
+Gujarat,Vadodara,Waghodia,3834,6,8,night,0.36,0.74,0.34,0.468,91.29,1.33,0.7,0.458
+Gujarat,Vadodara,Sama Savli,3922,4,34,evening,0.32,0.73,0.28,0.431,140.07,8.5,0.6,0.495
+Gujarat,Vadodara,Sama Savli,6065,4,29,morning,0.32,0.73,0.28,0.431,216.61,7.25,0.2,0.475
+Gujarat,Vadodara,Sama Savli,9228,5,15,afternoon,0.32,0.73,0.28,0.431,263.66,3.0,0.3,0.44
+Gujarat,Vadodara,Sama Savli,5576,12,26,night,0.32,0.73,0.28,0.431,66.38,2.17,0.7,0.443
+Gujarat,Vadodara,Sama Savli,5084,12,33,night,0.32,0.73,0.28,0.431,60.52,2.75,0.7,0.454
+Gujarat,Vadodara,Sama Savli,9564,5,13,afternoon,0.32,0.73,0.28,0.431,273.26,2.6,0.3,0.431
+Gujarat,Vadodara,Sama Savli,4529,10,21,evening,0.32,0.73,0.28,0.431,64.7,2.1,0.6,0.436
+Gujarat,Vadodara,Sama Savli,5343,11,10,evening,0.32,0.73,0.28,0.431,69.39,0.91,0.6,0.413
+Gujarat,Vadodara,Sama Savli,3451,12,9,night,0.32,0.73,0.28,0.431,41.08,0.75,0.7,0.414
+Gujarat,Vadodara,Sama Savli,6010,11,30,morning,0.32,0.73,0.28,0.431,78.05,2.73,0.2,0.429
+Gujarat,Vadodara,Sama Savli,6590,7,13,afternoon,0.32,0.73,0.28,0.431,134.49,1.86,0.3,0.417
+Gujarat,Vadodara,Sama Savli,7363,8,31,night,0.32,0.73,0.28,0.431,131.48,3.88,0.7,0.477
+Gujarat,Vadodara,Sama Savli,3161,6,20,morning,0.32,0.73,0.28,0.431,75.26,3.33,0.2,0.441
+Gujarat,Vadodara,Sama Savli,6747,9,28,morning,0.32,0.73,0.28,0.431,107.1,3.11,0.2,0.437
+Gujarat,Vadodara,Sama Savli,6644,5,15,night,0.32,0.73,0.28,0.431,189.83,3.0,0.7,0.459
+Gujarat,Vadodara,Sama Savli,5707,8,18,afternoon,0.32,0.73,0.28,0.431,101.91,2.25,0.3,0.424
+Gujarat,Vadodara,Sama Savli,5252,9,25,afternoon,0.32,0.73,0.28,0.431,83.37,2.78,0.3,0.435
+Gujarat,Vadodara,Sama Savli,5382,12,31,morning,0.32,0.73,0.28,0.431,64.07,2.58,0.2,0.426
+Gujarat,Vadodara,Sama Savli,4617,6,24,evening,0.32,0.73,0.28,0.431,109.93,4.0,0.6,0.475
+Gujarat,Vadodara,Sama Savli,5656,4,18,night,0.32,0.73,0.28,0.431,202.0,4.5,0.7,0.489
+Gujarat,Vadodara,Sama Savli,9730,5,28,afternoon,0.32,0.73,0.28,0.431,278.0,5.6,0.3,0.48
+Gujarat,Vadodara,Sama Savli,7273,11,9,evening,0.32,0.73,0.28,0.431,94.45,0.82,0.6,0.411
+Gujarat,Vadodara,Sama Savli,3582,9,26,afternoon,0.32,0.73,0.28,0.431,56.86,2.89,0.3,0.437
+Gujarat,Vadodara,Sama Savli,9543,7,34,morning,0.32,0.73,0.28,0.431,194.76,4.86,0.2,0.472
+Gujarat,Vadodara,Sama Savli,8344,6,32,evening,0.32,0.73,0.28,0.431,198.67,5.33,0.6,0.495
+Gujarat,Vadodara,Sama Savli,8378,6,33,night,0.32,0.73,0.28,0.431,199.48,5.5,0.7,0.499
+Gujarat,Vadodara,Sama Savli,8986,9,10,afternoon,0.32,0.73,0.28,0.431,142.63,1.11,0.3,0.402
+Gujarat,Vadodara,Sama Savli,3925,8,30,night,0.32,0.73,0.28,0.431,70.09,3.75,0.7,0.474
+Gujarat,Vadodara,Sama Savli,3481,11,17,night,0.32,0.73,0.28,0.431,45.21,1.55,0.7,0.43
+Gujarat,Vadodara,Sama Savli,4580,5,10,evening,0.32,0.73,0.28,0.431,130.86,2.0,0.6,0.434
+Gujarat,Vadodara,Sama Savli,5416,7,33,morning,0.32,0.73,0.28,0.431,110.53,4.71,0.2,0.469
+Gujarat,Vadodara,Sama Savli,8520,12,11,morning,0.32,0.73,0.28,0.431,101.43,0.92,0.2,0.393
+Gujarat,Vadodara,Sama Savli,5031,12,9,morning,0.32,0.73,0.28,0.431,59.89,0.75,0.2,0.39
+Gujarat,Vadodara,Sama Savli,7858,8,17,night,0.32,0.73,0.28,0.431,140.32,2.12,0.7,0.442
+Gujarat,Vadodara,Sama Savli,3540,7,19,evening,0.32,0.73,0.28,0.431,72.24,2.71,0.6,0.449
+Gujarat,Vadodara,Sama Savli,9193,6,33,evening,0.32,0.73,0.28,0.431,218.88,5.5,0.6,0.495
+Gujarat,Vadodara,Sama Savli,5546,10,22,night,0.32,0.73,0.28,0.431,79.23,2.2,0.7,0.443
+Gujarat,Vadodara,Sama Savli,6263,4,25,morning,0.32,0.73,0.28,0.431,223.68,6.25,0.2,0.475
+Gujarat,Vadodara,Sama Savli,6555,4,16,evening,0.32,0.73,0.28,0.431,234.11,4.0,0.6,0.475
+Gujarat,Vadodara,Sama Savli,5473,10,32,night,0.32,0.73,0.28,0.431,78.19,3.2,0.7,0.463
+Gujarat,Vadodara,Sama Savli,8513,12,28,night,0.32,0.73,0.28,0.431,101.35,2.33,0.7,0.446
+Gujarat,Vadodara,Sama Savli,3163,4,30,afternoon,0.32,0.73,0.28,0.431,112.96,7.5,0.3,0.48
+Gujarat,Vadodara,Sama Savli,7841,8,28,morning,0.32,0.73,0.28,0.431,140.02,3.5,0.2,0.445
+Gujarat,Vadodara,Sama Savli,7510,6,8,night,0.32,0.73,0.28,0.431,178.81,1.33,0.7,0.426
+Gujarat,Vadodara,Sama Savli,5073,11,27,morning,0.32,0.73,0.28,0.431,65.88,2.45,0.2,0.423
+Gujarat,Vadodara,Sama Savli,5851,12,8,evening,0.32,0.73,0.28,0.431,69.65,0.67,0.6,0.408
+Gujarat,Vadodara,Sama Savli,5000,12,14,night,0.32,0.73,0.28,0.431,59.52,1.17,0.7,0.423
+Gujarat,Vadodara,Sama Savli,3871,8,22,night,0.32,0.73,0.28,0.431,69.12,2.75,0.7,0.454
+Gujarat,Vadodara,Sama Savli,9091,4,27,evening,0.32,0.73,0.28,0.431,324.68,6.75,0.6,0.495
+Gujarat,Vadodara,Sama Savli,5364,7,22,night,0.32,0.73,0.28,0.431,109.47,3.14,0.7,0.462
+Gujarat,Vadodara,Sama Savli,8617,6,33,night,0.32,0.73,0.28,0.431,205.17,5.5,0.7,0.499
+Gujarat,Vadodara,Sama Savli,8566,7,22,afternoon,0.32,0.73,0.28,0.431,174.82,3.14,0.3,0.442
+Gujarat,Vadodara,Sama Savli,8927,4,16,afternoon,0.32,0.73,0.28,0.431,318.82,4.0,0.3,0.46
+Gujarat,Vadodara,Sama Savli,7760,10,35,morning,0.32,0.73,0.28,0.431,110.86,3.5,0.2,0.445
+Gujarat,Vadodara,Sama Savli,9275,9,21,afternoon,0.32,0.73,0.28,0.431,147.22,2.33,0.3,0.426
+Gujarat,Vadodara,Sama Savli,8195,8,19,evening,0.32,0.73,0.28,0.431,146.34,2.38,0.6,0.442
+Gujarat,Vadodara,Sama Savli,3334,7,28,morning,0.32,0.73,0.28,0.431,68.04,4.0,0.2,0.455
+Gujarat,Vadodara,Sama Savli,9989,9,18,afternoon,0.32,0.73,0.28,0.431,158.56,2.0,0.3,0.419
+Gujarat,Vadodara,Sama Savli,7683,10,8,morning,0.32,0.73,0.28,0.431,109.76,0.8,0.2,0.391
+Gujarat,Vadodara,Sama Savli,5889,12,10,morning,0.32,0.73,0.28,0.431,70.11,0.83,0.2,0.391
+Gujarat,Vadodara,Sama Savli,9127,8,34,morning,0.32,0.73,0.28,0.431,162.98,4.25,0.2,0.46
+Gujarat,Vadodara,Sama Savli,7711,7,30,afternoon,0.32,0.73,0.28,0.431,157.37,4.29,0.3,0.465
+Gujarat,Vadodara,Sama Savli,8613,5,11,night,0.32,0.73,0.28,0.431,246.09,2.2,0.7,0.443
+Gujarat,Vadodara,Sama Savli,4498,8,22,afternoon,0.32,0.73,0.28,0.431,80.32,2.75,0.3,0.434
+Gujarat,Vadodara,Sama Savli,3111,4,27,morning,0.32,0.73,0.28,0.431,111.11,6.75,0.2,0.475
+Gujarat,Vadodara,Sama Savli,6680,12,12,afternoon,0.32,0.73,0.28,0.431,79.52,1.0,0.3,0.4
+Gujarat,Vadodara,Sama Savli,6773,10,26,evening,0.32,0.73,0.28,0.431,96.76,2.6,0.6,0.447
+Gujarat,Vadodara,Sama Savli,4580,6,21,morning,0.32,0.73,0.28,0.431,109.05,3.5,0.2,0.445
+Gujarat,Vadodara,Sama Savli,7159,8,15,morning,0.32,0.73,0.28,0.431,127.84,1.88,0.2,0.412
+Gujarat,Vadodara,Sama Savli,5436,5,10,morning,0.32,0.73,0.28,0.431,155.31,2.0,0.2,0.414
+Gujarat,Vadodara,Sama Savli,4751,9,31,night,0.32,0.73,0.28,0.431,75.41,3.44,0.7,0.468
+Gujarat,Vadodara,Sama Savli,6575,6,22,evening,0.32,0.73,0.28,0.431,156.55,3.67,0.6,0.468
+Gujarat,Vadodara,Sama Savli,8073,7,14,afternoon,0.32,0.73,0.28,0.431,164.76,2.0,0.3,0.419
+Gujarat,Vadodara,Sama Savli,7672,10,12,afternoon,0.32,0.73,0.28,0.431,109.6,1.2,0.3,0.404
+Gujarat,Vadodara,Sama Savli,9480,8,34,afternoon,0.32,0.73,0.28,0.431,169.29,4.25,0.3,0.465
+Gujarat,Vadodara,Sama Savli,3419,7,14,evening,0.32,0.73,0.28,0.431,69.78,2.0,0.6,0.434
+Gujarat,Vadodara,Sama Savli,6916,12,10,evening,0.32,0.73,0.28,0.431,82.33,0.83,0.6,0.411
+Gujarat,Vadodara,Sama Savli,6926,6,11,evening,0.32,0.73,0.28,0.431,164.9,1.83,0.6,0.431
+Gujarat,Vadodara,Sama Savli,4465,7,14,morning,0.32,0.73,0.28,0.431,91.12,2.0,0.2,0.414
+Gujarat,Vadodara,Sama Savli,7384,8,11,evening,0.32,0.73,0.28,0.431,131.86,1.38,0.6,0.422
+Gujarat,Vadodara,Gotri,9530,8,18,afternoon,0.34,0.71,0.26,0.427,170.18,2.25,0.3,0.421
+Gujarat,Vadodara,Gotri,5141,12,27,night,0.34,0.71,0.26,0.427,61.2,2.25,0.7,0.441
+Gujarat,Vadodara,Gotri,3609,12,9,night,0.34,0.71,0.26,0.427,42.96,0.75,0.7,0.411
+Gujarat,Vadodara,Gotri,5807,10,12,morning,0.34,0.71,0.26,0.427,82.96,1.2,0.2,0.396
+Gujarat,Vadodara,Gotri,6027,10,25,night,0.34,0.71,0.26,0.427,86.1,2.5,0.7,0.446
+Gujarat,Vadodara,Gotri,4489,11,19,morning,0.34,0.71,0.26,0.427,58.3,1.73,0.2,0.406
+Gujarat,Vadodara,Gotri,5054,4,17,night,0.34,0.71,0.26,0.427,180.5,4.25,0.7,0.481
+Gujarat,Vadodara,Gotri,5190,12,21,morning,0.34,0.71,0.26,0.427,61.79,1.75,0.2,0.406
+Gujarat,Vadodara,Gotri,4344,11,26,night,0.34,0.71,0.26,0.427,56.42,2.36,0.7,0.444
+Gujarat,Vadodara,Gotri,3030,7,31,night,0.34,0.71,0.26,0.427,61.84,4.43,0.7,0.485
+Gujarat,Vadodara,Gotri,7336,11,8,morning,0.34,0.71,0.26,0.427,95.27,0.73,0.2,0.386
+Gujarat,Vadodara,Gotri,5836,10,12,night,0.34,0.71,0.26,0.427,83.37,1.2,0.7,0.42
+Gujarat,Vadodara,Gotri,5535,6,8,evening,0.34,0.71,0.26,0.427,131.79,1.33,0.6,0.418
+Gujarat,Vadodara,Gotri,5427,12,32,evening,0.34,0.71,0.26,0.427,64.61,2.67,0.6,0.445
+Gujarat,Vadodara,Gotri,5883,6,32,night,0.34,0.71,0.26,0.427,140.07,5.33,0.7,0.496
+Gujarat,Vadodara,Gotri,4657,5,17,night,0.34,0.71,0.26,0.427,133.06,3.4,0.7,0.464
+Gujarat,Vadodara,Gotri,6905,4,20,evening,0.34,0.71,0.26,0.427,246.61,5.0,0.6,0.492
+Gujarat,Vadodara,Gotri,5663,6,20,evening,0.34,0.71,0.26,0.427,134.83,3.33,0.6,0.458
+Gujarat,Vadodara,Gotri,7644,11,13,night,0.34,0.71,0.26,0.427,99.27,1.18,0.7,0.42
+Gujarat,Vadodara,Gotri,9595,9,30,morning,0.34,0.71,0.26,0.427,152.3,3.33,0.2,0.438
+Gujarat,Vadodara,Gotri,9949,5,21,night,0.34,0.71,0.26,0.427,284.26,4.2,0.7,0.48
+Gujarat,Vadodara,Gotri,8887,4,14,night,0.34,0.71,0.26,0.427,317.39,3.5,0.7,0.466
+Gujarat,Vadodara,Gotri,6965,11,20,afternoon,0.34,0.71,0.26,0.427,90.45,1.82,0.3,0.413
+Gujarat,Vadodara,Gotri,7788,5,14,morning,0.34,0.71,0.26,0.427,222.51,2.8,0.2,0.427
+Gujarat,Vadodara,Gotri,8400,8,18,morning,0.34,0.71,0.26,0.427,150.0,2.25,0.2,0.416
+Gujarat,Vadodara,Gotri,3478,12,31,night,0.34,0.71,0.26,0.427,41.4,2.58,0.7,0.448
+Gujarat,Vadodara,Gotri,9368,7,32,morning,0.34,0.71,0.26,0.427,191.18,4.57,0.2,0.463
+Gujarat,Vadodara,Gotri,9339,11,30,night,0.34,0.71,0.26,0.427,121.29,2.73,0.7,0.451
+Gujarat,Vadodara,Gotri,5249,7,34,afternoon,0.34,0.71,0.26,0.427,107.12,4.86,0.3,0.474
+Gujarat,Vadodara,Gotri,9354,10,26,afternoon,0.34,0.71,0.26,0.427,133.63,2.6,0.3,0.428
+Gujarat,Vadodara,Gotri,9616,12,20,night,0.34,0.71,0.26,0.427,114.48,1.67,0.7,0.43
+Gujarat,Vadodara,Gotri,3983,8,23,afternoon,0.34,0.71,0.26,0.427,71.12,2.88,0.3,0.434
+Gujarat,Vadodara,Gotri,6758,7,16,night,0.34,0.71,0.26,0.427,137.92,2.29,0.7,0.442
+Gujarat,Vadodara,Gotri,6754,10,31,night,0.34,0.71,0.26,0.427,96.49,3.1,0.7,0.458
+Gujarat,Vadodara,Gotri,4395,9,24,evening,0.34,0.71,0.26,0.427,69.76,2.67,0.6,0.445
+Gujarat,Vadodara,Gotri,4439,4,17,morning,0.34,0.71,0.26,0.427,158.54,4.25,0.2,0.457
+Gujarat,Vadodara,Gotri,3637,7,26,afternoon,0.34,0.71,0.26,0.427,74.22,3.71,0.3,0.451
+Gujarat,Vadodara,Gotri,5546,6,23,afternoon,0.34,0.71,0.26,0.427,132.05,3.83,0.3,0.453
+Gujarat,Vadodara,Gotri,7872,11,28,evening,0.34,0.71,0.26,0.427,102.23,2.55,0.6,0.443
+Gujarat,Vadodara,Gotri,4837,8,29,night,0.34,0.71,0.26,0.427,86.38,3.62,0.7,0.469
+Gujarat,Vadodara,Gotri,5503,5,31,night,0.34,0.71,0.26,0.427,157.23,6.2,0.7,0.496
+Gujarat,Vadodara,Gotri,5643,5,17,night,0.34,0.71,0.26,0.427,161.23,3.4,0.7,0.464
+Gujarat,Vadodara,Gotri,6300,12,18,afternoon,0.34,0.71,0.26,0.427,75.0,1.5,0.3,0.406
+Gujarat,Vadodara,Gotri,5112,12,25,night,0.34,0.71,0.26,0.427,60.86,2.08,0.7,0.438
+Gujarat,Vadodara,Gotri,4077,5,31,night,0.34,0.71,0.26,0.427,116.49,6.2,0.7,0.496
+Gujarat,Vadodara,Gotri,4543,7,33,morning,0.34,0.71,0.26,0.427,92.71,4.71,0.2,0.466
+Gujarat,Vadodara,Gotri,9948,7,16,night,0.34,0.71,0.26,0.427,203.02,2.29,0.7,0.442
+Gujarat,Vadodara,Gotri,9248,12,8,night,0.34,0.71,0.26,0.427,110.1,0.67,0.7,0.41
+Gujarat,Vadodara,Gotri,5685,4,25,night,0.34,0.71,0.26,0.427,203.04,6.25,0.7,0.496
+Gujarat,Vadodara,Gotri,4675,6,22,afternoon,0.34,0.71,0.26,0.427,111.31,3.67,0.3,0.45
+Gujarat,Vadodara,Gotri,4377,7,27,afternoon,0.34,0.71,0.26,0.427,89.33,3.86,0.3,0.454
+Gujarat,Vadodara,Gotri,5514,7,22,morning,0.34,0.71,0.26,0.427,112.53,3.14,0.2,0.434
+Gujarat,Vadodara,Gotri,3528,11,28,evening,0.34,0.71,0.26,0.427,45.82,2.55,0.6,0.443
+Gujarat,Vadodara,Gotri,6881,7,33,morning,0.34,0.71,0.26,0.427,140.43,4.71,0.2,0.466
+Gujarat,Vadodara,Gotri,3415,8,10,night,0.34,0.71,0.26,0.427,60.98,1.25,0.7,0.421
+Gujarat,Vadodara,Gotri,8835,6,35,evening,0.34,0.71,0.26,0.427,210.36,5.83,0.6,0.492
+Gujarat,Vadodara,Gotri,8726,9,30,night,0.34,0.71,0.26,0.427,138.51,3.33,0.7,0.463
+Gujarat,Vadodara,Gotri,3064,4,25,afternoon,0.34,0.71,0.26,0.427,109.43,6.25,0.3,0.477
+Gujarat,Vadodara,Gotri,7748,5,31,afternoon,0.34,0.71,0.26,0.427,221.37,6.2,0.3,0.477
+Gujarat,Vadodara,Gotri,3066,8,14,morning,0.34,0.71,0.26,0.427,54.75,1.75,0.2,0.406
+Gujarat,Vadodara,Gotri,9569,4,18,afternoon,0.34,0.71,0.26,0.427,341.75,4.5,0.3,0.467
+Gujarat,Vadodara,Gotri,9903,6,35,afternoon,0.34,0.71,0.26,0.427,235.79,5.83,0.3,0.477
+Gujarat,Vadodara,Gotri,5966,6,17,afternoon,0.34,0.71,0.26,0.427,142.05,2.83,0.3,0.433
+Gujarat,Vadodara,Gotri,6248,12,22,morning,0.34,0.71,0.26,0.427,74.38,1.83,0.2,0.408
+Gujarat,Vadodara,Gotri,3420,12,28,night,0.34,0.71,0.26,0.427,40.71,2.33,0.7,0.443
+Gujarat,Vadodara,Gotri,9473,7,30,afternoon,0.34,0.71,0.26,0.427,193.33,4.29,0.3,0.462
+Gujarat,Vadodara,Gotri,8209,4,31,evening,0.34,0.71,0.26,0.427,293.18,7.75,0.6,0.492
+Gujarat,Vadodara,Gotri,7642,7,24,night,0.34,0.71,0.26,0.427,155.96,3.43,0.7,0.465
+Gujarat,Vadodara,Gotri,9112,12,23,evening,0.34,0.71,0.26,0.427,108.48,1.92,0.6,0.43
+Gujarat,Vadodara,Gotri,4699,9,28,evening,0.34,0.71,0.26,0.427,74.59,3.11,0.6,0.454
+Gujarat,Vadodara,Gotri,4541,9,19,night,0.34,0.71,0.26,0.427,72.08,2.11,0.7,0.439
+Gujarat,Vadodara,Gotri,7966,7,15,morning,0.34,0.71,0.26,0.427,162.57,2.14,0.2,0.414
+Gujarat,Vadodara,Gotri,5579,4,31,afternoon,0.34,0.71,0.26,0.427,199.25,7.75,0.3,0.477
+Gujarat,Vadodara,Gotri,5202,11,25,night,0.34,0.71,0.26,0.427,67.56,2.27,0.7,0.442
+Gujarat,Vadodara,Gotri,6524,6,30,night,0.34,0.71,0.26,0.427,155.33,5.0,0.7,0.496
+Gujarat,Vadodara,Gotri,5748,10,15,morning,0.34,0.71,0.26,0.427,82.11,1.5,0.2,0.401
+Gujarat,Vadodara,Gotri,3280,6,25,afternoon,0.34,0.71,0.26,0.427,78.1,4.17,0.3,0.46
+Gujarat,Vadodara,Gotri,8699,10,19,afternoon,0.34,0.71,0.26,0.427,124.27,1.9,0.3,0.414
+Gujarat,Vadodara,Gotri,5150,10,17,afternoon,0.34,0.71,0.26,0.427,73.57,1.7,0.3,0.41
+Gujarat,Vadodara,Gotri,6577,10,18,morning,0.34,0.71,0.26,0.427,93.96,1.8,0.2,0.407
+Gujarat,Ahmedabad,Navrangpura,7080,6,29,night,0.28,0.82,0.4,0.478,168.57,4.83,0.7,0.535
+Gujarat,Ahmedabad,Navrangpura,8096,10,32,night,0.28,0.82,0.4,0.478,115.66,3.2,0.7,0.502
+Gujarat,Ahmedabad,Navrangpura,7456,12,9,night,0.28,0.82,0.4,0.478,88.76,0.75,0.7,0.453
+Gujarat,Ahmedabad,Navrangpura,4141,6,9,afternoon,0.28,0.82,0.4,0.478,98.6,1.5,0.3,0.448
+Gujarat,Ahmedabad,Navrangpura,4985,5,24,afternoon,0.28,0.82,0.4,0.478,142.43,4.8,0.3,0.514
+Gujarat,Ahmedabad,Navrangpura,8519,7,16,afternoon,0.28,0.82,0.4,0.478,173.86,2.29,0.3,0.464
+Gujarat,Ahmedabad,Navrangpura,8263,11,13,evening,0.28,0.82,0.4,0.478,107.31,1.18,0.6,0.457
+Gujarat,Ahmedabad,Navrangpura,7003,11,25,afternoon,0.28,0.82,0.4,0.478,90.95,2.27,0.3,0.463
+Gujarat,Ahmedabad,Navrangpura,3879,5,21,morning,0.28,0.82,0.4,0.478,110.83,4.2,0.2,0.497
+Gujarat,Ahmedabad,Navrangpura,5158,4,23,afternoon,0.28,0.82,0.4,0.478,184.21,5.75,0.3,0.518
+Gujarat,Ahmedabad,Navrangpura,7471,11,13,afternoon,0.28,0.82,0.4,0.478,97.03,1.18,0.3,0.442
+Gujarat,Ahmedabad,Navrangpura,3932,4,18,evening,0.28,0.82,0.4,0.478,140.43,4.5,0.6,0.523
+Gujarat,Ahmedabad,Navrangpura,8664,11,20,evening,0.28,0.82,0.4,0.478,112.52,1.82,0.6,0.469
+Gujarat,Ahmedabad,Navrangpura,5523,9,27,morning,0.28,0.82,0.4,0.478,87.67,3.0,0.2,0.473
+Gujarat,Ahmedabad,Navrangpura,7809,4,12,afternoon,0.28,0.82,0.4,0.478,278.89,3.0,0.3,0.478
+Gujarat,Ahmedabad,Navrangpura,4069,8,15,afternoon,0.28,0.82,0.4,0.478,72.66,1.88,0.3,0.456
+Gujarat,Ahmedabad,Navrangpura,9553,9,11,afternoon,0.28,0.82,0.4,0.478,151.63,1.22,0.3,0.442
+Gujarat,Ahmedabad,Navrangpura,7988,5,30,morning,0.28,0.82,0.4,0.478,228.23,6.0,0.2,0.513
+Gujarat,Ahmedabad,Navrangpura,7654,12,33,afternoon,0.28,0.82,0.4,0.478,91.12,2.75,0.3,0.473
+Gujarat,Ahmedabad,Navrangpura,3452,9,14,night,0.28,0.82,0.4,0.478,54.79,1.56,0.7,0.469
+Gujarat,Ahmedabad,Navrangpura,4982,10,19,morning,0.28,0.82,0.4,0.478,71.17,1.9,0.2,0.451
+Gujarat,Ahmedabad,Navrangpura,5057,11,15,evening,0.28,0.82,0.4,0.478,65.68,1.36,0.6,0.46
+Gujarat,Ahmedabad,Navrangpura,4509,4,8,night,0.28,0.82,0.4,0.478,161.04,2.0,0.7,0.478
+Gujarat,Ahmedabad,Navrangpura,3552,11,35,afternoon,0.28,0.82,0.4,0.478,46.13,3.18,0.3,0.482
+Gujarat,Ahmedabad,Navrangpura,8598,11,28,morning,0.28,0.82,0.4,0.478,111.66,2.55,0.2,0.464
+Gujarat,Ahmedabad,Navrangpura,3310,6,32,morning,0.28,0.82,0.4,0.478,78.81,5.33,0.2,0.513
+Gujarat,Ahmedabad,Navrangpura,8869,8,30,night,0.28,0.82,0.4,0.478,158.38,3.75,0.7,0.513
+Gujarat,Ahmedabad,Navrangpura,5409,11,16,night,0.28,0.82,0.4,0.478,70.25,1.45,0.7,0.467
+Gujarat,Ahmedabad,Navrangpura,4493,5,28,morning,0.28,0.82,0.4,0.478,128.37,5.6,0.2,0.513
+Gujarat,Ahmedabad,Navrangpura,6903,8,29,evening,0.28,0.82,0.4,0.478,123.27,3.62,0.6,0.505
+Gujarat,Ahmedabad,Navrangpura,5874,5,9,night,0.28,0.82,0.4,0.478,167.83,1.8,0.7,0.474
+Gujarat,Ahmedabad,Navrangpura,9020,12,24,morning,0.28,0.82,0.4,0.478,107.38,2.0,0.2,0.453
+Gujarat,Ahmedabad,Navrangpura,3920,6,12,morning,0.28,0.82,0.4,0.478,93.33,2.0,0.2,0.453
+Gujarat,Ahmedabad,Navrangpura,3425,8,25,afternoon,0.28,0.82,0.4,0.478,61.16,3.12,0.3,0.48
+Gujarat,Ahmedabad,Navrangpura,8524,11,23,evening,0.28,0.82,0.4,0.478,110.7,2.09,0.6,0.475
+Gujarat,Ahmedabad,Navrangpura,4615,4,12,afternoon,0.28,0.82,0.4,0.478,164.82,3.0,0.3,0.478
+Gujarat,Ahmedabad,Navrangpura,7229,9,28,afternoon,0.28,0.82,0.4,0.478,114.75,3.11,0.3,0.48
+Gujarat,Ahmedabad,Navrangpura,7494,9,27,afternoon,0.28,0.82,0.4,0.478,118.95,3.0,0.3,0.478
+Gujarat,Ahmedabad,Navrangpura,3005,5,21,afternoon,0.28,0.82,0.4,0.478,85.86,4.2,0.3,0.502
+Gujarat,Ahmedabad,Navrangpura,5351,4,20,evening,0.28,0.82,0.4,0.478,191.11,5.0,0.6,0.533
+Gujarat,Ahmedabad,Navrangpura,8036,9,35,evening,0.28,0.82,0.4,0.478,127.56,3.89,0.6,0.511
+Gujarat,Ahmedabad,Navrangpura,4233,9,24,afternoon,0.28,0.82,0.4,0.478,67.19,2.67,0.3,0.471
+Gujarat,Ahmedabad,Navrangpura,9392,9,26,evening,0.28,0.82,0.4,0.478,149.08,2.89,0.6,0.491
+Gujarat,Ahmedabad,Navrangpura,9828,9,32,evening,0.28,0.82,0.4,0.478,156.0,3.56,0.6,0.504
+Gujarat,Ahmedabad,Navrangpura,5763,11,30,morning,0.28,0.82,0.4,0.478,74.84,2.73,0.2,0.468
+Gujarat,Ahmedabad,Navrangpura,4873,9,16,morning,0.28,0.82,0.4,0.478,77.35,1.78,0.2,0.449
+Gujarat,Ahmedabad,Navrangpura,8558,7,18,morning,0.28,0.82,0.4,0.478,174.65,2.57,0.2,0.464
+Gujarat,Ahmedabad,Navrangpura,9478,12,34,night,0.28,0.82,0.4,0.478,112.83,2.83,0.7,0.495
+Gujarat,Ahmedabad,Navrangpura,3348,12,16,night,0.28,0.82,0.4,0.478,39.86,1.33,0.7,0.465
+Gujarat,Ahmedabad,Navrangpura,3890,4,18,night,0.28,0.82,0.4,0.478,138.93,4.5,0.7,0.528
+Gujarat,Ahmedabad,Navrangpura,9290,12,10,morning,0.28,0.82,0.4,0.478,110.6,0.83,0.2,0.43
+Gujarat,Ahmedabad,Navrangpura,6851,4,24,afternoon,0.28,0.82,0.4,0.478,244.68,6.0,0.3,0.518
+Gujarat,Ahmedabad,Navrangpura,4833,6,24,night,0.28,0.82,0.4,0.478,115.07,4.0,0.7,0.518
+Gujarat,Ahmedabad,Navrangpura,3397,12,22,evening,0.28,0.82,0.4,0.478,40.44,1.83,0.6,0.47
+Gujarat,Ahmedabad,Navrangpura,5157,4,27,night,0.28,0.82,0.4,0.478,184.18,6.75,0.7,0.538
+Gujarat,Ahmedabad,Navrangpura,8450,4,17,afternoon,0.28,0.82,0.4,0.478,301.79,4.25,0.3,0.503
+Gujarat,Ahmedabad,Navrangpura,6104,6,16,morning,0.28,0.82,0.4,0.478,145.33,2.67,0.2,0.466
+Gujarat,Ahmedabad,Navrangpura,7005,7,20,evening,0.28,0.82,0.4,0.478,142.96,2.86,0.6,0.49
+Gujarat,Ahmedabad,Navrangpura,5253,4,10,afternoon,0.28,0.82,0.4,0.478,187.61,2.5,0.3,0.468
+Gujarat,Ahmedabad,Navrangpura,6463,5,10,night,0.28,0.82,0.4,0.478,184.66,2.0,0.7,0.478
+Gujarat,Ahmedabad,Navrangpura,3819,11,21,afternoon,0.28,0.82,0.4,0.478,49.6,1.91,0.3,0.456
+Gujarat,Ahmedabad,Navrangpura,4434,6,22,afternoon,0.28,0.82,0.4,0.478,105.57,3.67,0.3,0.491
+Gujarat,Ahmedabad,Navrangpura,6403,7,20,afternoon,0.28,0.82,0.4,0.478,130.67,2.86,0.3,0.475
+Gujarat,Ahmedabad,Navrangpura,8332,8,8,evening,0.28,0.82,0.4,0.478,148.79,1.0,0.6,0.453
+Gujarat,Ahmedabad,Navrangpura,3840,9,15,morning,0.28,0.82,0.4,0.478,60.95,1.67,0.2,0.446
+Gujarat,Ahmedabad,Navrangpura,3033,11,32,morning,0.28,0.82,0.4,0.478,39.39,2.91,0.2,0.471
+Gujarat,Ahmedabad,Navrangpura,7247,12,24,afternoon,0.28,0.82,0.4,0.478,86.27,2.0,0.3,0.458
+Gujarat,Ahmedabad,Navrangpura,9371,4,29,morning,0.28,0.82,0.4,0.478,334.68,7.25,0.2,0.513
+Gujarat,Ahmedabad,Navrangpura,4283,7,19,afternoon,0.28,0.82,0.4,0.478,87.41,2.71,0.3,0.472
+Gujarat,Ahmedabad,Navrangpura,4300,12,9,night,0.28,0.82,0.4,0.478,51.19,0.75,0.7,0.453
+Gujarat,Ahmedabad,Navrangpura,7247,5,15,afternoon,0.28,0.82,0.4,0.478,207.06,3.0,0.3,0.478
+Gujarat,Ahmedabad,Navrangpura,6327,12,19,morning,0.28,0.82,0.4,0.478,75.32,1.58,0.2,0.445
+Gujarat,Ahmedabad,Navrangpura,9309,10,30,morning,0.28,0.82,0.4,0.478,132.99,3.0,0.2,0.473
+Gujarat,Ahmedabad,Navrangpura,4025,12,33,morning,0.28,0.82,0.4,0.478,47.92,2.75,0.2,0.468
+Gujarat,Ahmedabad,Navrangpura,9012,12,15,afternoon,0.28,0.82,0.4,0.478,107.29,1.25,0.3,0.443
+Gujarat,Ahmedabad,Navrangpura,6297,11,19,morning,0.28,0.82,0.4,0.478,81.78,1.73,0.2,0.448
+Gujarat,Ahmedabad,Navrangpura,9788,7,22,night,0.28,0.82,0.4,0.478,199.76,3.14,0.7,0.501
+Gujarat,Ahmedabad,Navrangpura,3179,6,35,night,0.28,0.82,0.4,0.478,75.69,5.83,0.7,0.538
+Gujarat,Ahmedabad,Navrangpura,5321,12,24,morning,0.28,0.82,0.4,0.478,63.35,2.0,0.2,0.453
+Gujarat,Ahmedabad,Navrangpura,3241,12,16,evening,0.28,0.82,0.4,0.478,38.58,1.33,0.6,0.46
+Gujarat,Ahmedabad,Satellite,4345,8,23,afternoon,0.27,0.8,0.32,0.444,77.59,2.88,0.3,0.447
+Gujarat,Ahmedabad,Satellite,7794,4,29,night,0.27,0.8,0.32,0.444,278.36,7.25,0.7,0.51
+Gujarat,Ahmedabad,Satellite,4326,7,20,afternoon,0.27,0.8,0.32,0.444,88.29,2.86,0.3,0.447
+Gujarat,Ahmedabad,Satellite,6885,4,24,morning,0.27,0.8,0.32,0.444,245.89,6.0,0.2,0.485
+Gujarat,Ahmedabad,Satellite,7603,5,12,night,0.27,0.8,0.32,0.444,217.23,2.4,0.7,0.457
+Gujarat,Ahmedabad,Satellite,3803,11,12,afternoon,0.27,0.8,0.32,0.444,49.39,1.09,0.3,0.411
+Gujarat,Ahmedabad,Satellite,9797,5,21,evening,0.27,0.8,0.32,0.444,279.91,4.2,0.6,0.489
+Gujarat,Ahmedabad,Satellite,4454,7,20,evening,0.27,0.8,0.32,0.444,90.9,2.86,0.6,0.462
+Gujarat,Ahmedabad,Satellite,8889,8,15,afternoon,0.27,0.8,0.32,0.444,158.73,1.88,0.3,0.427
+Gujarat,Ahmedabad,Satellite,5717,12,17,evening,0.27,0.8,0.32,0.444,68.06,1.42,0.6,0.433
+Gujarat,Ahmedabad,Satellite,6120,10,19,night,0.27,0.8,0.32,0.444,87.43,1.9,0.7,0.447
+Gujarat,Ahmedabad,Satellite,4235,12,35,afternoon,0.27,0.8,0.32,0.444,50.42,2.92,0.3,0.448
+Gujarat,Ahmedabad,Satellite,3324,6,31,morning,0.27,0.8,0.32,0.444,79.14,5.17,0.2,0.485
+Gujarat,Ahmedabad,Satellite,6113,4,9,night,0.27,0.8,0.32,0.444,218.32,2.25,0.7,0.454
+Gujarat,Ahmedabad,Satellite,4628,4,14,morning,0.27,0.8,0.32,0.444,165.29,3.5,0.2,0.455
+Gujarat,Ahmedabad,Satellite,4062,8,9,evening,0.27,0.8,0.32,0.444,72.54,1.12,0.6,0.427
+Gujarat,Ahmedabad,Satellite,9565,8,30,night,0.27,0.8,0.32,0.444,170.8,3.75,0.7,0.484
+Gujarat,Ahmedabad,Satellite,6760,9,29,evening,0.27,0.8,0.32,0.444,107.3,3.22,0.6,0.469
+Gujarat,Ahmedabad,Satellite,9436,9,19,evening,0.27,0.8,0.32,0.444,149.78,2.11,0.6,0.447
+Gujarat,Ahmedabad,Satellite,3151,7,22,morning,0.27,0.8,0.32,0.444,64.31,3.14,0.2,0.447
+Gujarat,Ahmedabad,Satellite,9141,12,21,morning,0.27,0.8,0.32,0.444,108.82,1.75,0.2,0.419
+Gujarat,Ahmedabad,Satellite,3436,12,19,morning,0.27,0.8,0.32,0.444,40.9,1.58,0.2,0.416
+Gujarat,Ahmedabad,Satellite,9973,10,11,afternoon,0.27,0.8,0.32,0.444,142.47,1.1,0.3,0.412
+Gujarat,Ahmedabad,Satellite,6139,5,33,night,0.27,0.8,0.32,0.444,175.4,6.6,0.7,0.51
+Gujarat,Ahmedabad,Satellite,3862,5,20,morning,0.27,0.8,0.32,0.444,110.34,4.0,0.2,0.465
+Gujarat,Ahmedabad,Satellite,8342,12,24,night,0.27,0.8,0.32,0.444,99.31,2.0,0.7,0.449
+Gujarat,Ahmedabad,Satellite,7369,9,29,afternoon,0.27,0.8,0.32,0.444,116.97,3.22,0.3,0.454
+Gujarat,Ahmedabad,Satellite,9081,7,29,afternoon,0.27,0.8,0.32,0.444,185.33,4.14,0.3,0.472
+Gujarat,Ahmedabad,Satellite,4523,12,8,morning,0.27,0.8,0.32,0.444,53.85,0.67,0.2,0.398
+Gujarat,Ahmedabad,Satellite,7327,6,12,evening,0.27,0.8,0.32,0.444,174.45,2.0,0.6,0.445
+Gujarat,Ahmedabad,Satellite,6492,11,33,morning,0.27,0.8,0.32,0.444,84.31,3.0,0.2,0.445
+Gujarat,Ahmedabad,Satellite,9171,8,25,morning,0.27,0.8,0.32,0.444,163.77,3.12,0.2,0.447
+Gujarat,Ahmedabad,Satellite,6970,4,32,night,0.27,0.8,0.32,0.444,248.93,8.0,0.7,0.51
+Gujarat,Ahmedabad,Satellite,9107,11,28,morning,0.27,0.8,0.32,0.444,118.27,2.55,0.2,0.435
+Gujarat,Ahmedabad,Satellite,4986,11,22,evening,0.27,0.8,0.32,0.444,64.75,2.0,0.6,0.445
+Gujarat,Ahmedabad,Satellite,3298,5,26,afternoon,0.27,0.8,0.32,0.444,94.23,5.2,0.3,0.49
+Gujarat,Ahmedabad,Satellite,4449,4,25,morning,0.27,0.8,0.32,0.444,158.89,6.25,0.2,0.485
+Gujarat,Ahmedabad,Satellite,4750,12,11,afternoon,0.27,0.8,0.32,0.444,56.55,0.92,0.3,0.408
+Gujarat,Ahmedabad,Satellite,3473,11,13,night,0.27,0.8,0.32,0.444,45.1,1.18,0.7,0.433
+Gujarat,Ahmedabad,Satellite,7979,4,27,afternoon,0.27,0.8,0.32,0.444,284.96,6.75,0.3,0.49
+Gujarat,Ahmedabad,Satellite,9548,8,8,afternoon,0.27,0.8,0.32,0.444,170.5,1.0,0.3,0.41
+Gujarat,Ahmedabad,Satellite,8106,10,26,evening,0.27,0.8,0.32,0.444,115.8,2.6,0.6,0.457
+Gujarat,Ahmedabad,Satellite,6515,10,10,evening,0.27,0.8,0.32,0.444,93.07,1.0,0.6,0.424
+Gujarat,Ahmedabad,Satellite,8080,7,19,evening,0.27,0.8,0.32,0.444,164.9,2.71,0.6,0.459
+Gujarat,Ahmedabad,Satellite,3011,10,26,morning,0.27,0.8,0.32,0.444,43.01,2.6,0.2,0.436
+Gujarat,Ahmedabad,Satellite,7058,4,34,afternoon,0.27,0.8,0.32,0.444,252.07,8.5,0.3,0.49
+Gujarat,Ahmedabad,Satellite,8148,10,26,night,0.27,0.8,0.32,0.444,116.4,2.6,0.7,0.461
+Gujarat,Ahmedabad,Satellite,7404,5,28,evening,0.27,0.8,0.32,0.444,211.54,5.6,0.6,0.505
+Gujarat,Ahmedabad,Satellite,7312,4,13,morning,0.27,0.8,0.32,0.444,261.14,3.25,0.2,0.45
+Gujarat,Ahmedabad,Satellite,7328,8,27,evening,0.27,0.8,0.32,0.444,130.86,3.38,0.6,0.472
+Gujarat,Ahmedabad,Satellite,4155,10,20,evening,0.27,0.8,0.32,0.444,59.36,2.0,0.6,0.445
+Gujarat,Ahmedabad,Satellite,7062,8,24,morning,0.27,0.8,0.32,0.444,126.11,3.0,0.2,0.445
+Gujarat,Ahmedabad,Satellite,5104,5,20,night,0.27,0.8,0.32,0.444,145.83,4.0,0.7,0.489
+Gujarat,Ahmedabad,Satellite,7088,8,11,morning,0.27,0.8,0.32,0.444,126.57,1.38,0.2,0.412
+Gujarat,Ahmedabad,Satellite,6942,9,23,afternoon,0.27,0.8,0.32,0.444,110.19,2.56,0.3,0.441
+Gujarat,Ahmedabad,Satellite,8228,5,20,night,0.27,0.8,0.32,0.444,235.09,4.0,0.7,0.489
+Gujarat,Ahmedabad,Satellite,8395,5,22,afternoon,0.27,0.8,0.32,0.444,239.86,4.4,0.3,0.478
+Gujarat,Ahmedabad,Satellite,8333,7,16,night,0.27,0.8,0.32,0.444,170.06,2.29,0.7,0.455
+Gujarat,Ahmedabad,Satellite,3195,6,8,morning,0.27,0.8,0.32,0.444,76.07,1.33,0.2,0.411
+Gujarat,Ahmedabad,Satellite,5594,6,29,night,0.27,0.8,0.32,0.444,133.19,4.83,0.7,0.506
+Gujarat,Ahmedabad,Satellite,7756,12,30,afternoon,0.27,0.8,0.32,0.444,92.33,2.5,0.3,0.44
+Gujarat,Ahmedabad,Satellite,6375,11,18,evening,0.27,0.8,0.32,0.444,82.79,1.64,0.6,0.437
+Gujarat,Ahmedabad,Satellite,3191,4,20,morning,0.27,0.8,0.32,0.444,113.96,5.0,0.2,0.485
+Gujarat,Ahmedabad,Satellite,9485,12,20,night,0.27,0.8,0.32,0.444,112.92,1.67,0.7,0.443
+Gujarat,Ahmedabad,Satellite,9330,5,18,evening,0.27,0.8,0.32,0.444,266.57,3.6,0.6,0.477
+Gujarat,Ahmedabad,Satellite,5147,9,30,night,0.27,0.8,0.32,0.444,81.7,3.33,0.7,0.476
+Gujarat,Ahmedabad,Satellite,6624,5,22,evening,0.27,0.8,0.32,0.444,189.26,4.4,0.6,0.493
+Gujarat,Ahmedabad,Satellite,8360,12,12,evening,0.27,0.8,0.32,0.444,99.52,1.0,0.6,0.424
+Gujarat,Ahmedabad,Satellite,9299,6,35,morning,0.27,0.8,0.32,0.444,221.4,5.83,0.2,0.485
+Gujarat,Ahmedabad,Satellite,3189,4,18,afternoon,0.27,0.8,0.32,0.444,113.89,4.5,0.3,0.48
+Gujarat,Ahmedabad,Satellite,3941,6,12,afternoon,0.27,0.8,0.32,0.444,93.83,2.0,0.3,0.429
+Gujarat,Ahmedabad,Satellite,8319,4,27,evening,0.27,0.8,0.32,0.444,297.11,6.75,0.6,0.505
+Gujarat,Ahmedabad,Satellite,8407,5,9,morning,0.27,0.8,0.32,0.444,240.2,1.8,0.2,0.42
+Gujarat,Ahmedabad,Satellite,9512,5,18,night,0.27,0.8,0.32,0.444,271.77,3.6,0.7,0.481
+Gujarat,Ahmedabad,Satellite,7340,4,9,night,0.27,0.8,0.32,0.444,262.14,2.25,0.7,0.454
+Gujarat,Ahmedabad,Satellite,3051,11,32,morning,0.27,0.8,0.32,0.444,39.62,2.91,0.2,0.443
+Gujarat,Ahmedabad,Satellite,4547,9,27,night,0.27,0.8,0.32,0.444,72.17,3.0,0.7,0.469
+Gujarat,Ahmedabad,Satellite,6655,9,16,night,0.27,0.8,0.32,0.444,105.63,1.78,0.7,0.445
+Gujarat,Ahmedabad,Satellite,7653,11,12,night,0.27,0.8,0.32,0.444,99.39,1.09,0.7,0.431
+Gujarat,Ahmedabad,Satellite,7571,6,19,morning,0.27,0.8,0.32,0.444,180.26,3.17,0.2,0.448
+Gujarat,Ahmedabad,Vastrapur,3275,12,23,night,0.3,0.79,0.36,0.465,38.99,1.92,0.7,0.466
+Gujarat,Ahmedabad,Vastrapur,4406,10,9,evening,0.3,0.79,0.36,0.465,62.94,0.9,0.6,0.441
+Gujarat,Ahmedabad,Vastrapur,6087,8,27,evening,0.3,0.79,0.36,0.465,108.7,3.38,0.6,0.49
+Gujarat,Ahmedabad,Vastrapur,7655,11,33,evening,0.3,0.79,0.36,0.465,99.42,3.0,0.6,0.482
+Gujarat,Ahmedabad,Vastrapur,3359,8,34,night,0.3,0.79,0.36,0.465,59.98,4.25,0.7,0.512
+Gujarat,Ahmedabad,Vastrapur,8242,12,18,evening,0.3,0.79,0.36,0.465,98.12,1.5,0.6,0.453
+Gujarat,Ahmedabad,Vastrapur,6213,11,24,evening,0.3,0.79,0.36,0.465,80.69,2.18,0.6,0.466
+Gujarat,Ahmedabad,Vastrapur,3288,8,35,afternoon,0.3,0.79,0.36,0.465,58.71,4.38,0.3,0.495
+Gujarat,Ahmedabad,Vastrapur,3924,9,19,afternoon,0.3,0.79,0.36,0.465,62.29,2.11,0.3,0.45
+Gujarat,Ahmedabad,Vastrapur,4836,11,33,afternoon,0.3,0.79,0.36,0.465,62.81,3.0,0.3,0.467
+Gujarat,Ahmedabad,Vastrapur,8641,4,25,morning,0.3,0.79,0.36,0.465,308.61,6.25,0.2,0.502
+Gujarat,Ahmedabad,Vastrapur,6150,8,10,morning,0.3,0.79,0.36,0.465,109.82,1.25,0.2,0.427
+Gujarat,Ahmedabad,Vastrapur,7459,8,28,night,0.3,0.79,0.36,0.465,133.2,3.5,0.7,0.497
+Gujarat,Ahmedabad,Vastrapur,7861,4,21,night,0.3,0.79,0.36,0.465,280.75,5.25,0.7,0.527
+Gujarat,Ahmedabad,Vastrapur,6893,11,27,night,0.3,0.79,0.36,0.465,89.52,2.45,0.7,0.476
+Gujarat,Ahmedabad,Vastrapur,6959,4,31,afternoon,0.3,0.79,0.36,0.465,248.54,7.75,0.3,0.507
+Gujarat,Ahmedabad,Vastrapur,3765,9,10,night,0.3,0.79,0.36,0.465,59.76,1.11,0.7,0.45
+Gujarat,Ahmedabad,Vastrapur,8103,5,23,morning,0.3,0.79,0.36,0.465,231.51,4.6,0.2,0.494
+Gujarat,Ahmedabad,Vastrapur,5934,5,22,afternoon,0.3,0.79,0.36,0.465,169.54,4.4,0.3,0.495
+Gujarat,Ahmedabad,Vastrapur,5297,7,32,evening,0.3,0.79,0.36,0.465,108.1,4.57,0.6,0.514
+Gujarat,Ahmedabad,Vastrapur,7973,8,16,evening,0.3,0.79,0.36,0.465,142.38,2.0,0.6,0.463
+Gujarat,Ahmedabad,Vastrapur,9694,8,34,night,0.3,0.79,0.36,0.465,173.11,4.25,0.7,0.512
+Gujarat,Ahmedabad,Vastrapur,7245,10,17,night,0.3,0.79,0.36,0.465,103.5,1.7,0.7,0.461
+Gujarat,Ahmedabad,Vastrapur,5025,4,32,evening,0.3,0.79,0.36,0.465,179.46,8.0,0.6,0.522
+Gujarat,Ahmedabad,Vastrapur,4302,7,28,afternoon,0.3,0.79,0.36,0.465,87.8,4.0,0.3,0.487
+Gujarat,Ahmedabad,Vastrapur,3801,5,21,morning,0.3,0.79,0.36,0.465,108.6,4.2,0.2,0.486
+Gujarat,Ahmedabad,Vastrapur,8529,11,26,morning,0.3,0.79,0.36,0.465,110.77,2.36,0.2,0.45
+Gujarat,Ahmedabad,Vastrapur,8146,7,9,morning,0.3,0.79,0.36,0.465,166.24,1.29,0.2,0.428
+Gujarat,Ahmedabad,Vastrapur,8526,10,10,morning,0.3,0.79,0.36,0.465,121.8,1.0,0.2,0.422
+Gujarat,Ahmedabad,Vastrapur,5112,5,15,morning,0.3,0.79,0.36,0.465,146.06,3.0,0.2,0.462
+Gujarat,Ahmedabad,Vastrapur,9058,7,25,afternoon,0.3,0.79,0.36,0.465,184.86,3.57,0.3,0.479
+Gujarat,Ahmedabad,Vastrapur,8920,9,30,night,0.3,0.79,0.36,0.465,141.59,3.33,0.7,0.494
+Gujarat,Ahmedabad,Vastrapur,3133,7,19,night,0.3,0.79,0.36,0.465,63.94,2.71,0.7,0.482
+Gujarat,Ahmedabad,Vastrapur,7957,7,22,afternoon,0.3,0.79,0.36,0.465,162.39,3.14,0.3,0.47
+Gujarat,Ahmedabad,Vastrapur,5426,6,35,evening,0.3,0.79,0.36,0.465,129.19,5.83,0.6,0.522
+Gujarat,Ahmedabad,Vastrapur,5682,7,19,evening,0.3,0.79,0.36,0.465,115.96,2.71,0.6,0.477
+Gujarat,Ahmedabad,Vastrapur,4907,9,34,evening,0.3,0.79,0.36,0.465,77.89,3.78,0.6,0.498
+Gujarat,Ahmedabad,Vastrapur,9386,8,12,morning,0.3,0.79,0.36,0.465,167.61,1.5,0.2,0.432
+Gujarat,Ahmedabad,Vastrapur,8865,4,23,morning,0.3,0.79,0.36,0.465,316.61,5.75,0.2,0.502
+Gujarat,Ahmedabad,Vastrapur,4533,11,15,night,0.3,0.79,0.36,0.465,58.87,1.36,0.7,0.455
+Gujarat,Ahmedabad,Vastrapur,7201,11,16,evening,0.3,0.79,0.36,0.465,93.52,1.45,0.6,0.452
+Gujarat,Ahmedabad,Vastrapur,3976,5,23,morning,0.3,0.79,0.36,0.465,113.6,4.6,0.2,0.494
+Gujarat,Ahmedabad,Vastrapur,3439,4,24,morning,0.3,0.79,0.36,0.465,122.82,6.0,0.2,0.502
+Gujarat,Ahmedabad,Vastrapur,4403,10,18,afternoon,0.3,0.79,0.36,0.465,62.9,1.8,0.3,0.443
+Gujarat,Ahmedabad,Vastrapur,3120,8,11,night,0.3,0.79,0.36,0.465,55.71,1.38,0.7,0.455
+Gujarat,Ahmedabad,Vastrapur,8508,8,18,night,0.3,0.79,0.36,0.465,151.93,2.25,0.7,0.472
+Gujarat,Ahmedabad,Vastrapur,6358,10,16,morning,0.3,0.79,0.36,0.465,90.83,1.6,0.2,0.434
+Gujarat,Ahmedabad,Vastrapur,8375,11,11,night,0.3,0.79,0.36,0.465,108.77,1.0,0.7,0.447
+Gujarat,Ahmedabad,Vastrapur,8666,10,19,evening,0.3,0.79,0.36,0.465,123.8,1.9,0.6,0.461
+Gujarat,Ahmedabad,Vastrapur,7995,11,23,morning,0.3,0.79,0.36,0.465,103.83,2.09,0.2,0.444
+Gujarat,Ahmedabad,Vastrapur,5585,11,23,evening,0.3,0.79,0.36,0.465,72.53,2.09,0.6,0.464
+Gujarat,Ahmedabad,Vastrapur,7733,10,11,morning,0.3,0.79,0.36,0.465,110.47,1.1,0.2,0.424
+Gujarat,Ahmedabad,Vastrapur,9083,9,22,morning,0.3,0.79,0.36,0.465,144.17,2.44,0.2,0.451
+Gujarat,Ahmedabad,Vastrapur,7928,5,9,afternoon,0.3,0.79,0.36,0.465,226.51,1.8,0.3,0.443
+Gujarat,Ahmedabad,Vastrapur,8972,5,22,evening,0.3,0.79,0.36,0.465,256.34,4.4,0.6,0.51
+Gujarat,Ahmedabad,Vastrapur,7796,9,16,morning,0.3,0.79,0.36,0.465,123.75,1.78,0.2,0.438
+Gujarat,Ahmedabad,Vastrapur,9195,5,28,afternoon,0.3,0.79,0.36,0.465,262.71,5.6,0.3,0.507
+Gujarat,Ahmedabad,Vastrapur,3886,7,32,evening,0.3,0.79,0.36,0.465,79.31,4.57,0.6,0.514
+Gujarat,Ahmedabad,Vastrapur,5653,9,29,night,0.3,0.79,0.36,0.465,89.73,3.22,0.7,0.492
+Gujarat,Ahmedabad,Vastrapur,5425,11,35,morning,0.3,0.79,0.36,0.465,70.45,3.18,0.2,0.466
+Gujarat,Ahmedabad,Vastrapur,3397,10,29,morning,0.3,0.79,0.36,0.465,48.53,2.9,0.2,0.46
+Gujarat,Ahmedabad,Vastrapur,5051,8,32,night,0.3,0.79,0.36,0.465,90.2,4.0,0.7,0.507
+Gujarat,Ahmedabad,Vastrapur,6338,6,14,afternoon,0.3,0.79,0.36,0.465,150.9,2.33,0.3,0.454
+Gujarat,Ahmedabad,Vastrapur,3463,8,32,evening,0.3,0.79,0.36,0.465,61.84,4.0,0.6,0.502
+Gujarat,Ahmedabad,Vastrapur,8137,9,28,evening,0.3,0.79,0.36,0.465,129.16,3.11,0.6,0.485
+Gujarat,Ahmedabad,Vastrapur,4797,7,12,evening,0.3,0.79,0.36,0.465,97.9,1.71,0.6,0.457
+Gujarat,Ahmedabad,Vastrapur,4609,9,13,morning,0.3,0.79,0.36,0.465,73.16,1.44,0.2,0.431
+Gujarat,Ahmedabad,Vastrapur,7761,4,26,morning,0.3,0.79,0.36,0.465,277.18,6.5,0.2,0.502
+Gujarat,Ahmedabad,Vastrapur,6806,10,31,afternoon,0.3,0.79,0.36,0.465,97.23,3.1,0.3,0.469
+Gujarat,Ahmedabad,Vastrapur,3072,8,18,morning,0.3,0.79,0.36,0.465,54.86,2.25,0.2,0.447
+Gujarat,Ahmedabad,Vastrapur,5115,7,26,evening,0.3,0.79,0.36,0.465,104.39,3.71,0.6,0.497
+Gujarat,Ahmedabad,Vastrapur,3298,5,27,night,0.3,0.79,0.36,0.465,94.23,5.4,0.7,0.527
+Gujarat,Ahmedabad,Vastrapur,6609,5,12,afternoon,0.3,0.79,0.36,0.465,188.83,2.4,0.3,0.455
+Gujarat,Ahmedabad,Vastrapur,8457,10,30,afternoon,0.3,0.79,0.36,0.465,120.81,3.0,0.3,0.467
+Gujarat,Ahmedabad,Vastrapur,5811,9,10,afternoon,0.3,0.79,0.36,0.465,92.24,1.11,0.3,0.43
+Gujarat,Ahmedabad,Vastrapur,5587,12,17,morning,0.3,0.79,0.36,0.465,66.51,1.42,0.2,0.431
+Gujarat,Ahmedabad,Vastrapur,9696,12,35,evening,0.3,0.79,0.36,0.465,115.43,2.92,0.6,0.481
+Gujarat,Ahmedabad,Vastrapur,5226,4,14,afternoon,0.3,0.79,0.36,0.465,186.64,3.5,0.3,0.477
+Gujarat,Ahmedabad,Vastrapur,7803,12,28,afternoon,0.3,0.79,0.36,0.465,92.89,2.33,0.3,0.454
+Gujarat,Ahmedabad,Vastrapur,6058,9,23,afternoon,0.3,0.79,0.36,0.465,96.16,2.56,0.3,0.459
+Gujarat,Ahmedabad,Bopal,9721,4,10,evening,0.31,0.83,0.34,0.475,347.18,2.5,0.6,0.481
+Gujarat,Ahmedabad,Bopal,9149,8,9,evening,0.31,0.83,0.34,0.475,163.38,1.12,0.6,0.453
+Gujarat,Ahmedabad,Bopal,8847,8,11,evening,0.31,0.83,0.34,0.475,157.98,1.38,0.6,0.459
+Gujarat,Ahmedabad,Bopal,4466,11,8,morning,0.31,0.83,0.34,0.475,58.0,0.73,0.2,0.426
+Gujarat,Ahmedabad,Bopal,7781,9,31,afternoon,0.31,0.83,0.34,0.475,123.51,3.44,0.3,0.485
+Gujarat,Ahmedabad,Bopal,7794,6,22,morning,0.31,0.83,0.34,0.475,185.57,3.67,0.2,0.484
+Gujarat,Ahmedabad,Bopal,3164,4,8,morning,0.31,0.83,0.34,0.475,113.0,2.0,0.2,0.451
+Gujarat,Ahmedabad,Bopal,8477,7,30,evening,0.31,0.83,0.34,0.475,173.0,4.29,0.6,0.517
+Gujarat,Ahmedabad,Bopal,6355,9,9,evening,0.31,0.83,0.34,0.475,100.87,1.0,0.6,0.451
+Gujarat,Ahmedabad,Bopal,9584,9,14,night,0.31,0.83,0.34,0.475,152.13,1.56,0.7,0.467
+Gujarat,Ahmedabad,Bopal,6975,9,24,morning,0.31,0.83,0.34,0.475,110.71,2.67,0.2,0.464
+Gujarat,Ahmedabad,Bopal,9008,9,11,morning,0.31,0.83,0.34,0.475,142.98,1.22,0.2,0.435
+Gujarat,Ahmedabad,Bopal,9762,4,14,evening,0.31,0.83,0.34,0.475,348.64,3.5,0.6,0.501
+Gujarat,Ahmedabad,Bopal,6489,7,34,night,0.31,0.83,0.34,0.475,132.43,4.86,0.7,0.533
+Gujarat,Ahmedabad,Bopal,4878,6,20,afternoon,0.31,0.83,0.34,0.475,116.14,3.33,0.3,0.483
+Gujarat,Ahmedabad,Bopal,3140,12,20,afternoon,0.31,0.83,0.34,0.475,37.38,1.67,0.3,0.449
+Gujarat,Ahmedabad,Bopal,6019,11,14,afternoon,0.31,0.83,0.34,0.475,78.17,1.27,0.3,0.441
+Gujarat,Ahmedabad,Bopal,8105,11,35,afternoon,0.31,0.83,0.34,0.475,105.26,3.18,0.3,0.48
+Gujarat,Ahmedabad,Bopal,5972,12,22,evening,0.31,0.83,0.34,0.475,71.1,1.83,0.6,0.468
+Gujarat,Ahmedabad,Bopal,9470,5,19,morning,0.31,0.83,0.34,0.475,270.57,3.8,0.2,0.487
+Gujarat,Ahmedabad,Bopal,8549,10,12,morning,0.31,0.83,0.34,0.475,122.13,1.2,0.2,0.435
+Gujarat,Ahmedabad,Bopal,6482,12,28,night,0.31,0.83,0.34,0.475,77.17,2.33,0.7,0.483
+Gujarat,Ahmedabad,Bopal,8002,5,13,afternoon,0.31,0.83,0.34,0.475,228.63,2.6,0.3,0.468
+Gujarat,Ahmedabad,Bopal,4000,8,16,evening,0.31,0.83,0.34,0.475,71.43,2.0,0.6,0.471
+Gujarat,Ahmedabad,Bopal,6254,11,13,morning,0.31,0.83,0.34,0.475,81.22,1.18,0.2,0.435
+Gujarat,Ahmedabad,Bopal,4101,4,34,night,0.31,0.83,0.34,0.475,146.46,8.5,0.7,0.536
+Gujarat,Ahmedabad,Bopal,8470,10,15,morning,0.31,0.83,0.34,0.475,121.0,1.5,0.2,0.441
+Gujarat,Ahmedabad,Bopal,5505,8,26,afternoon,0.31,0.83,0.34,0.475,98.3,3.25,0.3,0.481
+Gujarat,Ahmedabad,Bopal,5523,5,11,afternoon,0.31,0.83,0.34,0.475,157.8,2.2,0.3,0.46
+Gujarat,Ahmedabad,Bopal,4083,12,32,afternoon,0.31,0.83,0.34,0.475,48.61,2.67,0.3,0.469
+Gujarat,Ahmedabad,Bopal,7663,7,10,morning,0.31,0.83,0.34,0.475,156.39,1.43,0.2,0.44
+Gujarat,Ahmedabad,Bopal,6163,9,24,night,0.31,0.83,0.34,0.475,97.83,2.67,0.7,0.489
+Gujarat,Ahmedabad,Bopal,9504,6,8,evening,0.31,0.83,0.34,0.475,226.29,1.33,0.6,0.458
+Gujarat,Ahmedabad,Bopal,7582,11,32,morning,0.31,0.83,0.34,0.475,98.47,2.91,0.2,0.469
+Gujarat,Ahmedabad,Bopal,5384,6,26,afternoon,0.31,0.83,0.34,0.475,128.19,4.33,0.3,0.503
+Gujarat,Ahmedabad,Bopal,8082,4,30,afternoon,0.31,0.83,0.34,0.475,288.64,7.5,0.3,0.516
+Gujarat,Ahmedabad,Bopal,3113,12,8,evening,0.31,0.83,0.34,0.475,37.06,0.67,0.6,0.444
+Gujarat,Ahmedabad,Bopal,6676,12,10,afternoon,0.31,0.83,0.34,0.475,79.48,0.83,0.3,0.433
+Gujarat,Ahmedabad,Bopal,9994,10,12,night,0.31,0.83,0.34,0.475,142.77,1.2,0.7,0.46
+Gujarat,Ahmedabad,Bopal,3845,5,28,night,0.31,0.83,0.34,0.475,109.86,5.6,0.7,0.536
+Gujarat,Ahmedabad,Bopal,4159,12,10,night,0.31,0.83,0.34,0.475,49.51,0.83,0.7,0.453
+Gujarat,Ahmedabad,Bopal,9040,4,10,afternoon,0.31,0.83,0.34,0.475,322.86,2.5,0.3,0.466
+Gujarat,Ahmedabad,Bopal,3036,4,28,afternoon,0.31,0.83,0.34,0.475,108.43,7.0,0.3,0.516
+Gujarat,Ahmedabad,Bopal,5627,12,31,afternoon,0.31,0.83,0.34,0.475,66.99,2.58,0.3,0.468
+Gujarat,Ahmedabad,Bopal,4710,9,17,afternoon,0.31,0.83,0.34,0.475,74.76,1.89,0.3,0.454
+Gujarat,Ahmedabad,Bopal,4517,6,22,night,0.31,0.83,0.34,0.475,107.55,3.67,0.7,0.509
+Gujarat,Ahmedabad,Bopal,3419,6,33,afternoon,0.31,0.83,0.34,0.475,81.4,5.5,0.3,0.516
+Gujarat,Ahmedabad,Bopal,6113,4,9,evening,0.31,0.83,0.34,0.475,218.32,2.25,0.6,0.476
+Gujarat,Ahmedabad,Bopal,4671,9,12,afternoon,0.31,0.83,0.34,0.475,74.14,1.33,0.3,0.443
+Gujarat,Ahmedabad,Bopal,9063,9,34,night,0.31,0.83,0.34,0.475,143.86,3.78,0.7,0.512
+Gujarat,Ahmedabad,Bopal,5336,5,16,night,0.31,0.83,0.34,0.475,152.46,3.2,0.7,0.5
+Gujarat,Ahmedabad,Bopal,9518,9,24,night,0.31,0.83,0.34,0.475,151.08,2.67,0.7,0.489
+Gujarat,Ahmedabad,Bopal,4847,9,24,morning,0.31,0.83,0.34,0.475,76.94,2.67,0.2,0.464
+Gujarat,Ahmedabad,Bopal,9078,6,19,morning,0.31,0.83,0.34,0.475,216.14,3.17,0.2,0.474
+Gujarat,Ahmedabad,Bopal,9202,4,29,evening,0.31,0.83,0.34,0.475,328.64,7.25,0.6,0.531
+Gujarat,Ahmedabad,Bopal,6445,5,22,afternoon,0.31,0.83,0.34,0.475,184.14,4.4,0.3,0.504
+Gujarat,Ahmedabad,Bopal,7660,8,27,evening,0.31,0.83,0.34,0.475,136.79,3.38,0.6,0.499
+Gujarat,Ahmedabad,Bopal,7633,6,35,morning,0.31,0.83,0.34,0.475,181.74,5.83,0.2,0.511
+Gujarat,Ahmedabad,Bopal,5318,6,30,afternoon,0.31,0.83,0.34,0.475,126.62,5.0,0.3,0.516
+Gujarat,Ahmedabad,Bopal,8339,5,14,night,0.31,0.83,0.34,0.475,238.26,2.8,0.7,0.492
+Gujarat,Ahmedabad,Bopal,9226,8,31,evening,0.31,0.83,0.34,0.475,164.75,3.88,0.6,0.509
+Gujarat,Ahmedabad,Bopal,6116,8,14,morning,0.31,0.83,0.34,0.475,109.21,1.75,0.2,0.446
+Gujarat,Ahmedabad,Bopal,6728,4,15,evening,0.31,0.83,0.34,0.475,240.29,3.75,0.6,0.506
+Gujarat,Ahmedabad,Bopal,9045,9,34,morning,0.31,0.83,0.34,0.475,143.57,3.78,0.2,0.487
+Gujarat,Ahmedabad,Bopal,3472,12,26,night,0.31,0.83,0.34,0.475,41.33,2.17,0.7,0.479
+Gujarat,Ahmedabad,Bopal,6570,7,8,morning,0.31,0.83,0.34,0.475,134.08,1.14,0.2,0.434
+Gujarat,Ahmedabad,Bopal,3199,8,33,morning,0.31,0.83,0.34,0.475,57.12,4.12,0.2,0.493
+Gujarat,Ahmedabad,Bopal,7461,8,19,morning,0.31,0.83,0.34,0.475,133.23,2.38,0.2,0.459
+Gujarat,Ahmedabad,Bopal,3188,9,12,evening,0.31,0.83,0.34,0.475,50.6,1.33,0.6,0.458
+Gujarat,Ahmedabad,Bopal,8944,6,20,morning,0.31,0.83,0.34,0.475,212.95,3.33,0.2,0.478
+Gujarat,Ahmedabad,Bopal,3920,4,34,morning,0.31,0.83,0.34,0.475,140.0,8.5,0.2,0.511
+Gujarat,Ahmedabad,Bopal,5692,5,17,morning,0.31,0.83,0.34,0.475,162.63,3.4,0.2,0.479
+Gujarat,Ahmedabad,Bopal,6430,4,32,morning,0.31,0.83,0.34,0.475,229.64,8.0,0.2,0.511
+Gujarat,Ahmedabad,Bopal,4193,9,19,morning,0.31,0.83,0.34,0.475,66.56,2.11,0.2,0.453
+Gujarat,Ahmedabad,Bopal,7313,10,21,night,0.31,0.83,0.34,0.475,104.47,2.1,0.7,0.478
+Gujarat,Ahmedabad,Bopal,8718,8,28,night,0.31,0.83,0.34,0.475,155.68,3.5,0.7,0.506
+Gujarat,Ahmedabad,Bopal,3102,5,17,night,0.31,0.83,0.34,0.475,88.63,3.4,0.7,0.504
+Gujarat,Ahmedabad,Bopal,3017,7,23,evening,0.31,0.83,0.34,0.475,61.57,3.29,0.6,0.497
+Gujarat,Ahmedabad,Bopal,5340,7,20,evening,0.31,0.83,0.34,0.475,108.98,2.86,0.6,0.488
+Gujarat,Ahmedabad,Bopal,9110,9,16,afternoon,0.31,0.83,0.34,0.475,144.6,1.78,0.3,0.452
+Gujarat,Surat,Adajan,4705,6,14,afternoon,0.66,0.71,0.42,0.603,112.02,2.33,0.3,0.575
+Gujarat,Surat,Adajan,6508,7,32,afternoon,0.66,0.71,0.42,0.603,132.82,4.57,0.3,0.62
+Gujarat,Surat,Adajan,4775,11,23,night,0.66,0.71,0.42,0.603,62.01,2.09,0.7,0.59
+Gujarat,Surat,Adajan,3921,5,26,afternoon,0.66,0.71,0.42,0.603,112.03,5.2,0.3,0.628
+Gujarat,Surat,Adajan,4043,7,14,evening,0.66,0.71,0.42,0.603,82.51,2.0,0.6,0.584
+Gujarat,Surat,Adajan,9350,10,30,night,0.66,0.71,0.42,0.603,133.57,3.0,0.7,0.608
+Gujarat,Surat,Adajan,9550,6,30,evening,0.66,0.71,0.42,0.603,227.38,5.0,0.6,0.643
+Gujarat,Surat,Adajan,4481,4,28,evening,0.66,0.71,0.42,0.603,160.04,7.0,0.6,0.643
+Gujarat,Surat,Adajan,6284,7,31,night,0.66,0.71,0.42,0.603,128.24,4.43,0.7,0.637
+Gujarat,Surat,Adajan,8346,6,22,morning,0.66,0.71,0.42,0.603,198.71,3.67,0.2,0.597
+Gujarat,Surat,Adajan,5008,9,30,afternoon,0.66,0.71,0.42,0.603,79.49,3.33,0.3,0.595
+Gujarat,Surat,Adajan,3450,11,33,morning,0.66,0.71,0.42,0.603,44.81,3.0,0.2,0.583
+Gujarat,Surat,Adajan,9114,6,8,afternoon,0.66,0.71,0.42,0.603,217.0,1.33,0.3,0.555
+Gujarat,Surat,Adajan,5335,8,12,afternoon,0.66,0.71,0.42,0.603,95.27,1.5,0.3,0.558
+Gujarat,Surat,Adajan,5893,4,34,night,0.66,0.71,0.42,0.603,210.46,8.5,0.7,0.648
+Gujarat,Surat,Adajan,7943,10,29,morning,0.66,0.71,0.42,0.603,113.47,2.9,0.2,0.581
+Gujarat,Surat,Adajan,9195,9,31,afternoon,0.66,0.71,0.42,0.603,145.95,3.44,0.3,0.597
+Gujarat,Surat,Adajan,3638,12,12,afternoon,0.66,0.71,0.42,0.603,43.31,1.0,0.3,0.548
+Gujarat,Surat,Adajan,6656,10,31,night,0.66,0.71,0.42,0.603,95.09,3.1,0.7,0.61
+Gujarat,Surat,Adajan,5146,9,12,evening,0.66,0.71,0.42,0.603,81.68,1.33,0.6,0.57
+Gujarat,Surat,Adajan,8380,10,25,afternoon,0.66,0.71,0.42,0.603,119.71,2.5,0.3,0.579
+Gujarat,Surat,Adajan,6962,11,27,evening,0.66,0.71,0.42,0.603,90.42,2.45,0.6,0.593
+Gujarat,Surat,Adajan,7067,12,21,afternoon,0.66,0.71,0.42,0.603,84.13,1.75,0.3,0.564
+Gujarat,Surat,Adajan,9795,6,33,night,0.66,0.71,0.42,0.603,233.21,5.5,0.7,0.648
+Gujarat,Surat,Adajan,5745,4,23,night,0.66,0.71,0.42,0.603,205.18,5.75,0.7,0.648
+Gujarat,Surat,Adajan,9201,12,19,afternoon,0.66,0.71,0.42,0.603,109.54,1.58,0.3,0.56
+Gujarat,Surat,Adajan,3452,10,25,night,0.66,0.71,0.42,0.603,49.31,2.5,0.7,0.599
+Gujarat,Surat,Adajan,5532,12,29,afternoon,0.66,0.71,0.42,0.603,65.86,2.42,0.3,0.577
+Gujarat,Surat,Adajan,7069,10,23,afternoon,0.66,0.71,0.42,0.603,100.99,2.3,0.3,0.575
+Gujarat,Surat,Adajan,6461,4,12,afternoon,0.66,0.71,0.42,0.603,230.75,3.0,0.3,0.588
+Gujarat,Surat,Adajan,9124,5,20,afternoon,0.66,0.71,0.42,0.603,260.69,4.0,0.3,0.608
+Gujarat,Surat,Adajan,7412,6,33,afternoon,0.66,0.71,0.42,0.603,176.48,5.5,0.3,0.628
+Gujarat,Surat,Adajan,4234,12,21,afternoon,0.66,0.71,0.42,0.603,50.4,1.75,0.3,0.564
+Gujarat,Surat,Adajan,9579,11,15,night,0.66,0.71,0.42,0.603,124.4,1.36,0.7,0.576
+Gujarat,Surat,Adajan,8956,5,24,afternoon,0.66,0.71,0.42,0.603,255.89,4.8,0.3,0.624
+Gujarat,Surat,Adajan,6106,12,16,afternoon,0.66,0.71,0.42,0.603,72.69,1.33,0.3,0.555
+Gujarat,Surat,Adajan,8834,5,22,afternoon,0.66,0.71,0.42,0.603,252.4,4.4,0.3,0.616
+Gujarat,Surat,Adajan,7110,8,26,morning,0.66,0.71,0.42,0.603,126.96,3.25,0.2,0.589
+Gujarat,Surat,Adajan,6933,5,22,evening,0.66,0.71,0.42,0.603,198.09,4.4,0.6,0.631
+Gujarat,Surat,Adajan,6999,5,23,morning,0.66,0.71,0.42,0.603,199.97,4.6,0.2,0.615
+Gujarat,Surat,Adajan,8489,10,18,afternoon,0.66,0.71,0.42,0.603,121.27,1.8,0.3,0.565
+Gujarat,Surat,Adajan,6073,6,24,evening,0.66,0.71,0.42,0.603,144.6,4.0,0.6,0.623
+Gujarat,Surat,Adajan,5983,10,21,afternoon,0.66,0.71,0.42,0.603,85.47,2.1,0.3,0.571
+Gujarat,Surat,Adajan,4202,7,32,night,0.66,0.71,0.42,0.603,85.76,4.57,0.7,0.64
+Gujarat,Surat,Adajan,5766,5,8,morning,0.66,0.71,0.42,0.603,164.74,1.6,0.2,0.555
+Gujarat,Surat,Adajan,7713,5,20,afternoon,0.66,0.71,0.42,0.603,220.37,4.0,0.3,0.608
+Gujarat,Surat,Adajan,8211,10,13,morning,0.66,0.71,0.42,0.603,117.3,1.3,0.2,0.549
+Gujarat,Surat,Adajan,4155,5,9,night,0.66,0.71,0.42,0.603,118.71,1.8,0.7,0.585
+Gujarat,Surat,Adajan,9357,11,30,afternoon,0.66,0.71,0.42,0.603,121.52,2.73,0.3,0.583
+Gujarat,Surat,Adajan,5923,12,25,evening,0.66,0.71,0.42,0.603,70.51,2.08,0.6,0.585
+Gujarat,Surat,Adajan,8971,6,25,afternoon,0.66,0.71,0.42,0.603,213.6,4.17,0.3,0.612
+Gujarat,Surat,Adajan,3349,8,25,morning,0.66,0.71,0.42,0.603,59.8,3.12,0.2,0.586
+Gujarat,Surat,Adajan,5445,5,18,evening,0.66,0.71,0.42,0.603,155.57,3.6,0.6,0.615
+Gujarat,Surat,Adajan,4532,7,30,afternoon,0.66,0.71,0.42,0.603,92.49,4.29,0.3,0.614
+Gujarat,Surat,Adajan,6889,8,10,afternoon,0.66,0.71,0.42,0.603,123.02,1.25,0.3,0.553
+Gujarat,Surat,Adajan,6299,8,13,afternoon,0.66,0.71,0.42,0.603,112.48,1.62,0.3,0.561
+Gujarat,Surat,Adajan,9220,8,22,night,0.66,0.71,0.42,0.603,164.64,2.75,0.7,0.604
+Gujarat,Surat,Adajan,9602,5,16,morning,0.66,0.71,0.42,0.603,274.34,3.2,0.2,0.587
+Gujarat,Surat,Adajan,8948,10,34,evening,0.66,0.71,0.42,0.603,127.83,3.4,0.6,0.611
+Gujarat,Surat,Adajan,4649,6,21,morning,0.66,0.71,0.42,0.603,110.69,3.5,0.2,0.593
+Gujarat,Surat,Adajan,5748,10,15,evening,0.66,0.71,0.42,0.603,82.11,1.5,0.6,0.574
+Gujarat,Surat,Adajan,3324,9,16,morning,0.66,0.71,0.42,0.603,52.76,1.78,0.2,0.559
+Gujarat,Surat,Adajan,9063,5,28,evening,0.66,0.71,0.42,0.603,258.94,5.6,0.6,0.643
+Gujarat,Surat,Adajan,8614,11,23,morning,0.66,0.71,0.42,0.603,111.87,2.09,0.2,0.565
+Gujarat,Surat,Adajan,5520,11,8,evening,0.66,0.71,0.42,0.603,71.69,0.73,0.6,0.558
+Gujarat,Surat,Adajan,6354,9,15,morning,0.66,0.71,0.42,0.603,100.86,1.67,0.2,0.557
+Gujarat,Surat,Adajan,6475,7,15,morning,0.66,0.71,0.42,0.603,132.14,2.14,0.2,0.566
+Gujarat,Surat,Adajan,9443,11,20,night,0.66,0.71,0.42,0.603,122.64,1.82,0.7,0.585
+Gujarat,Surat,Adajan,9231,8,22,evening,0.66,0.71,0.42,0.603,164.84,2.75,0.6,0.599
+Gujarat,Surat,Adajan,3238,12,26,night,0.66,0.71,0.42,0.603,38.55,2.17,0.7,0.592
+Gujarat,Surat,Adajan,6339,10,33,evening,0.66,0.71,0.42,0.603,90.56,3.3,0.6,0.609
+Gujarat,Surat,Adajan,5999,6,13,night,0.66,0.71,0.42,0.603,142.83,2.17,0.7,0.592
+Gujarat,Surat,Adajan,8719,5,11,afternoon,0.66,0.71,0.42,0.603,249.11,2.2,0.3,0.573
+Gujarat,Surat,Adajan,6014,4,24,afternoon,0.66,0.71,0.42,0.603,214.79,6.0,0.3,0.628
+Gujarat,Surat,Adajan,7510,6,10,night,0.66,0.71,0.42,0.603,178.81,1.67,0.7,0.582
+Gujarat,Surat,Adajan,6202,9,17,morning,0.66,0.71,0.42,0.603,98.44,1.89,0.2,0.561
+Gujarat,Surat,Adajan,3465,8,26,evening,0.66,0.71,0.42,0.603,61.88,3.25,0.6,0.609
+Gujarat,Surat,Adajan,7875,4,30,afternoon,0.66,0.71,0.42,0.603,281.25,7.5,0.3,0.628
+Gujarat,Surat,Adajan,7693,10,27,evening,0.66,0.71,0.42,0.603,109.9,2.7,0.6,0.598
+Gujarat,Surat,Adajan,7121,5,28,evening,0.66,0.71,0.42,0.603,203.46,5.6,0.6,0.643
+Gujarat,Surat,Vesu,3991,4,31,night,0.6,0.7,0.34,0.552,142.54,7.75,0.7,0.605
+Gujarat,Surat,Vesu,7584,11,16,morning,0.6,0.7,0.34,0.552,98.49,1.45,0.2,0.509
+Gujarat,Surat,Vesu,8705,10,18,afternoon,0.6,0.7,0.34,0.552,124.36,1.8,0.3,0.521
+Gujarat,Surat,Vesu,6364,10,35,night,0.6,0.7,0.34,0.552,90.91,3.5,0.7,0.575
+Gujarat,Surat,Vesu,5628,10,18,evening,0.6,0.7,0.34,0.552,80.4,1.8,0.6,0.536
+Gujarat,Surat,Vesu,7761,10,15,morning,0.6,0.7,0.34,0.552,110.87,1.5,0.2,0.51
+Gujarat,Surat,Vesu,5224,11,10,afternoon,0.6,0.7,0.34,0.552,67.84,0.91,0.3,0.503
+Gujarat,Surat,Vesu,8811,11,10,evening,0.6,0.7,0.34,0.552,114.43,0.91,0.6,0.518
+Gujarat,Surat,Vesu,3213,10,31,evening,0.6,0.7,0.34,0.552,45.9,3.1,0.6,0.562
+Gujarat,Surat,Vesu,8899,12,9,evening,0.6,0.7,0.34,0.552,105.94,0.75,0.6,0.515
+Gujarat,Surat,Vesu,7121,10,24,afternoon,0.6,0.7,0.34,0.552,101.73,2.4,0.3,0.533
+Gujarat,Surat,Vesu,7945,12,31,morning,0.6,0.7,0.34,0.552,94.58,2.58,0.2,0.532
+Gujarat,Surat,Vesu,7673,6,21,night,0.6,0.7,0.34,0.552,182.69,3.5,0.7,0.575
+Gujarat,Surat,Vesu,8981,6,12,morning,0.6,0.7,0.34,0.552,213.83,2.0,0.2,0.52
+Gujarat,Surat,Vesu,7703,4,24,night,0.6,0.7,0.34,0.552,275.11,6.0,0.7,0.605
+Gujarat,Surat,Vesu,8624,7,19,morning,0.6,0.7,0.34,0.552,176.0,2.71,0.2,0.534
+Gujarat,Surat,Vesu,3058,10,31,afternoon,0.6,0.7,0.34,0.552,43.69,3.1,0.3,0.547
+Gujarat,Surat,Vesu,5091,8,17,night,0.6,0.7,0.34,0.552,90.91,2.12,0.7,0.547
+Gujarat,Surat,Vesu,8248,10,25,afternoon,0.6,0.7,0.34,0.552,117.83,2.5,0.3,0.535
+Gujarat,Surat,Vesu,4363,6,32,evening,0.6,0.7,0.34,0.552,103.88,5.33,0.6,0.6
+Gujarat,Surat,Vesu,3519,8,24,morning,0.6,0.7,0.34,0.552,62.84,3.0,0.2,0.54
+Gujarat,Surat,Vesu,7966,11,15,morning,0.6,0.7,0.34,0.552,103.45,1.36,0.2,0.507
+Gujarat,Surat,Vesu,4954,7,20,night,0.6,0.7,0.34,0.552,101.1,2.86,0.7,0.562
+Gujarat,Surat,Vesu,4320,8,33,evening,0.6,0.7,0.34,0.552,77.14,4.12,0.6,0.582
+Gujarat,Surat,Vesu,9098,4,12,morning,0.6,0.7,0.34,0.552,324.93,3.0,0.2,0.54
+Gujarat,Surat,Vesu,5122,6,30,evening,0.6,0.7,0.34,0.552,121.95,5.0,0.6,0.6
+Gujarat,Surat,Vesu,7104,7,24,evening,0.6,0.7,0.34,0.552,144.98,3.43,0.6,0.569
+Gujarat,Surat,Vesu,3538,8,16,evening,0.6,0.7,0.34,0.552,63.18,2.0,0.6,0.54
+Gujarat,Surat,Vesu,3019,11,11,night,0.6,0.7,0.34,0.552,39.21,1.0,0.7,0.525
+Gujarat,Surat,Vesu,3940,10,10,evening,0.6,0.7,0.34,0.552,56.29,1.0,0.6,0.52
+Gujarat,Surat,Vesu,8748,8,29,evening,0.6,0.7,0.34,0.552,156.21,3.62,0.6,0.572
+Gujarat,Surat,Vesu,9880,11,30,night,0.6,0.7,0.34,0.552,128.31,2.73,0.7,0.56
+Gujarat,Surat,Vesu,8574,6,16,evening,0.6,0.7,0.34,0.552,204.14,2.67,0.6,0.553
+Gujarat,Surat,Vesu,5894,12,24,morning,0.6,0.7,0.34,0.552,70.17,2.0,0.2,0.52
+Gujarat,Surat,Vesu,3796,10,33,afternoon,0.6,0.7,0.34,0.552,54.23,3.3,0.3,0.551
+Gujarat,Surat,Vesu,6591,7,18,morning,0.6,0.7,0.34,0.552,134.51,2.57,0.2,0.531
+Gujarat,Surat,Vesu,9525,6,22,evening,0.6,0.7,0.34,0.552,226.79,3.67,0.6,0.573
+Gujarat,Surat,Vesu,8227,10,23,night,0.6,0.7,0.34,0.552,117.53,2.3,0.7,0.551
+Gujarat,Surat,Vesu,9165,8,10,night,0.6,0.7,0.34,0.552,163.66,1.25,0.7,0.53
+Gujarat,Surat,Vesu,3913,9,26,evening,0.6,0.7,0.34,0.552,62.11,2.89,0.6,0.558
+Gujarat,Surat,Vesu,9893,9,35,morning,0.6,0.7,0.34,0.552,157.03,3.89,0.2,0.558
+Gujarat,Surat,Vesu,9767,10,26,afternoon,0.6,0.7,0.34,0.552,139.53,2.6,0.3,0.537
+Gujarat,Surat,Vesu,8723,12,33,morning,0.6,0.7,0.34,0.552,103.85,2.75,0.2,0.535
+Gujarat,Surat,Vesu,6407,6,9,morning,0.6,0.7,0.34,0.552,152.55,1.5,0.2,0.51
+Gujarat,Surat,Vesu,3994,7,13,morning,0.6,0.7,0.34,0.552,81.51,1.86,0.2,0.517
+Gujarat,Surat,Vesu,6017,12,32,morning,0.6,0.7,0.34,0.552,71.63,2.67,0.2,0.533
+Gujarat,Surat,Vesu,6202,7,9,evening,0.6,0.7,0.34,0.552,126.57,1.29,0.6,0.526
+Gujarat,Surat,Vesu,3551,5,34,morning,0.6,0.7,0.34,0.552,101.46,6.8,0.2,0.58
+Gujarat,Surat,Vesu,6512,5,33,afternoon,0.6,0.7,0.34,0.552,186.06,6.6,0.3,0.585
+Gujarat,Surat,Vesu,4996,11,20,evening,0.6,0.7,0.34,0.552,64.88,1.82,0.6,0.536
+Gujarat,Surat,Vesu,7787,4,28,morning,0.6,0.7,0.34,0.552,278.11,7.0,0.2,0.58
+Gujarat,Surat,Vesu,7793,11,19,night,0.6,0.7,0.34,0.552,101.21,1.73,0.7,0.54
+Gujarat,Surat,Vesu,8538,9,31,night,0.6,0.7,0.34,0.552,135.52,3.44,0.7,0.574
+Gujarat,Surat,Vesu,9102,4,26,afternoon,0.6,0.7,0.34,0.552,325.07,6.5,0.3,0.585
+Gujarat,Surat,Vesu,8145,9,24,morning,0.6,0.7,0.34,0.552,129.29,2.67,0.2,0.533
+Gujarat,Surat,Vesu,4749,5,28,evening,0.6,0.7,0.34,0.552,135.69,5.6,0.6,0.6
+Gujarat,Surat,Vesu,9778,8,19,night,0.6,0.7,0.34,0.552,174.61,2.38,0.7,0.553
+Gujarat,Surat,Vesu,9668,8,18,afternoon,0.6,0.7,0.34,0.552,172.64,2.25,0.3,0.53
+Gujarat,Surat,Vesu,9703,4,30,evening,0.6,0.7,0.34,0.552,346.54,7.5,0.6,0.6
+Gujarat,Surat,Vesu,6944,6,24,night,0.6,0.7,0.34,0.552,165.33,4.0,0.7,0.585
+Gujarat,Surat,Vesu,7401,4,13,morning,0.6,0.7,0.34,0.552,264.32,3.25,0.2,0.545
+Gujarat,Surat,Vesu,7253,5,22,morning,0.6,0.7,0.34,0.552,207.23,4.4,0.2,0.568
+Gujarat,Surat,Vesu,9117,8,27,morning,0.6,0.7,0.34,0.552,162.8,3.38,0.2,0.548
+Gujarat,Surat,Vesu,9649,8,11,afternoon,0.6,0.7,0.34,0.552,172.3,1.38,0.3,0.513
+Gujarat,Surat,Vesu,7473,10,27,night,0.6,0.7,0.34,0.552,106.76,2.7,0.7,0.559
+Gujarat,Surat,Vesu,9535,4,26,night,0.6,0.7,0.34,0.552,340.54,6.5,0.7,0.605
+Gujarat,Surat,Vesu,7789,4,16,night,0.6,0.7,0.34,0.552,278.18,4.0,0.7,0.585
+Gujarat,Surat,Vesu,8864,4,30,morning,0.6,0.7,0.34,0.552,316.57,7.5,0.2,0.58
+Gujarat,Surat,Vesu,4286,6,9,evening,0.6,0.7,0.34,0.552,102.05,1.5,0.6,0.53
+Gujarat,Surat,Vesu,9022,9,9,night,0.6,0.7,0.34,0.552,143.21,1.0,0.7,0.525
+Gujarat,Surat,Vesu,5516,4,21,afternoon,0.6,0.7,0.34,0.552,197.0,5.25,0.3,0.585
+Gujarat,Surat,Vesu,7481,12,28,evening,0.6,0.7,0.34,0.552,89.06,2.33,0.6,0.547
+Gujarat,Surat,Vesu,3357,5,31,morning,0.6,0.7,0.34,0.552,95.91,6.2,0.2,0.58
+Gujarat,Surat,Vesu,7784,4,29,evening,0.6,0.7,0.34,0.552,278.0,7.25,0.6,0.6
+Gujarat,Surat,Vesu,8960,8,26,afternoon,0.6,0.7,0.34,0.552,160.0,3.25,0.3,0.55
+Gujarat,Surat,Vesu,8350,8,13,afternoon,0.6,0.7,0.34,0.552,149.11,1.62,0.3,0.517
+Gujarat,Surat,Vesu,6556,7,8,night,0.6,0.7,0.34,0.552,133.8,1.14,0.7,0.528
+Gujarat,Surat,Vesu,9095,7,17,evening,0.6,0.7,0.34,0.552,185.61,2.43,0.6,0.549
+Gujarat,Surat,Vesu,3042,8,35,evening,0.6,0.7,0.34,0.552,54.32,4.38,0.6,0.588
+Gujarat,Surat,Vesu,6599,6,26,afternoon,0.6,0.7,0.34,0.552,157.12,4.33,0.3,0.572
+Gujarat,Surat,Varachha,5856,11,16,night,0.64,0.73,0.46,0.613,76.05,1.45,0.7,0.586
+Gujarat,Surat,Varachha,7324,8,23,evening,0.64,0.73,0.46,0.613,130.79,2.88,0.6,0.609
+Gujarat,Surat,Varachha,4133,6,34,night,0.64,0.73,0.46,0.613,98.4,5.67,0.7,0.656
+Gujarat,Surat,Varachha,3189,12,9,afternoon,0.64,0.73,0.46,0.613,37.96,0.75,0.3,0.551
+Gujarat,Surat,Varachha,9291,6,24,morning,0.64,0.73,0.46,0.613,221.21,4.0,0.2,0.611
+Gujarat,Surat,Varachha,7719,4,31,morning,0.64,0.73,0.46,0.613,275.68,7.75,0.2,0.631
+Gujarat,Surat,Varachha,4013,10,26,morning,0.64,0.73,0.46,0.613,57.33,2.6,0.2,0.584
+Gujarat,Surat,Varachha,8897,11,21,afternoon,0.64,0.73,0.46,0.613,115.55,1.91,0.3,0.575
+Gujarat,Surat,Varachha,5638,5,25,evening,0.64,0.73,0.46,0.613,161.09,5.0,0.6,0.651
+Gujarat,Surat,Varachha,5562,10,16,afternoon,0.64,0.73,0.46,0.613,79.46,1.6,0.3,0.569
+Gujarat,Surat,Varachha,4362,4,23,morning,0.64,0.73,0.46,0.613,155.79,5.75,0.2,0.631
+Gujarat,Surat,Varachha,6725,10,9,afternoon,0.64,0.73,0.46,0.613,96.07,0.9,0.3,0.554
+Gujarat,Surat,Varachha,5643,4,28,morning,0.64,0.73,0.46,0.613,201.54,7.0,0.2,0.631
+Gujarat,Surat,Varachha,5096,11,21,evening,0.64,0.73,0.46,0.613,66.18,1.91,0.6,0.59
+Gujarat,Surat,Varachha,7402,4,9,evening,0.64,0.73,0.46,0.613,264.36,2.25,0.6,0.597
+Gujarat,Surat,Varachha,4944,7,30,evening,0.64,0.73,0.46,0.613,100.9,4.29,0.6,0.637
+Gujarat,Surat,Varachha,4769,6,21,morning,0.64,0.73,0.46,0.613,113.55,3.5,0.2,0.601
+Gujarat,Surat,Varachha,6479,9,32,morning,0.64,0.73,0.46,0.613,102.84,3.56,0.2,0.603
+Gujarat,Surat,Varachha,4264,12,17,evening,0.64,0.73,0.46,0.613,50.76,1.42,0.6,0.58
+Gujarat,Surat,Varachha,3493,5,21,morning,0.64,0.73,0.46,0.613,99.8,4.2,0.2,0.615
+Gujarat,Surat,Varachha,7039,11,29,afternoon,0.64,0.73,0.46,0.613,91.42,2.64,0.3,0.589
+Gujarat,Surat,Varachha,8551,4,22,morning,0.64,0.73,0.46,0.613,305.39,5.5,0.2,0.631
+Gujarat,Surat,Varachha,5422,7,24,morning,0.64,0.73,0.46,0.613,110.65,3.43,0.2,0.6
+Gujarat,Surat,Varachha,7609,6,14,afternoon,0.64,0.73,0.46,0.613,181.17,2.33,0.3,0.583
+Gujarat,Surat,Varachha,7670,4,22,morning,0.64,0.73,0.46,0.613,273.93,5.5,0.2,0.631
+Gujarat,Surat,Varachha,8037,11,9,afternoon,0.64,0.73,0.46,0.613,104.38,0.82,0.3,0.553
+Gujarat,Surat,Varachha,4770,9,14,morning,0.64,0.73,0.46,0.613,75.71,1.56,0.2,0.563
+Gujarat,Surat,Varachha,7884,8,15,night,0.64,0.73,0.46,0.613,140.79,1.88,0.7,0.594
+Gujarat,Surat,Varachha,5413,6,20,morning,0.64,0.73,0.46,0.613,128.88,3.33,0.2,0.598
+Gujarat,Surat,Varachha,6190,8,19,afternoon,0.64,0.73,0.46,0.613,110.54,2.38,0.3,0.584
+Gujarat,Surat,Varachha,5686,6,11,night,0.64,0.73,0.46,0.613,135.38,1.83,0.7,0.593
+Gujarat,Surat,Varachha,8664,12,25,evening,0.64,0.73,0.46,0.613,103.14,2.08,0.6,0.593
+Gujarat,Surat,Varachha,6943,4,33,evening,0.64,0.73,0.46,0.613,247.96,8.25,0.6,0.651
+Gujarat,Surat,Varachha,5564,11,31,evening,0.64,0.73,0.46,0.613,72.26,2.82,0.6,0.608
+Gujarat,Surat,Varachha,5061,5,28,afternoon,0.64,0.73,0.46,0.613,144.6,5.6,0.3,0.636
+Gujarat,Surat,Varachha,3718,11,25,morning,0.64,0.73,0.46,0.613,48.29,2.27,0.2,0.577
+Gujarat,Surat,Varachha,6777,4,16,afternoon,0.64,0.73,0.46,0.613,242.04,4.0,0.3,0.616
+Gujarat,Surat,Varachha,4938,5,31,afternoon,0.64,0.73,0.46,0.613,141.09,6.2,0.3,0.636
+Gujarat,Surat,Varachha,9401,12,27,morning,0.64,0.73,0.46,0.613,111.92,2.25,0.2,0.577
+Gujarat,Surat,Varachha,8129,10,20,afternoon,0.64,0.73,0.46,0.613,116.13,2.0,0.3,0.577
+Gujarat,Surat,Varachha,8708,4,23,afternoon,0.64,0.73,0.46,0.613,311.0,5.75,0.3,0.636
+Gujarat,Surat,Varachha,9900,12,12,night,0.64,0.73,0.46,0.613,117.86,1.0,0.7,0.577
+Gujarat,Surat,Varachha,8853,12,18,morning,0.64,0.73,0.46,0.613,105.39,1.5,0.2,0.561
+Gujarat,Surat,Varachha,9518,4,19,evening,0.64,0.73,0.46,0.613,339.93,4.75,0.6,0.646
+Gujarat,Surat,Varachha,9728,7,20,evening,0.64,0.73,0.46,0.613,198.53,2.86,0.6,0.609
+Gujarat,Surat,Varachha,9042,7,16,morning,0.64,0.73,0.46,0.613,184.53,2.29,0.2,0.577
+Gujarat,Surat,Varachha,5754,9,30,evening,0.64,0.73,0.46,0.613,91.33,3.33,0.6,0.618
+Gujarat,Surat,Varachha,7294,6,33,evening,0.64,0.73,0.46,0.613,173.67,5.5,0.6,0.651
+Gujarat,Surat,Varachha,5942,7,30,evening,0.64,0.73,0.46,0.613,121.27,4.29,0.6,0.637
+Gujarat,Surat,Varachha,4022,9,22,evening,0.64,0.73,0.46,0.613,63.84,2.44,0.6,0.6
+Gujarat,Surat,Varachha,3463,6,8,evening,0.64,0.73,0.46,0.613,82.45,1.33,0.6,0.578
+Gujarat,Surat,Varachha,8478,5,23,night,0.64,0.73,0.46,0.613,242.23,4.6,0.7,0.648
+Gujarat,Surat,Varachha,9206,6,32,morning,0.64,0.73,0.46,0.613,219.19,5.33,0.2,0.631
+Gujarat,Surat,Varachha,3518,10,30,evening,0.64,0.73,0.46,0.613,50.26,3.0,0.6,0.611
+Gujarat,Surat,Varachha,3114,8,19,morning,0.64,0.73,0.46,0.613,55.61,2.38,0.2,0.579
+Gujarat,Surat,Varachha,8916,4,14,evening,0.64,0.73,0.46,0.613,318.43,3.5,0.6,0.621
+Gujarat,Surat,Varachha,5315,5,10,evening,0.64,0.73,0.46,0.613,151.86,2.0,0.6,0.592
+Gujarat,Surat,Varachha,6496,5,32,morning,0.64,0.73,0.46,0.613,185.6,6.4,0.2,0.631
+Gujarat,Surat,Varachha,3403,12,33,afternoon,0.64,0.73,0.46,0.613,40.51,2.75,0.3,0.592
+Gujarat,Surat,Varachha,8227,6,29,night,0.64,0.73,0.46,0.613,195.88,4.83,0.7,0.653
+Gujarat,Surat,Varachha,9453,11,10,night,0.64,0.73,0.46,0.613,122.77,0.91,0.7,0.575
+Gujarat,Surat,Varachha,7110,5,8,evening,0.64,0.73,0.46,0.613,203.14,1.6,0.6,0.584
+Gujarat,Surat,Varachha,7449,11,15,afternoon,0.64,0.73,0.46,0.613,96.74,1.36,0.3,0.564
+Gujarat,Surat,Varachha,7558,4,26,night,0.64,0.73,0.46,0.613,269.93,6.5,0.7,0.656
+Gujarat,Surat,Varachha,9426,11,14,morning,0.64,0.73,0.46,0.613,122.42,1.27,0.2,0.557
+Gujarat,Surat,Varachha,6003,5,20,afternoon,0.64,0.73,0.46,0.613,171.51,4.0,0.3,0.616
+Gujarat,Surat,Varachha,6993,10,15,night,0.64,0.73,0.46,0.613,99.9,1.5,0.7,0.587
+Gujarat,Surat,Varachha,4466,12,28,evening,0.64,0.73,0.46,0.613,53.17,2.33,0.6,0.598
+Gujarat,Surat,Varachha,6136,10,14,morning,0.64,0.73,0.46,0.613,87.66,1.4,0.2,0.559
+Gujarat,Surat,Varachha,9851,4,35,night,0.64,0.73,0.46,0.613,351.82,8.75,0.7,0.656
+Gujarat,Surat,Varachha,3906,5,31,night,0.64,0.73,0.46,0.613,111.6,6.2,0.7,0.656
+Gujarat,Surat,Varachha,9971,12,14,morning,0.64,0.73,0.46,0.613,118.7,1.17,0.2,0.555
+Gujarat,Surat,Varachha,6004,5,25,evening,0.64,0.73,0.46,0.613,171.54,5.0,0.6,0.651
+Gujarat,Surat,Varachha,7973,10,32,afternoon,0.64,0.73,0.46,0.613,113.9,3.2,0.3,0.6
+Gujarat,Surat,Varachha,6821,4,8,evening,0.64,0.73,0.46,0.613,243.61,2.0,0.6,0.592
+Gujarat,Surat,Varachha,9670,4,24,morning,0.64,0.73,0.46,0.613,345.36,6.0,0.2,0.631
+Gujarat,Surat,Varachha,9084,12,10,morning,0.64,0.73,0.46,0.613,108.14,0.83,0.2,0.548
+Gujarat,Surat,Varachha,6397,12,34,night,0.64,0.73,0.46,0.613,76.15,2.83,0.7,0.613
+Gujarat,Surat,Varachha,4170,11,8,evening,0.64,0.73,0.46,0.613,54.16,0.73,0.6,0.566
+Gujarat,Surat,Varachha,4998,4,15,afternoon,0.64,0.73,0.46,0.613,178.5,3.75,0.3,0.612
+Maharashtra,Mumbai,Andheri,3508,10,20,evening,0.84,0.42,0.62,0.648,50.11,2.0,0.6,0.624
+Maharashtra,Mumbai,Andheri,4232,7,30,night,0.84,0.42,0.62,0.648,86.37,4.29,0.7,0.675
+Maharashtra,Mumbai,Andheri,3213,8,26,evening,0.84,0.42,0.62,0.648,57.38,3.25,0.6,0.649
+Maharashtra,Mumbai,Andheri,4962,12,17,afternoon,0.84,0.42,0.62,0.648,59.07,1.42,0.3,0.597
+Maharashtra,Mumbai,Andheri,3125,4,9,morning,0.84,0.42,0.62,0.648,111.61,2.25,0.2,0.609
+Maharashtra,Mumbai,Andheri,5628,6,19,evening,0.84,0.42,0.62,0.648,134.0,3.17,0.6,0.647
+Maharashtra,Mumbai,Andheri,9221,8,32,night,0.84,0.42,0.62,0.648,164.66,4.0,0.7,0.669
+Maharashtra,Mumbai,Andheri,7404,9,17,afternoon,0.84,0.42,0.62,0.648,117.52,1.89,0.3,0.607
+Maharashtra,Mumbai,Andheri,9808,6,18,morning,0.84,0.42,0.62,0.648,233.52,3.0,0.2,0.624
+Maharashtra,Mumbai,Andheri,7958,7,10,afternoon,0.84,0.42,0.62,0.648,162.41,1.43,0.3,0.598
+Maharashtra,Mumbai,Andheri,8604,11,22,night,0.84,0.42,0.62,0.648,111.74,2.0,0.7,0.629
+Maharashtra,Mumbai,Andheri,4082,6,10,evening,0.84,0.42,0.62,0.648,97.19,1.67,0.6,0.617
+Maharashtra,Mumbai,Andheri,3452,4,23,night,0.84,0.42,0.62,0.648,123.29,5.75,0.7,0.689
+Maharashtra,Mumbai,Andheri,6969,12,11,morning,0.84,0.42,0.62,0.648,82.96,0.92,0.2,0.582
+Maharashtra,Mumbai,Andheri,5736,8,26,afternoon,0.84,0.42,0.62,0.648,102.43,3.25,0.3,0.634
+Maharashtra,Mumbai,Andheri,3328,6,28,evening,0.84,0.42,0.62,0.648,79.24,4.67,0.6,0.677
+Maharashtra,Mumbai,Andheri,8359,4,28,night,0.84,0.42,0.62,0.648,298.54,7.0,0.7,0.689
+Maharashtra,Mumbai,Andheri,9519,4,23,morning,0.84,0.42,0.62,0.648,339.96,5.75,0.2,0.664
+Maharashtra,Mumbai,Andheri,5533,11,21,night,0.84,0.42,0.62,0.648,71.86,1.91,0.7,0.627
+Maharashtra,Mumbai,Andheri,6560,11,22,night,0.84,0.42,0.62,0.648,85.19,2.0,0.7,0.629
+Maharashtra,Mumbai,Andheri,3212,9,16,evening,0.84,0.42,0.62,0.648,50.98,1.78,0.6,0.62
+Maharashtra,Mumbai,Andheri,4658,5,11,night,0.84,0.42,0.62,0.648,133.09,2.2,0.7,0.633
+Maharashtra,Mumbai,Andheri,5282,11,9,afternoon,0.84,0.42,0.62,0.648,68.6,0.82,0.3,0.585
+Maharashtra,Mumbai,Andheri,5688,11,28,evening,0.84,0.42,0.62,0.648,73.87,2.55,0.6,0.635
+Maharashtra,Mumbai,Andheri,4802,6,8,night,0.84,0.42,0.62,0.648,114.33,1.33,0.7,0.616
+Maharashtra,Mumbai,Andheri,4481,4,12,morning,0.84,0.42,0.62,0.648,160.04,3.0,0.2,0.624
+Maharashtra,Mumbai,Andheri,9340,12,17,afternoon,0.84,0.42,0.62,0.648,111.19,1.42,0.3,0.597
+Maharashtra,Mumbai,Andheri,3117,6,26,afternoon,0.84,0.42,0.62,0.648,74.21,4.33,0.3,0.656
+Maharashtra,Mumbai,Andheri,5571,6,33,evening,0.84,0.42,0.62,0.648,132.64,5.5,0.6,0.684
+Maharashtra,Mumbai,Andheri,9880,10,32,night,0.84,0.42,0.62,0.648,141.14,3.2,0.7,0.653
+Maharashtra,Mumbai,Andheri,6894,7,8,afternoon,0.84,0.42,0.62,0.648,140.69,1.14,0.3,0.592
+Maharashtra,Mumbai,Andheri,8360,8,32,afternoon,0.84,0.42,0.62,0.648,149.29,4.0,0.3,0.649
+Maharashtra,Mumbai,Andheri,5311,4,18,morning,0.84,0.42,0.62,0.648,189.68,4.5,0.2,0.654
+Maharashtra,Mumbai,Andheri,7129,8,12,night,0.84,0.42,0.62,0.648,127.3,1.5,0.7,0.619
+Maharashtra,Mumbai,Andheri,7024,10,27,evening,0.84,0.42,0.62,0.648,100.34,2.7,0.6,0.638
+Maharashtra,Mumbai,Andheri,3866,4,23,evening,0.84,0.42,0.62,0.648,138.07,5.75,0.6,0.684
+Maharashtra,Mumbai,Andheri,7407,4,33,morning,0.84,0.42,0.62,0.648,264.54,8.25,0.2,0.664
+Maharashtra,Mumbai,Andheri,6856,9,13,evening,0.84,0.42,0.62,0.648,108.83,1.44,0.6,0.613
+Maharashtra,Mumbai,Andheri,5699,8,31,night,0.84,0.42,0.62,0.648,101.77,3.88,0.7,0.667
+Maharashtra,Mumbai,Andheri,9173,10,21,night,0.84,0.42,0.62,0.648,131.04,2.1,0.7,0.631
+Maharashtra,Mumbai,Andheri,5849,9,17,afternoon,0.84,0.42,0.62,0.648,92.84,1.89,0.3,0.607
+Maharashtra,Mumbai,Andheri,4855,5,8,evening,0.84,0.42,0.62,0.648,138.71,1.6,0.6,0.616
+Maharashtra,Mumbai,Andheri,8446,6,13,afternoon,0.84,0.42,0.62,0.648,201.1,2.17,0.3,0.612
+Maharashtra,Mumbai,Andheri,6466,10,25,afternoon,0.84,0.42,0.62,0.648,92.37,2.5,0.3,0.619
+Maharashtra,Mumbai,Andheri,3308,11,25,afternoon,0.84,0.42,0.62,0.648,42.96,2.27,0.3,0.614
+Maharashtra,Mumbai,Andheri,8893,11,18,evening,0.84,0.42,0.62,0.648,115.49,1.64,0.6,0.617
+Maharashtra,Mumbai,Andheri,8836,12,25,afternoon,0.84,0.42,0.62,0.648,105.19,2.08,0.3,0.611
+Maharashtra,Mumbai,Andheri,9396,12,20,night,0.84,0.42,0.62,0.648,111.86,1.67,0.7,0.622
+Maharashtra,Mumbai,Andheri,6077,8,18,night,0.84,0.42,0.62,0.648,108.52,2.25,0.7,0.634
+Maharashtra,Mumbai,Andheri,6123,7,20,night,0.84,0.42,0.62,0.648,124.96,2.86,0.7,0.646
+Maharashtra,Mumbai,Andheri,9026,8,16,morning,0.84,0.42,0.62,0.648,161.18,2.0,0.2,0.604
+Maharashtra,Mumbai,Andheri,5130,9,17,night,0.84,0.42,0.62,0.648,81.43,1.89,0.7,0.627
+Maharashtra,Mumbai,Andheri,3368,5,27,morning,0.84,0.42,0.62,0.648,96.23,5.4,0.2,0.664
+Maharashtra,Mumbai,Andheri,4808,9,13,night,0.84,0.42,0.62,0.648,76.32,1.44,0.7,0.618
+Maharashtra,Mumbai,Andheri,6807,11,28,morning,0.84,0.42,0.62,0.648,88.4,2.55,0.2,0.615
+Maharashtra,Mumbai,Andheri,4640,6,34,morning,0.84,0.42,0.62,0.648,110.48,5.67,0.2,0.664
+Maharashtra,Mumbai,Andheri,9742,11,8,evening,0.84,0.42,0.62,0.648,126.52,0.73,0.6,0.599
+Maharashtra,Mumbai,Andheri,9215,8,18,night,0.84,0.42,0.62,0.648,164.55,2.25,0.7,0.634
+Maharashtra,Mumbai,Andheri,8894,7,15,morning,0.84,0.42,0.62,0.648,181.51,2.14,0.2,0.607
+Maharashtra,Mumbai,Andheri,9391,12,13,morning,0.84,0.42,0.62,0.648,111.8,1.08,0.2,0.586
+Maharashtra,Mumbai,Andheri,4432,7,12,afternoon,0.84,0.42,0.62,0.648,90.45,1.71,0.3,0.603
+Maharashtra,Mumbai,Andheri,8288,5,20,night,0.84,0.42,0.62,0.648,236.8,4.0,0.7,0.669
+Maharashtra,Mumbai,Andheri,9961,11,26,evening,0.84,0.42,0.62,0.648,129.36,2.36,0.6,0.631
+Maharashtra,Mumbai,Andheri,8783,12,16,afternoon,0.84,0.42,0.62,0.648,104.56,1.33,0.3,0.596
+Maharashtra,Mumbai,Andheri,9774,7,30,afternoon,0.84,0.42,0.62,0.648,199.47,4.29,0.3,0.655
+Maharashtra,Mumbai,Andheri,9204,10,23,afternoon,0.84,0.42,0.62,0.648,131.49,2.3,0.3,0.615
+Maharashtra,Mumbai,Andheri,3599,11,8,afternoon,0.84,0.42,0.62,0.648,46.74,0.73,0.3,0.584
+Maharashtra,Mumbai,Andheri,3145,11,9,evening,0.84,0.42,0.62,0.648,40.84,0.82,0.6,0.6
+Maharashtra,Mumbai,Andheri,4488,10,17,morning,0.84,0.42,0.62,0.648,64.11,1.7,0.2,0.598
+Maharashtra,Mumbai,Andheri,4608,12,20,morning,0.84,0.42,0.62,0.648,54.86,1.67,0.2,0.597
+Maharashtra,Mumbai,Andheri,4393,7,16,morning,0.84,0.42,0.62,0.648,89.65,2.29,0.2,0.61
+Maharashtra,Mumbai,Andheri,4705,5,19,morning,0.84,0.42,0.62,0.648,134.43,3.8,0.2,0.64
+Maharashtra,Mumbai,Andheri,8295,11,21,night,0.84,0.42,0.62,0.648,107.73,1.91,0.7,0.627
+Maharashtra,Mumbai,Andheri,9380,9,9,night,0.84,0.42,0.62,0.648,148.89,1.0,0.7,0.609
+Maharashtra,Mumbai,Andheri,8970,12,19,afternoon,0.84,0.42,0.62,0.648,106.79,1.58,0.3,0.601
+Maharashtra,Mumbai,Andheri,5802,11,35,afternoon,0.84,0.42,0.62,0.648,75.35,3.18,0.3,0.633
+Maharashtra,Mumbai,Andheri,9776,5,10,afternoon,0.84,0.42,0.62,0.648,279.31,2.0,0.3,0.609
+Maharashtra,Mumbai,Andheri,4376,6,12,afternoon,0.84,0.42,0.62,0.648,104.19,2.0,0.3,0.609
+Maharashtra,Mumbai,Andheri,4096,7,13,afternoon,0.84,0.42,0.62,0.648,83.59,1.86,0.3,0.606
+Maharashtra,Mumbai,Andheri,7850,12,9,afternoon,0.84,0.42,0.62,0.648,93.45,0.75,0.3,0.584
+Maharashtra,Mumbai,Bandra,8574,5,11,night,0.8,0.4,0.55,0.605,244.97,2.2,0.7,0.597
+Maharashtra,Mumbai,Bandra,4567,7,16,afternoon,0.8,0.4,0.55,0.605,93.2,2.29,0.3,0.578
+Maharashtra,Mumbai,Bandra,4461,11,11,morning,0.8,0.4,0.55,0.605,57.94,1.0,0.2,0.548
+Maharashtra,Mumbai,Bandra,7923,7,15,afternoon,0.8,0.4,0.55,0.605,161.69,2.14,0.3,0.575
+Maharashtra,Mumbai,Bandra,7003,6,28,night,0.8,0.4,0.55,0.605,166.74,4.67,0.7,0.646
+Maharashtra,Mumbai,Bandra,9649,5,21,night,0.8,0.4,0.55,0.605,275.69,4.2,0.7,0.637
+Maharashtra,Mumbai,Bandra,3534,6,29,evening,0.8,0.4,0.55,0.605,84.14,4.83,0.6,0.644
+Maharashtra,Mumbai,Bandra,9428,10,29,afternoon,0.8,0.4,0.55,0.605,134.69,2.9,0.3,0.591
+Maharashtra,Mumbai,Bandra,9746,5,18,night,0.8,0.4,0.55,0.605,278.46,3.6,0.7,0.625
+Maharashtra,Mumbai,Bandra,3677,12,18,night,0.8,0.4,0.55,0.605,43.77,1.5,0.7,0.583
+Maharashtra,Mumbai,Bandra,7565,4,29,night,0.8,0.4,0.55,0.605,270.18,7.25,0.7,0.653
+Maharashtra,Mumbai,Bandra,4991,11,25,morning,0.8,0.4,0.55,0.605,64.82,2.27,0.2,0.573
+Maharashtra,Mumbai,Bandra,4709,5,22,afternoon,0.8,0.4,0.55,0.605,134.54,4.4,0.3,0.621
+Maharashtra,Mumbai,Bandra,5107,8,21,evening,0.8,0.4,0.55,0.605,91.2,2.62,0.6,0.6
+Maharashtra,Mumbai,Bandra,3044,4,33,night,0.8,0.4,0.55,0.605,108.71,8.25,0.7,0.653
+Maharashtra,Mumbai,Bandra,9707,4,19,morning,0.8,0.4,0.55,0.605,346.68,4.75,0.2,0.623
+Maharashtra,Mumbai,Bandra,6966,8,33,evening,0.8,0.4,0.55,0.605,124.39,4.12,0.6,0.63
+Maharashtra,Mumbai,Bandra,9844,10,31,night,0.8,0.4,0.55,0.605,140.63,3.1,0.7,0.615
+Maharashtra,Mumbai,Bandra,6381,10,31,night,0.8,0.4,0.55,0.605,91.16,3.1,0.7,0.615
+Maharashtra,Mumbai,Bandra,8338,5,22,night,0.8,0.4,0.55,0.605,238.23,4.4,0.7,0.641
+Maharashtra,Mumbai,Bandra,3503,9,22,night,0.8,0.4,0.55,0.605,55.6,2.44,0.7,0.601
+Maharashtra,Mumbai,Bandra,5705,10,30,evening,0.8,0.4,0.55,0.605,81.5,3.0,0.6,0.608
+Maharashtra,Mumbai,Bandra,6281,4,22,morning,0.8,0.4,0.55,0.605,224.32,5.5,0.2,0.628
+Maharashtra,Mumbai,Bandra,5746,7,12,night,0.8,0.4,0.55,0.605,117.27,1.71,0.7,0.587
+Maharashtra,Mumbai,Bandra,4269,4,26,night,0.8,0.4,0.55,0.605,152.46,6.5,0.7,0.653
+Maharashtra,Mumbai,Bandra,4649,11,22,afternoon,0.8,0.4,0.55,0.605,60.38,2.0,0.3,0.573
+Maharashtra,Mumbai,Bandra,7459,9,26,morning,0.8,0.4,0.55,0.605,118.4,2.89,0.2,0.585
+Maharashtra,Mumbai,Bandra,4160,10,9,morning,0.8,0.4,0.55,0.605,59.43,0.9,0.2,0.546
+Maharashtra,Mumbai,Bandra,3551,4,28,night,0.8,0.4,0.55,0.605,126.82,7.0,0.7,0.653
+Maharashtra,Mumbai,Bandra,8306,8,21,morning,0.8,0.4,0.55,0.605,148.32,2.62,0.2,0.58
+Maharashtra,Mumbai,Bandra,6069,9,18,afternoon,0.8,0.4,0.55,0.605,96.33,2.0,0.3,0.573
+Maharashtra,Mumbai,Bandra,5070,11,20,night,0.8,0.4,0.55,0.605,65.84,1.82,0.7,0.589
+Maharashtra,Mumbai,Bandra,6171,5,31,night,0.8,0.4,0.55,0.605,176.31,6.2,0.7,0.653
+Maharashtra,Mumbai,Bandra,8425,7,35,morning,0.8,0.4,0.55,0.605,171.94,5.0,0.2,0.628
+Maharashtra,Mumbai,Bandra,4482,9,18,evening,0.8,0.4,0.55,0.605,71.14,2.0,0.6,0.588
+Maharashtra,Mumbai,Bandra,9809,4,14,morning,0.8,0.4,0.55,0.605,350.32,3.5,0.2,0.598
+Maharashtra,Mumbai,Bandra,5192,6,19,evening,0.8,0.4,0.55,0.605,123.62,3.17,0.6,0.611
+Maharashtra,Mumbai,Bandra,7498,6,30,morning,0.8,0.4,0.55,0.605,178.52,5.0,0.2,0.628
+Maharashtra,Mumbai,Bandra,7697,6,13,afternoon,0.8,0.4,0.55,0.605,183.26,2.17,0.3,0.576
+Maharashtra,Mumbai,Bandra,3800,5,31,evening,0.8,0.4,0.55,0.605,108.57,6.2,0.6,0.648
+Maharashtra,Mumbai,Bandra,5854,11,21,evening,0.8,0.4,0.55,0.605,76.03,1.91,0.6,0.586
+Maharashtra,Mumbai,Bandra,9274,8,28,evening,0.8,0.4,0.55,0.605,165.61,3.5,0.6,0.618
+Maharashtra,Mumbai,Bandra,4775,7,29,morning,0.8,0.4,0.55,0.605,97.45,4.14,0.2,0.61
+Maharashtra,Mumbai,Bandra,5309,5,25,evening,0.8,0.4,0.55,0.605,151.69,5.0,0.6,0.648
+Maharashtra,Mumbai,Bandra,6880,6,16,evening,0.8,0.4,0.55,0.605,163.81,2.67,0.6,0.601
+Maharashtra,Mumbai,Bandra,8065,8,8,afternoon,0.8,0.4,0.55,0.605,144.02,1.0,0.3,0.553
+Maharashtra,Mumbai,Bandra,8453,10,31,afternoon,0.8,0.4,0.55,0.605,120.76,3.1,0.3,0.595
+Maharashtra,Mumbai,Bandra,6542,5,29,morning,0.8,0.4,0.55,0.605,186.91,5.8,0.2,0.628
+Maharashtra,Mumbai,Bandra,8890,9,24,evening,0.8,0.4,0.55,0.605,141.11,2.67,0.6,0.601
+Maharashtra,Mumbai,Bandra,7309,8,10,afternoon,0.8,0.4,0.55,0.605,130.52,1.25,0.3,0.558
+Maharashtra,Mumbai,Bandra,5657,9,10,night,0.8,0.4,0.55,0.605,89.79,1.11,0.7,0.575
+Maharashtra,Mumbai,Bandra,3924,12,14,morning,0.8,0.4,0.55,0.605,46.71,1.17,0.2,0.551
+Maharashtra,Mumbai,Bandra,8585,10,10,night,0.8,0.4,0.55,0.605,122.64,1.0,0.7,0.573
+Maharashtra,Mumbai,Bandra,3418,10,15,night,0.8,0.4,0.55,0.605,48.83,1.5,0.7,0.583
+Maharashtra,Mumbai,Bandra,3897,11,20,night,0.8,0.4,0.55,0.605,50.61,1.82,0.7,0.589
+Maharashtra,Mumbai,Bandra,6560,4,10,afternoon,0.8,0.4,0.55,0.605,234.29,2.5,0.3,0.583
+Maharashtra,Mumbai,Bandra,9617,4,35,afternoon,0.8,0.4,0.55,0.605,343.46,8.75,0.3,0.633
+Maharashtra,Mumbai,Bandra,3359,11,13,afternoon,0.8,0.4,0.55,0.605,43.62,1.18,0.3,0.556
+Maharashtra,Mumbai,Bandra,8189,11,16,morning,0.8,0.4,0.55,0.605,106.35,1.45,0.2,0.557
+Maharashtra,Mumbai,Bandra,8395,8,24,afternoon,0.8,0.4,0.55,0.605,149.91,3.0,0.3,0.593
+Maharashtra,Mumbai,Bandra,9409,9,33,afternoon,0.8,0.4,0.55,0.605,149.35,3.67,0.3,0.606
+Maharashtra,Mumbai,Bandra,6794,11,35,night,0.8,0.4,0.55,0.605,88.23,3.18,0.7,0.616
+Maharashtra,Mumbai,Bandra,3851,11,17,night,0.8,0.4,0.55,0.605,50.01,1.55,0.7,0.584
+Maharashtra,Mumbai,Bandra,9272,7,27,evening,0.8,0.4,0.55,0.605,189.22,3.86,0.6,0.625
+Maharashtra,Mumbai,Bandra,4436,8,21,evening,0.8,0.4,0.55,0.605,79.21,2.62,0.6,0.6
+Maharashtra,Mumbai,Bandra,3147,4,20,morning,0.8,0.4,0.55,0.605,112.39,5.0,0.2,0.628
+Maharashtra,Mumbai,Bandra,4161,11,9,evening,0.8,0.4,0.55,0.605,54.04,0.82,0.6,0.564
+Maharashtra,Mumbai,Bandra,4121,8,13,afternoon,0.8,0.4,0.55,0.605,73.59,1.62,0.3,0.565
+Maharashtra,Mumbai,Bandra,7282,11,31,afternoon,0.8,0.4,0.55,0.605,94.57,2.82,0.3,0.589
+Maharashtra,Mumbai,Bandra,5639,5,28,afternoon,0.8,0.4,0.55,0.605,161.11,5.6,0.3,0.633
+Maharashtra,Mumbai,Bandra,5626,4,30,morning,0.8,0.4,0.55,0.605,200.93,7.5,0.2,0.628
+Maharashtra,Mumbai,Bandra,7005,10,32,morning,0.8,0.4,0.55,0.605,100.07,3.2,0.2,0.592
+Maharashtra,Mumbai,Bandra,7907,5,31,evening,0.8,0.4,0.55,0.605,225.91,6.2,0.6,0.648
+Maharashtra,Mumbai,Bandra,9706,4,8,morning,0.8,0.4,0.55,0.605,346.64,2.0,0.2,0.568
+Maharashtra,Mumbai,Bandra,9246,12,19,afternoon,0.8,0.4,0.55,0.605,110.07,1.58,0.3,0.564
+Maharashtra,Mumbai,Bandra,9852,7,32,morning,0.8,0.4,0.55,0.605,201.06,4.57,0.2,0.619
+Maharashtra,Mumbai,Bandra,6126,7,27,evening,0.8,0.4,0.55,0.605,125.02,3.86,0.6,0.625
+Maharashtra,Mumbai,Bandra,3413,8,24,afternoon,0.8,0.4,0.55,0.605,60.95,3.0,0.3,0.593
+Maharashtra,Mumbai,Bandra,8857,10,33,night,0.8,0.4,0.55,0.605,126.53,3.3,0.7,0.619
+Maharashtra,Mumbai,Bandra,5832,5,11,afternoon,0.8,0.4,0.55,0.605,166.63,2.2,0.3,0.577
+Maharashtra,Mumbai,Dadar,3813,11,16,morning,0.82,0.41,0.58,0.625,49.52,1.45,0.2,0.574
+Maharashtra,Mumbai,Dadar,3867,8,27,afternoon,0.82,0.41,0.58,0.625,69.05,3.38,0.3,0.617
+Maharashtra,Mumbai,Dadar,3214,7,21,night,0.82,0.41,0.58,0.625,65.59,3.0,0.7,0.63
+Maharashtra,Mumbai,Dadar,3714,10,20,night,0.82,0.41,0.58,0.625,53.06,2.0,0.7,0.61
+Maharashtra,Mumbai,Dadar,8191,11,17,evening,0.82,0.41,0.58,0.625,106.38,1.55,0.6,0.596
+Maharashtra,Mumbai,Dadar,5745,5,33,night,0.82,0.41,0.58,0.625,164.14,6.6,0.7,0.669
+Maharashtra,Mumbai,Dadar,9655,12,14,morning,0.82,0.41,0.58,0.625,114.94,1.17,0.2,0.568
+Maharashtra,Mumbai,Dadar,9541,12,22,night,0.82,0.41,0.58,0.625,113.58,1.83,0.7,0.606
+Maharashtra,Mumbai,Dadar,7224,8,29,night,0.82,0.41,0.58,0.625,129.0,3.62,0.7,0.642
+Maharashtra,Mumbai,Dadar,8524,6,19,night,0.82,0.41,0.58,0.625,202.95,3.17,0.7,0.633
+Maharashtra,Mumbai,Dadar,6796,4,23,night,0.82,0.41,0.58,0.625,242.71,5.75,0.7,0.669
+Maharashtra,Mumbai,Dadar,4256,8,30,morning,0.82,0.41,0.58,0.625,76.0,3.75,0.2,0.619
+Maharashtra,Mumbai,Dadar,9852,5,23,morning,0.82,0.41,0.58,0.625,281.49,4.6,0.2,0.636
+Maharashtra,Mumbai,Dadar,6625,12,29,night,0.82,0.41,0.58,0.625,78.87,2.42,0.7,0.618
+Maharashtra,Mumbai,Dadar,9489,7,11,night,0.82,0.41,0.58,0.625,193.65,1.57,0.7,0.601
+Maharashtra,Mumbai,Dadar,6362,8,9,morning,0.82,0.41,0.58,0.625,113.61,1.12,0.2,0.567
+Maharashtra,Mumbai,Dadar,4568,5,29,morning,0.82,0.41,0.58,0.625,130.51,5.8,0.2,0.644
+Maharashtra,Mumbai,Dadar,6180,6,26,night,0.82,0.41,0.58,0.625,147.14,4.33,0.7,0.656
+Maharashtra,Mumbai,Dadar,5813,5,17,afternoon,0.82,0.41,0.58,0.625,166.09,3.4,0.3,0.617
+Maharashtra,Mumbai,Dadar,6446,10,18,morning,0.82,0.41,0.58,0.625,92.09,1.8,0.2,0.581
+Maharashtra,Mumbai,Dadar,6461,8,8,morning,0.82,0.41,0.58,0.625,115.38,1.0,0.2,0.565
+Maharashtra,Mumbai,Dadar,7547,4,35,night,0.82,0.41,0.58,0.625,269.54,8.75,0.7,0.669
+Maharashtra,Mumbai,Dadar,6494,8,34,afternoon,0.82,0.41,0.58,0.625,115.96,4.25,0.3,0.634
+Maharashtra,Mumbai,Dadar,4364,7,24,night,0.82,0.41,0.58,0.625,89.06,3.43,0.7,0.638
+Maharashtra,Mumbai,Dadar,7186,9,20,afternoon,0.82,0.41,0.58,0.625,114.06,2.22,0.3,0.594
+Maharashtra,Mumbai,Dadar,8697,11,13,morning,0.82,0.41,0.58,0.625,112.95,1.18,0.2,0.568
+Maharashtra,Mumbai,Dadar,3384,6,32,afternoon,0.82,0.41,0.58,0.625,80.57,5.33,0.3,0.649
+Maharashtra,Mumbai,Dadar,9233,10,34,night,0.82,0.41,0.58,0.625,131.9,3.4,0.7,0.637
+Maharashtra,Mumbai,Dadar,4867,6,11,afternoon,0.82,0.41,0.58,0.625,115.88,1.83,0.3,0.586
+Maharashtra,Mumbai,Dadar,6399,10,21,night,0.82,0.41,0.58,0.625,91.41,2.1,0.7,0.612
+Maharashtra,Mumbai,Dadar,3324,11,28,evening,0.82,0.41,0.58,0.625,43.17,2.55,0.6,0.616
+Maharashtra,Mumbai,Dadar,8202,7,11,night,0.82,0.41,0.58,0.625,167.39,1.57,0.7,0.601
+Maharashtra,Mumbai,Dadar,7475,10,12,afternoon,0.82,0.41,0.58,0.625,106.79,1.2,0.3,0.574
+Maharashtra,Mumbai,Dadar,8839,9,8,evening,0.82,0.41,0.58,0.625,140.3,0.89,0.6,0.582
+Maharashtra,Mumbai,Dadar,3484,7,22,afternoon,0.82,0.41,0.58,0.625,71.1,3.14,0.3,0.612
+Maharashtra,Mumbai,Dadar,9543,11,31,morning,0.82,0.41,0.58,0.625,123.94,2.82,0.2,0.601
+Maharashtra,Mumbai,Dadar,4576,4,25,evening,0.82,0.41,0.58,0.625,163.43,6.25,0.6,0.664
+Maharashtra,Mumbai,Dadar,8844,7,32,evening,0.82,0.41,0.58,0.625,180.49,4.57,0.6,0.656
+Maharashtra,Mumbai,Dadar,9132,8,15,morning,0.82,0.41,0.58,0.625,163.07,1.88,0.2,0.582
+Maharashtra,Mumbai,Dadar,3559,9,13,night,0.82,0.41,0.58,0.625,56.49,1.44,0.7,0.598
+Maharashtra,Mumbai,Dadar,5110,4,19,evening,0.82,0.41,0.58,0.625,182.5,4.75,0.6,0.659
+Maharashtra,Mumbai,Dadar,5275,9,31,evening,0.82,0.41,0.58,0.625,83.73,3.44,0.6,0.633
+Maharashtra,Mumbai,Dadar,8010,12,17,morning,0.82,0.41,0.58,0.625,95.36,1.42,0.2,0.573
+Maharashtra,Mumbai,Dadar,7770,4,10,morning,0.82,0.41,0.58,0.625,277.5,2.5,0.2,0.595
+Maharashtra,Mumbai,Dadar,5936,7,29,afternoon,0.82,0.41,0.58,0.625,121.14,4.14,0.3,0.632
+Maharashtra,Mumbai,Dadar,9926,11,32,afternoon,0.82,0.41,0.58,0.625,128.91,2.91,0.3,0.608
+Maharashtra,Mumbai,Dadar,6604,8,28,morning,0.82,0.41,0.58,0.625,117.93,3.5,0.2,0.614
+Maharashtra,Mumbai,Dadar,7220,4,19,night,0.82,0.41,0.58,0.625,257.86,4.75,0.7,0.664
+Maharashtra,Mumbai,Dadar,4022,8,29,afternoon,0.82,0.41,0.58,0.625,71.82,3.62,0.3,0.622
+Maharashtra,Mumbai,Dadar,4224,9,10,night,0.82,0.41,0.58,0.625,67.05,1.11,0.7,0.592
+Maharashtra,Mumbai,Dadar,8368,6,35,night,0.82,0.41,0.58,0.625,199.24,5.83,0.7,0.669
+Maharashtra,Mumbai,Dadar,8215,7,20,morning,0.82,0.41,0.58,0.625,167.65,2.86,0.2,0.602
+Maharashtra,Mumbai,Dadar,3166,4,23,evening,0.82,0.41,0.58,0.625,113.07,5.75,0.6,0.664
+Maharashtra,Mumbai,Dadar,3628,6,21,afternoon,0.82,0.41,0.58,0.625,86.38,3.5,0.3,0.619
+Maharashtra,Mumbai,Dadar,6001,8,32,morning,0.82,0.41,0.58,0.625,107.16,4.0,0.2,0.625
+Maharashtra,Mumbai,Dadar,3922,9,23,morning,0.82,0.41,0.58,0.625,62.25,2.56,0.2,0.596
+Maharashtra,Mumbai,Dadar,6096,9,31,morning,0.82,0.41,0.58,0.625,96.76,3.44,0.2,0.613
+Maharashtra,Mumbai,Dadar,7473,12,10,morning,0.82,0.41,0.58,0.625,88.96,0.83,0.2,0.561
+Maharashtra,Mumbai,Dadar,9571,12,26,night,0.82,0.41,0.58,0.625,113.94,2.17,0.7,0.613
+Maharashtra,Mumbai,Dadar,3254,11,35,evening,0.82,0.41,0.58,0.625,42.26,3.18,0.6,0.628
+Maharashtra,Mumbai,Dadar,4888,4,32,night,0.82,0.41,0.58,0.625,174.57,8.0,0.7,0.669
+Maharashtra,Mumbai,Dadar,9808,4,32,evening,0.82,0.41,0.58,0.625,350.29,8.0,0.6,0.664
+Maharashtra,Mumbai,Dadar,8553,10,16,morning,0.82,0.41,0.58,0.625,122.19,1.6,0.2,0.577
+Maharashtra,Mumbai,Dadar,6112,11,34,afternoon,0.82,0.41,0.58,0.625,79.38,3.09,0.3,0.611
+Maharashtra,Mumbai,Dadar,6384,8,11,afternoon,0.82,0.41,0.58,0.625,114.0,1.38,0.3,0.577
+Maharashtra,Mumbai,Dadar,8505,4,30,afternoon,0.82,0.41,0.58,0.625,303.75,7.5,0.3,0.649
+Maharashtra,Mumbai,Dadar,8506,4,26,evening,0.82,0.41,0.58,0.625,303.79,6.5,0.6,0.664
+Maharashtra,Mumbai,Dadar,4917,10,29,night,0.82,0.41,0.58,0.625,70.24,2.9,0.7,0.628
+Maharashtra,Mumbai,Dadar,7502,7,30,night,0.82,0.41,0.58,0.625,153.1,4.29,0.7,0.655
+Maharashtra,Mumbai,Dadar,7580,8,11,evening,0.82,0.41,0.58,0.625,135.36,1.38,0.6,0.592
+Maharashtra,Mumbai,Dadar,3281,7,18,night,0.82,0.41,0.58,0.625,66.96,2.57,0.7,0.621
+Maharashtra,Mumbai,Dadar,8161,5,8,morning,0.82,0.41,0.58,0.625,233.17,1.6,0.2,0.577
+Maharashtra,Mumbai,Dadar,5746,10,14,night,0.82,0.41,0.58,0.625,82.09,1.4,0.7,0.598
+Maharashtra,Mumbai,Dadar,7007,4,26,afternoon,0.82,0.41,0.58,0.625,250.25,6.5,0.3,0.649
+Maharashtra,Mumbai,Dadar,5447,7,27,evening,0.82,0.41,0.58,0.625,111.16,3.86,0.6,0.642
+Maharashtra,Mumbai,Dadar,3021,7,12,night,0.82,0.41,0.58,0.625,61.65,1.71,0.7,0.604
+Maharashtra,Mumbai,Dadar,8012,6,22,morning,0.82,0.41,0.58,0.625,190.76,3.67,0.2,0.618
+Maharashtra,Mumbai,Dadar,8929,9,12,morning,0.82,0.41,0.58,0.625,141.73,1.33,0.2,0.571
+Maharashtra,Mumbai,Dadar,7594,7,8,night,0.82,0.41,0.58,0.625,154.98,1.14,0.7,0.592
+Maharashtra,Mumbai,Dadar,3330,11,16,morning,0.82,0.41,0.58,0.625,43.25,1.45,0.2,0.574
+Maharashtra,Pune,Kothrud,9227,10,20,evening,0.36,0.68,0.34,0.45,131.81,2.0,0.6,0.451
+Maharashtra,Pune,Kothrud,9185,6,20,morning,0.36,0.68,0.34,0.45,218.69,3.33,0.2,0.458
+Maharashtra,Pune,Kothrud,6797,10,22,evening,0.36,0.68,0.34,0.45,97.1,2.2,0.6,0.455
+Maharashtra,Pune,Kothrud,7122,9,28,morning,0.36,0.68,0.34,0.45,113.05,3.11,0.2,0.453
+Maharashtra,Pune,Kothrud,8393,6,10,evening,0.36,0.68,0.34,0.45,199.83,1.67,0.6,0.444
+Maharashtra,Pune,Kothrud,3376,11,20,evening,0.36,0.68,0.34,0.45,43.84,1.82,0.6,0.447
+Maharashtra,Pune,Kothrud,8832,8,34,morning,0.36,0.68,0.34,0.45,157.71,4.25,0.2,0.476
+Maharashtra,Pune,Kothrud,8245,7,22,afternoon,0.36,0.68,0.34,0.45,168.27,3.14,0.3,0.459
+Maharashtra,Pune,Kothrud,4197,6,19,afternoon,0.36,0.68,0.34,0.45,99.93,3.17,0.3,0.459
+Maharashtra,Pune,Kothrud,5146,11,24,night,0.36,0.68,0.34,0.45,66.83,2.18,0.7,0.46
+Maharashtra,Pune,Kothrud,5282,4,15,afternoon,0.36,0.68,0.34,0.45,188.64,3.75,0.3,0.471
+Maharashtra,Pune,Kothrud,8941,5,30,afternoon,0.36,0.68,0.34,0.45,255.46,6.0,0.3,0.496
+Maharashtra,Pune,Kothrud,8893,7,29,evening,0.36,0.68,0.34,0.45,181.49,4.14,0.6,0.494
+Maharashtra,Pune,Kothrud,4416,7,35,night,0.36,0.68,0.34,0.45,90.12,5.0,0.7,0.516
+Maharashtra,Pune,Kothrud,9766,11,30,evening,0.36,0.68,0.34,0.45,126.83,2.73,0.6,0.466
+Maharashtra,Pune,Kothrud,5254,4,22,night,0.36,0.68,0.34,0.45,187.64,5.5,0.7,0.516
+Maharashtra,Pune,Kothrud,4276,12,35,evening,0.36,0.68,0.34,0.45,50.9,2.92,0.6,0.469
+Maharashtra,Pune,Kothrud,3157,4,24,evening,0.36,0.68,0.34,0.45,112.75,6.0,0.6,0.511
+Maharashtra,Pune,Kothrud,8801,7,31,morning,0.36,0.68,0.34,0.45,179.61,4.43,0.2,0.48
+Maharashtra,Pune,Kothrud,7195,6,18,evening,0.36,0.68,0.34,0.45,171.31,3.0,0.6,0.471
+Maharashtra,Pune,Kothrud,3782,8,35,morning,0.36,0.68,0.34,0.45,67.54,4.38,0.2,0.479
+Maharashtra,Pune,Kothrud,8414,8,33,morning,0.36,0.68,0.34,0.45,150.25,4.12,0.2,0.473
+Maharashtra,Pune,Kothrud,8453,6,13,afternoon,0.36,0.68,0.34,0.45,201.26,2.17,0.3,0.439
+Maharashtra,Pune,Kothrud,9092,7,28,morning,0.36,0.68,0.34,0.45,185.55,4.0,0.2,0.471
+Maharashtra,Pune,Kothrud,6566,5,16,afternoon,0.36,0.68,0.34,0.45,187.6,3.2,0.3,0.46
+Maharashtra,Pune,Kothrud,4997,12,9,afternoon,0.36,0.68,0.34,0.45,59.49,0.75,0.3,0.411
+Maharashtra,Pune,Kothrud,7595,12,28,night,0.36,0.68,0.34,0.45,90.42,2.33,0.7,0.463
+Maharashtra,Pune,Kothrud,9588,12,35,evening,0.36,0.68,0.34,0.45,114.14,2.92,0.6,0.469
+Maharashtra,Pune,Kothrud,3747,9,26,night,0.36,0.68,0.34,0.45,59.48,2.89,0.7,0.474
+Maharashtra,Pune,Kothrud,8381,12,30,evening,0.36,0.68,0.34,0.45,99.77,2.5,0.6,0.461
+Maharashtra,Pune,Kothrud,4946,10,12,morning,0.36,0.68,0.34,0.45,70.66,1.2,0.2,0.415
+Maharashtra,Pune,Kothrud,7310,5,16,night,0.36,0.68,0.34,0.45,208.86,3.2,0.7,0.48
+Maharashtra,Pune,Kothrud,8969,10,11,afternoon,0.36,0.68,0.34,0.45,128.13,1.1,0.3,0.418
+Maharashtra,Pune,Kothrud,8651,10,28,night,0.36,0.68,0.34,0.45,123.59,2.8,0.7,0.472
+Maharashtra,Pune,Kothrud,3919,10,15,night,0.36,0.68,0.34,0.45,55.99,1.5,0.7,0.446
+Maharashtra,Pune,Kothrud,6239,6,34,evening,0.36,0.68,0.34,0.45,148.55,5.67,0.6,0.511
+Maharashtra,Pune,Kothrud,7702,10,17,night,0.36,0.68,0.34,0.45,110.03,1.7,0.7,0.45
+Maharashtra,Pune,Kothrud,6130,11,27,evening,0.36,0.68,0.34,0.45,79.61,2.45,0.6,0.46
+Maharashtra,Pune,Kothrud,4495,10,27,afternoon,0.36,0.68,0.34,0.45,64.21,2.7,0.3,0.45
+Maharashtra,Pune,Kothrud,5605,4,11,morning,0.36,0.68,0.34,0.45,200.18,2.75,0.2,0.446
+Maharashtra,Pune,Kothrud,6836,12,14,afternoon,0.36,0.68,0.34,0.45,81.38,1.17,0.3,0.419
+Maharashtra,Pune,Kothrud,4412,9,14,morning,0.36,0.68,0.34,0.45,70.03,1.56,0.2,0.422
+Maharashtra,Pune,Kothrud,7605,5,12,evening,0.36,0.68,0.34,0.45,217.29,2.4,0.6,0.459
+Maharashtra,Pune,Kothrud,9213,11,12,night,0.36,0.68,0.34,0.45,119.65,1.09,0.7,0.438
+Maharashtra,Pune,Kothrud,7416,10,16,night,0.36,0.68,0.34,0.45,105.94,1.6,0.7,0.448
+Maharashtra,Pune,Kothrud,8071,6,19,night,0.36,0.68,0.34,0.45,192.17,3.17,0.7,0.479
+Maharashtra,Pune,Kothrud,3189,10,32,morning,0.36,0.68,0.34,0.45,45.56,3.2,0.2,0.455
+Maharashtra,Pune,Kothrud,3593,10,30,night,0.36,0.68,0.34,0.45,51.33,3.0,0.7,0.476
+Maharashtra,Pune,Kothrud,4580,9,29,evening,0.36,0.68,0.34,0.45,72.7,3.22,0.6,0.475
+Maharashtra,Pune,Kothrud,8553,6,16,morning,0.36,0.68,0.34,0.45,203.64,2.67,0.2,0.444
+Maharashtra,Pune,Kothrud,4887,4,15,morning,0.36,0.68,0.34,0.45,174.54,3.75,0.2,0.466
+Maharashtra,Pune,Kothrud,8712,4,34,afternoon,0.36,0.68,0.34,0.45,311.14,8.5,0.3,0.496
+Maharashtra,Pune,Kothrud,3270,8,30,night,0.36,0.68,0.34,0.45,58.39,3.75,0.7,0.491
+Maharashtra,Pune,Kothrud,6095,9,34,night,0.36,0.68,0.34,0.45,96.75,3.78,0.7,0.492
+Maharashtra,Pune,Kothrud,8339,6,32,morning,0.36,0.68,0.34,0.45,198.55,5.33,0.2,0.491
+Maharashtra,Pune,Kothrud,6108,7,11,morning,0.36,0.68,0.34,0.45,124.65,1.57,0.2,0.422
+Maharashtra,Pune,Kothrud,9257,8,24,morning,0.36,0.68,0.34,0.45,165.3,3.0,0.2,0.451
+Maharashtra,Pune,Kothrud,9313,4,28,night,0.36,0.68,0.34,0.45,332.61,7.0,0.7,0.516
+Maharashtra,Pune,Kothrud,8795,4,17,afternoon,0.36,0.68,0.34,0.45,314.11,4.25,0.3,0.481
+Maharashtra,Pune,Kothrud,4128,9,30,evening,0.36,0.68,0.34,0.45,65.52,3.33,0.6,0.478
+Maharashtra,Pune,Kothrud,5012,5,21,night,0.36,0.68,0.34,0.45,143.2,4.2,0.7,0.5
+Maharashtra,Pune,Kothrud,4224,4,9,evening,0.36,0.68,0.34,0.45,150.86,2.25,0.6,0.456
+Maharashtra,Pune,Kothrud,4989,10,30,afternoon,0.36,0.68,0.34,0.45,71.27,3.0,0.3,0.456
+Maharashtra,Pune,Kothrud,9661,4,28,afternoon,0.36,0.68,0.34,0.45,345.04,7.0,0.3,0.496
+Maharashtra,Pune,Kothrud,4817,8,17,afternoon,0.36,0.68,0.34,0.45,86.02,2.12,0.3,0.438
+Maharashtra,Pune,Kothrud,8551,9,9,night,0.36,0.68,0.34,0.45,135.73,1.0,0.7,0.436
+Maharashtra,Pune,Kothrud,9719,7,25,morning,0.36,0.68,0.34,0.45,198.35,3.57,0.2,0.462
+Maharashtra,Pune,Kothrud,5981,4,28,night,0.36,0.68,0.34,0.45,213.61,7.0,0.7,0.516
+Maharashtra,Pune,Kothrud,4191,7,35,night,0.36,0.68,0.34,0.45,85.53,5.0,0.7,0.516
+Maharashtra,Pune,Kothrud,6620,7,18,morning,0.36,0.68,0.34,0.45,135.1,2.57,0.2,0.442
+Maharashtra,Pune,Kothrud,3974,9,19,afternoon,0.36,0.68,0.34,0.45,63.08,2.11,0.3,0.438
+Maharashtra,Pune,Kothrud,9682,5,33,night,0.36,0.68,0.34,0.45,276.63,6.6,0.7,0.516
+Maharashtra,Pune,Kothrud,5920,12,21,morning,0.36,0.68,0.34,0.45,70.48,1.75,0.2,0.426
+Maharashtra,Pune,Kothrud,5848,8,9,night,0.36,0.68,0.34,0.45,104.43,1.12,0.7,0.438
+Maharashtra,Pune,Kothrud,3441,4,25,afternoon,0.36,0.68,0.34,0.45,122.89,6.25,0.3,0.496
+Maharashtra,Pune,Kothrud,3390,10,12,evening,0.36,0.68,0.34,0.45,48.43,1.2,0.6,0.435
+Maharashtra,Pune,Kothrud,5927,10,29,afternoon,0.36,0.68,0.34,0.45,84.67,2.9,0.3,0.454
+Maharashtra,Pune,Kothrud,5630,12,9,evening,0.36,0.68,0.34,0.45,67.02,0.75,0.6,0.426
+Maharashtra,Pune,Kothrud,4508,8,19,afternoon,0.36,0.68,0.34,0.45,80.5,2.38,0.3,0.444
+Maharashtra,Pune,Kothrud,3144,5,13,morning,0.36,0.68,0.34,0.45,89.83,2.6,0.2,0.443
+Maharashtra,Pune,Viman Nagar,5453,7,31,afternoon,0.34,0.7,0.38,0.46,111.29,4.43,0.3,0.493
+Maharashtra,Pune,Viman Nagar,5003,9,30,night,0.34,0.7,0.38,0.46,79.41,3.33,0.7,0.491
+Maharashtra,Pune,Viman Nagar,9815,11,16,evening,0.34,0.7,0.38,0.46,127.47,1.45,0.6,0.448
+Maharashtra,Pune,Viman Nagar,5991,7,14,morning,0.34,0.7,0.38,0.46,122.27,2.0,0.2,0.439
+Maharashtra,Pune,Viman Nagar,5442,9,34,afternoon,0.34,0.7,0.38,0.46,86.38,3.78,0.3,0.48
+Maharashtra,Pune,Viman Nagar,9138,7,31,evening,0.34,0.7,0.38,0.46,186.49,4.43,0.6,0.508
+Maharashtra,Pune,Viman Nagar,4518,11,23,morning,0.34,0.7,0.38,0.46,58.68,2.09,0.2,0.441
+Maharashtra,Pune,Viman Nagar,7030,7,34,afternoon,0.34,0.7,0.38,0.46,143.47,4.86,0.3,0.501
+Maharashtra,Pune,Viman Nagar,9759,7,10,afternoon,0.34,0.7,0.38,0.46,199.16,1.43,0.3,0.433
+Maharashtra,Pune,Viman Nagar,6922,8,18,evening,0.34,0.7,0.38,0.46,123.61,2.25,0.6,0.464
+Maharashtra,Pune,Viman Nagar,7850,11,28,morning,0.34,0.7,0.38,0.46,101.95,2.55,0.2,0.45
+Maharashtra,Pune,Viman Nagar,4875,9,27,night,0.34,0.7,0.38,0.46,77.38,3.0,0.7,0.484
+Maharashtra,Pune,Viman Nagar,9736,11,14,morning,0.34,0.7,0.38,0.46,126.44,1.27,0.2,0.424
+Maharashtra,Pune,Viman Nagar,3703,9,34,afternoon,0.34,0.7,0.38,0.46,58.78,3.78,0.3,0.48
+Maharashtra,Pune,Viman Nagar,7697,5,15,morning,0.34,0.7,0.38,0.46,219.91,3.0,0.2,0.459
+Maharashtra,Pune,Viman Nagar,5104,6,14,night,0.34,0.7,0.38,0.46,121.52,2.33,0.7,0.471
+Maharashtra,Pune,Viman Nagar,5273,5,18,afternoon,0.34,0.7,0.38,0.46,150.66,3.6,0.3,0.476
+Maharashtra,Pune,Viman Nagar,6334,12,18,morning,0.34,0.7,0.38,0.46,75.4,1.5,0.2,0.429
+Maharashtra,Pune,Viman Nagar,7407,8,15,morning,0.34,0.7,0.38,0.46,132.27,1.88,0.2,0.437
+Maharashtra,Pune,Viman Nagar,5936,9,19,afternoon,0.34,0.7,0.38,0.46,94.22,2.11,0.3,0.446
+Maharashtra,Pune,Viman Nagar,5514,9,35,morning,0.34,0.7,0.38,0.46,87.52,3.89,0.2,0.477
+Maharashtra,Pune,Viman Nagar,9467,11,17,morning,0.34,0.7,0.38,0.46,122.95,1.55,0.2,0.43
+Maharashtra,Pune,Viman Nagar,5414,10,30,night,0.34,0.7,0.38,0.46,77.34,3.0,0.7,0.484
+Maharashtra,Pune,Viman Nagar,3572,11,24,evening,0.34,0.7,0.38,0.46,46.39,2.18,0.6,0.463
+Maharashtra,Pune,Viman Nagar,3637,6,11,morning,0.34,0.7,0.38,0.46,86.6,1.83,0.2,0.436
+Maharashtra,Pune,Viman Nagar,4986,5,17,afternoon,0.34,0.7,0.38,0.46,142.46,3.4,0.3,0.472
+Maharashtra,Pune,Viman Nagar,8218,7,18,evening,0.34,0.7,0.38,0.46,167.71,2.57,0.6,0.47
+Maharashtra,Pune,Viman Nagar,4969,7,35,night,0.34,0.7,0.38,0.46,101.41,5.0,0.7,0.524
+Maharashtra,Pune,Viman Nagar,5122,8,35,night,0.34,0.7,0.38,0.46,91.46,4.38,0.7,0.512
+Maharashtra,Pune,Viman Nagar,4035,8,29,night,0.34,0.7,0.38,0.46,72.05,3.62,0.7,0.496
+Maharashtra,Pune,Viman Nagar,7690,5,11,night,0.34,0.7,0.38,0.46,219.71,2.2,0.7,0.468
+Maharashtra,Pune,Viman Nagar,9719,10,12,morning,0.34,0.7,0.38,0.46,138.84,1.2,0.2,0.423
+Maharashtra,Pune,Viman Nagar,7583,11,29,evening,0.34,0.7,0.38,0.46,98.48,2.64,0.6,0.472
+Maharashtra,Pune,Viman Nagar,8544,6,21,morning,0.34,0.7,0.38,0.46,203.43,3.5,0.2,0.469
+Maharashtra,Pune,Viman Nagar,3736,9,21,night,0.34,0.7,0.38,0.46,59.3,2.33,0.7,0.471
+Maharashtra,Pune,Viman Nagar,7334,12,29,morning,0.34,0.7,0.38,0.46,87.31,2.42,0.2,0.447
+Maharashtra,Pune,Viman Nagar,8151,5,20,afternoon,0.34,0.7,0.38,0.46,232.89,4.0,0.3,0.484
+Maharashtra,Pune,Viman Nagar,3050,5,9,night,0.34,0.7,0.38,0.46,87.14,1.8,0.7,0.46
+Maharashtra,Pune,Viman Nagar,9403,7,22,evening,0.34,0.7,0.38,0.46,191.9,3.14,0.6,0.482
+Maharashtra,Pune,Viman Nagar,7236,9,33,night,0.34,0.7,0.38,0.46,114.86,3.67,0.7,0.497
+Maharashtra,Pune,Viman Nagar,4123,7,12,night,0.34,0.7,0.38,0.46,84.14,1.71,0.7,0.458
+Maharashtra,Pune,Viman Nagar,8552,12,9,morning,0.34,0.7,0.38,0.46,101.81,0.75,0.2,0.414
+Maharashtra,Pune,Viman Nagar,7123,6,22,night,0.34,0.7,0.38,0.46,169.6,3.67,0.7,0.497
+Maharashtra,Pune,Viman Nagar,9342,8,20,afternoon,0.34,0.7,0.38,0.46,166.82,2.5,0.3,0.454
+Maharashtra,Pune,Viman Nagar,5816,6,13,afternoon,0.34,0.7,0.38,0.46,138.48,2.17,0.3,0.447
+Maharashtra,Pune,Viman Nagar,8012,9,21,night,0.34,0.7,0.38,0.46,127.17,2.33,0.7,0.471
+Maharashtra,Pune,Viman Nagar,9103,9,12,morning,0.34,0.7,0.38,0.46,144.49,1.33,0.2,0.426
+Maharashtra,Pune,Viman Nagar,7386,10,32,night,0.34,0.7,0.38,0.46,105.51,3.2,0.7,0.488
+Maharashtra,Pune,Viman Nagar,7162,6,26,night,0.34,0.7,0.38,0.46,170.52,4.33,0.7,0.511
+Maharashtra,Pune,Viman Nagar,4404,6,13,afternoon,0.34,0.7,0.38,0.46,104.86,2.17,0.3,0.447
+Maharashtra,Pune,Viman Nagar,4054,6,29,morning,0.34,0.7,0.38,0.46,96.52,4.83,0.2,0.496
+Maharashtra,Pune,Viman Nagar,4295,7,21,night,0.34,0.7,0.38,0.46,87.65,3.0,0.7,0.484
+Maharashtra,Pune,Viman Nagar,4374,11,27,night,0.34,0.7,0.38,0.46,56.81,2.45,0.7,0.473
+Maharashtra,Pune,Viman Nagar,8230,5,11,evening,0.34,0.7,0.38,0.46,235.14,2.2,0.6,0.463
+Maharashtra,Pune,Viman Nagar,4510,8,14,afternoon,0.34,0.7,0.38,0.46,80.54,1.75,0.3,0.439
+Maharashtra,Pune,Viman Nagar,8751,4,22,evening,0.34,0.7,0.38,0.46,312.54,5.5,0.6,0.519
+Maharashtra,Pune,Viman Nagar,9943,5,17,night,0.34,0.7,0.38,0.46,284.09,3.4,0.7,0.492
+Maharashtra,Pune,Viman Nagar,4117,7,9,afternoon,0.34,0.7,0.38,0.46,84.02,1.29,0.3,0.43
+Maharashtra,Pune,Viman Nagar,4112,6,28,morning,0.34,0.7,0.38,0.46,97.9,4.67,0.2,0.492
+Maharashtra,Pune,Viman Nagar,6162,9,21,evening,0.34,0.7,0.38,0.46,97.81,2.33,0.6,0.466
+Maharashtra,Pune,Viman Nagar,3279,10,25,night,0.34,0.7,0.38,0.46,46.84,2.5,0.7,0.474
+Maharashtra,Pune,Viman Nagar,4217,5,24,night,0.34,0.7,0.38,0.46,120.49,4.8,0.7,0.52
+Maharashtra,Pune,Viman Nagar,4884,10,22,afternoon,0.34,0.7,0.38,0.46,69.77,2.2,0.3,0.448
+Maharashtra,Pune,Viman Nagar,7670,12,18,evening,0.34,0.7,0.38,0.46,91.31,1.5,0.6,0.449
+Maharashtra,Pune,Viman Nagar,6859,10,14,night,0.34,0.7,0.38,0.46,97.99,1.4,0.7,0.452
+Maharashtra,Pune,Viman Nagar,8521,8,32,morning,0.34,0.7,0.38,0.46,152.16,4.0,0.2,0.479
+Maharashtra,Pune,Viman Nagar,6808,10,35,evening,0.34,0.7,0.38,0.46,97.26,3.5,0.6,0.489
+Maharashtra,Pune,Viman Nagar,4522,4,20,evening,0.34,0.7,0.38,0.46,161.5,5.0,0.6,0.519
+Maharashtra,Pune,Viman Nagar,3390,6,34,afternoon,0.34,0.7,0.38,0.46,80.71,5.67,0.3,0.504
+Maharashtra,Pune,Viman Nagar,4951,7,14,morning,0.34,0.7,0.38,0.46,101.04,2.0,0.2,0.439
+Maharashtra,Pune,Viman Nagar,4540,11,24,night,0.34,0.7,0.38,0.46,58.96,2.18,0.7,0.468
+Maharashtra,Pune,Viman Nagar,7761,10,20,evening,0.34,0.7,0.38,0.46,110.87,2.0,0.6,0.459
+Maharashtra,Pune,Viman Nagar,6355,6,24,morning,0.34,0.7,0.38,0.46,151.31,4.0,0.2,0.479
+Maharashtra,Pune,Viman Nagar,6067,10,35,afternoon,0.34,0.7,0.38,0.46,86.67,3.5,0.3,0.474
+Maharashtra,Pune,Viman Nagar,4642,12,25,evening,0.34,0.7,0.38,0.46,55.26,2.08,0.6,0.461
+Maharashtra,Pune,Viman Nagar,4749,5,26,night,0.34,0.7,0.38,0.46,135.69,5.2,0.7,0.524
+Maharashtra,Pune,Viman Nagar,5174,10,23,evening,0.34,0.7,0.38,0.46,73.91,2.3,0.6,0.465
+Maharashtra,Pune,Viman Nagar,3984,4,33,morning,0.34,0.7,0.38,0.46,142.29,8.25,0.2,0.499
+Maharashtra,Pune,Viman Nagar,9513,7,10,morning,0.34,0.7,0.38,0.46,194.14,1.43,0.2,0.428
+Maharashtra,Pune,Viman Nagar,5085,4,34,evening,0.34,0.7,0.38,0.46,181.61,8.5,0.6,0.519
+Maharashtra,Pune,Hinjewadi,8955,5,35,afternoon,0.4,0.69,0.44,0.499,255.86,7.0,0.3,0.537
+Maharashtra,Pune,Hinjewadi,6871,10,34,morning,0.4,0.69,0.44,0.499,98.16,3.4,0.2,0.5
+Maharashtra,Pune,Hinjewadi,5738,7,17,evening,0.4,0.69,0.44,0.499,117.1,2.43,0.6,0.501
+Maharashtra,Pune,Hinjewadi,9337,6,31,evening,0.4,0.69,0.44,0.499,222.31,5.17,0.6,0.552
+Maharashtra,Pune,Hinjewadi,5551,9,24,afternoon,0.4,0.69,0.44,0.499,88.11,2.67,0.3,0.491
+Maharashtra,Pune,Hinjewadi,9629,5,30,evening,0.4,0.69,0.44,0.499,275.11,6.0,0.6,0.552
+Maharashtra,Pune,Hinjewadi,4681,5,28,afternoon,0.4,0.69,0.44,0.499,133.74,5.6,0.3,0.537
+Maharashtra,Pune,Hinjewadi,4069,7,23,evening,0.4,0.69,0.44,0.499,83.04,3.29,0.6,0.518
+Maharashtra,Pune,Hinjewadi,9416,7,35,afternoon,0.4,0.69,0.44,0.499,192.16,5.0,0.3,0.537
+Maharashtra,Pune,Hinjewadi,7349,8,9,afternoon,0.4,0.69,0.44,0.499,131.23,1.12,0.3,0.46
+Maharashtra,Pune,Hinjewadi,8508,6,23,morning,0.4,0.69,0.44,0.499,202.57,3.83,0.2,0.509
+Maharashtra,Pune,Hinjewadi,9300,8,30,morning,0.4,0.69,0.44,0.499,166.07,3.75,0.2,0.507
+Maharashtra,Pune,Hinjewadi,5339,6,15,morning,0.4,0.69,0.44,0.499,127.12,2.5,0.2,0.482
+Maharashtra,Pune,Hinjewadi,3722,10,12,morning,0.4,0.69,0.44,0.499,53.17,1.2,0.2,0.457
+Maharashtra,Pune,Hinjewadi,9274,8,24,evening,0.4,0.69,0.44,0.499,165.61,3.0,0.6,0.512
+Maharashtra,Pune,Hinjewadi,6903,8,17,evening,0.4,0.69,0.44,0.499,123.27,2.12,0.6,0.495
+Maharashtra,Pune,Hinjewadi,6667,4,13,morning,0.4,0.69,0.44,0.499,238.11,3.25,0.2,0.497
+Maharashtra,Pune,Hinjewadi,8131,12,32,evening,0.4,0.69,0.44,0.499,96.8,2.67,0.6,0.506
+Maharashtra,Pune,Hinjewadi,7609,7,19,morning,0.4,0.69,0.44,0.499,155.29,2.71,0.2,0.487
+Maharashtra,Pune,Hinjewadi,6393,11,25,afternoon,0.4,0.69,0.44,0.499,83.03,2.27,0.3,0.483
+Maharashtra,Pune,Hinjewadi,9842,12,29,morning,0.4,0.69,0.44,0.499,117.17,2.42,0.2,0.481
+Maharashtra,Pune,Hinjewadi,5617,4,21,night,0.4,0.69,0.44,0.499,200.61,5.25,0.7,0.557
+Maharashtra,Pune,Hinjewadi,9253,4,9,morning,0.4,0.69,0.44,0.499,330.46,2.25,0.2,0.477
+Maharashtra,Pune,Hinjewadi,7726,10,25,night,0.4,0.69,0.44,0.499,110.37,2.5,0.7,0.507
+Maharashtra,Pune,Hinjewadi,4736,10,21,morning,0.4,0.69,0.44,0.499,67.66,2.1,0.2,0.475
+Maharashtra,Pune,Hinjewadi,8329,10,30,afternoon,0.4,0.69,0.44,0.499,118.99,3.0,0.3,0.497
+Maharashtra,Pune,Hinjewadi,5849,10,26,night,0.4,0.69,0.44,0.499,83.56,2.6,0.7,0.509
+Maharashtra,Pune,Hinjewadi,9910,10,23,evening,0.4,0.69,0.44,0.499,141.57,2.3,0.6,0.498
+Maharashtra,Pune,Hinjewadi,9517,12,28,afternoon,0.4,0.69,0.44,0.499,113.3,2.33,0.3,0.484
+Maharashtra,Pune,Hinjewadi,3879,12,23,afternoon,0.4,0.69,0.44,0.499,46.18,1.92,0.3,0.476
+Maharashtra,Pune,Hinjewadi,9021,7,18,morning,0.4,0.69,0.44,0.499,184.1,2.57,0.2,0.484
+Maharashtra,Pune,Hinjewadi,4396,8,29,afternoon,0.4,0.69,0.44,0.499,78.5,3.62,0.3,0.51
+Maharashtra,Pune,Hinjewadi,6055,7,22,afternoon,0.4,0.69,0.44,0.499,123.57,3.14,0.3,0.5
+Maharashtra,Pune,Hinjewadi,9312,9,25,morning,0.4,0.69,0.44,0.499,147.81,2.78,0.2,0.488
+Maharashtra,Pune,Hinjewadi,4993,12,30,evening,0.4,0.69,0.44,0.499,59.44,2.5,0.6,0.502
+Maharashtra,Pune,Hinjewadi,9686,5,30,night,0.4,0.69,0.44,0.499,276.74,6.0,0.7,0.557
+Maharashtra,Pune,Hinjewadi,6276,7,34,night,0.4,0.69,0.44,0.499,128.08,4.86,0.7,0.555
+Maharashtra,Pune,Hinjewadi,7954,11,20,afternoon,0.4,0.69,0.44,0.499,103.3,1.82,0.3,0.474
+Maharashtra,Pune,Hinjewadi,8892,9,34,night,0.4,0.69,0.44,0.499,141.14,3.78,0.7,0.533
+Maharashtra,Pune,Hinjewadi,9556,8,29,night,0.4,0.69,0.44,0.499,170.64,3.62,0.7,0.53
+Maharashtra,Pune,Hinjewadi,4022,9,21,night,0.4,0.69,0.44,0.499,63.84,2.33,0.7,0.504
+Maharashtra,Pune,Hinjewadi,4052,11,19,night,0.4,0.69,0.44,0.499,52.62,1.73,0.7,0.492
+Maharashtra,Pune,Hinjewadi,5859,4,29,morning,0.4,0.69,0.44,0.499,209.25,7.25,0.2,0.532
+Maharashtra,Pune,Hinjewadi,5893,12,34,evening,0.4,0.69,0.44,0.499,70.15,2.83,0.6,0.509
+Maharashtra,Pune,Hinjewadi,7655,8,32,morning,0.4,0.69,0.44,0.499,136.7,4.0,0.2,0.512
+Maharashtra,Pune,Hinjewadi,5725,6,32,morning,0.4,0.69,0.44,0.499,136.31,5.33,0.2,0.532
+Maharashtra,Pune,Hinjewadi,9202,12,31,night,0.4,0.69,0.44,0.499,109.55,2.58,0.7,0.509
+Maharashtra,Pune,Hinjewadi,9874,12,20,afternoon,0.4,0.69,0.44,0.499,117.55,1.67,0.3,0.471
+Maharashtra,Pune,Hinjewadi,8681,6,8,evening,0.4,0.69,0.44,0.499,206.69,1.33,0.6,0.479
+Maharashtra,Pune,Hinjewadi,5631,8,15,morning,0.4,0.69,0.44,0.499,100.55,1.88,0.2,0.47
+Maharashtra,Pune,Hinjewadi,5226,11,30,afternoon,0.4,0.69,0.44,0.499,67.87,2.73,0.3,0.492
+Maharashtra,Pune,Hinjewadi,8428,7,16,night,0.4,0.69,0.44,0.499,172.0,2.29,0.7,0.503
+Maharashtra,Pune,Hinjewadi,6397,6,12,evening,0.4,0.69,0.44,0.499,152.31,2.0,0.6,0.493
+Maharashtra,Pune,Hinjewadi,4948,10,16,morning,0.4,0.69,0.44,0.499,70.69,1.6,0.2,0.465
+Maharashtra,Pune,Hinjewadi,5089,6,19,afternoon,0.4,0.69,0.44,0.499,121.17,3.17,0.3,0.501
+Maharashtra,Pune,Hinjewadi,5810,9,14,night,0.4,0.69,0.44,0.499,92.22,1.56,0.7,0.489
+Maharashtra,Pune,Hinjewadi,5368,5,10,afternoon,0.4,0.69,0.44,0.499,153.37,2.0,0.3,0.478
+Maharashtra,Pune,Hinjewadi,4848,6,21,morning,0.4,0.69,0.44,0.499,115.43,3.5,0.2,0.502
+Maharashtra,Pune,Hinjewadi,7086,6,22,afternoon,0.4,0.69,0.44,0.499,168.71,3.67,0.3,0.511
+Maharashtra,Pune,Hinjewadi,5854,6,14,night,0.4,0.69,0.44,0.499,139.38,2.33,0.7,0.504
+Maharashtra,Pune,Hinjewadi,5726,6,27,night,0.4,0.69,0.44,0.499,136.33,4.5,0.7,0.547
+Maharashtra,Pune,Hinjewadi,7955,9,28,evening,0.4,0.69,0.44,0.499,126.27,3.11,0.6,0.515
+Maharashtra,Pune,Hinjewadi,4319,10,14,night,0.4,0.69,0.44,0.499,61.7,1.4,0.7,0.485
+Maharashtra,Pune,Hinjewadi,3913,9,27,afternoon,0.4,0.69,0.44,0.499,62.11,3.0,0.3,0.497
+Maharashtra,Pune,Hinjewadi,5848,12,9,afternoon,0.4,0.69,0.44,0.499,69.62,0.75,0.3,0.453
+Maharashtra,Pune,Hinjewadi,3298,7,22,afternoon,0.4,0.69,0.44,0.499,67.31,3.14,0.3,0.5
+Maharashtra,Pune,Hinjewadi,3841,5,20,evening,0.4,0.69,0.44,0.499,109.74,4.0,0.6,0.532
+Maharashtra,Pune,Hinjewadi,9471,6,11,evening,0.4,0.69,0.44,0.499,225.5,1.83,0.6,0.489
+Maharashtra,Pune,Hinjewadi,9993,8,21,afternoon,0.4,0.69,0.44,0.499,178.45,2.62,0.3,0.49
+Maharashtra,Pune,Hinjewadi,4693,12,17,morning,0.4,0.69,0.44,0.499,55.87,1.42,0.2,0.461
+Maharashtra,Pune,Hinjewadi,4001,12,17,afternoon,0.4,0.69,0.44,0.499,47.63,1.42,0.3,0.466
+Maharashtra,Pune,Hinjewadi,7213,9,26,evening,0.4,0.69,0.44,0.499,114.49,2.89,0.6,0.51
+Maharashtra,Pune,Hinjewadi,5431,6,34,night,0.4,0.69,0.44,0.499,129.31,5.67,0.7,0.557
+Maharashtra,Pune,Hinjewadi,7640,4,35,morning,0.4,0.69,0.44,0.499,272.86,8.75,0.2,0.532
+Maharashtra,Pune,Hinjewadi,9432,12,20,afternoon,0.4,0.69,0.44,0.499,112.29,1.67,0.3,0.471
+Maharashtra,Pune,Hinjewadi,6326,10,14,evening,0.4,0.69,0.44,0.499,90.37,1.4,0.6,0.481
+Maharashtra,Pune,Hinjewadi,9368,7,26,afternoon,0.4,0.69,0.44,0.499,191.18,3.71,0.3,0.512
+Maharashtra,Pune,Hinjewadi,5917,5,13,evening,0.4,0.69,0.44,0.499,169.06,2.6,0.6,0.504
+Maharashtra,Pune,Hinjewadi,6931,9,19,morning,0.4,0.69,0.44,0.499,110.02,2.11,0.2,0.475
+Maharashtra,Pune,Hinjewadi,7164,7,30,night,0.4,0.69,0.44,0.499,146.2,4.29,0.7,0.543
+Karnataka,Bengaluru,Indiranagar,4203,11,12,morning,0.46,0.56,0.4,0.472,54.58,1.09,0.2,0.433
+Karnataka,Bengaluru,Indiranagar,3095,11,12,night,0.46,0.56,0.4,0.472,40.19,1.09,0.7,0.458
+Karnataka,Bengaluru,Indiranagar,5980,4,8,morning,0.46,0.56,0.4,0.472,213.57,2.0,0.2,0.451
+Karnataka,Bengaluru,Indiranagar,3426,4,32,morning,0.46,0.56,0.4,0.472,122.36,8.0,0.2,0.511
+Karnataka,Bengaluru,Indiranagar,7249,7,30,night,0.46,0.56,0.4,0.472,147.94,4.29,0.7,0.522
+Karnataka,Bengaluru,Indiranagar,7766,8,18,morning,0.46,0.56,0.4,0.472,138.68,2.25,0.2,0.456
+Karnataka,Bengaluru,Indiranagar,3778,8,10,afternoon,0.46,0.56,0.4,0.472,67.46,1.25,0.3,0.441
+Karnataka,Bengaluru,Indiranagar,7307,12,32,evening,0.46,0.56,0.4,0.472,86.99,2.67,0.6,0.484
+Karnataka,Bengaluru,Indiranagar,6462,4,35,evening,0.46,0.56,0.4,0.472,230.79,8.75,0.6,0.531
+Karnataka,Bengaluru,Indiranagar,5783,6,24,morning,0.46,0.56,0.4,0.472,137.69,4.0,0.2,0.491
+Karnataka,Bengaluru,Indiranagar,9561,11,24,evening,0.46,0.56,0.4,0.472,124.17,2.18,0.6,0.475
+Karnataka,Bengaluru,Indiranagar,9273,6,33,morning,0.46,0.56,0.4,0.472,220.79,5.5,0.2,0.511
+Karnataka,Bengaluru,Indiranagar,7273,5,28,afternoon,0.46,0.56,0.4,0.472,207.8,5.6,0.3,0.516
+Karnataka,Bengaluru,Indiranagar,8079,4,32,night,0.46,0.56,0.4,0.472,288.54,8.0,0.7,0.536
+Karnataka,Bengaluru,Indiranagar,7987,5,16,night,0.46,0.56,0.4,0.472,228.2,3.2,0.7,0.5
+Karnataka,Bengaluru,Indiranagar,4536,7,26,morning,0.46,0.56,0.4,0.472,92.57,3.71,0.2,0.485
+Karnataka,Bengaluru,Indiranagar,3864,4,11,night,0.46,0.56,0.4,0.472,138.0,2.75,0.7,0.491
+Karnataka,Bengaluru,Indiranagar,5016,8,32,evening,0.46,0.56,0.4,0.472,89.57,4.0,0.6,0.511
+Karnataka,Bengaluru,Indiranagar,9230,6,28,afternoon,0.46,0.56,0.4,0.472,219.76,4.67,0.3,0.509
+Karnataka,Bengaluru,Indiranagar,7733,8,25,night,0.46,0.56,0.4,0.472,138.09,3.12,0.7,0.498
+Karnataka,Bengaluru,Indiranagar,8785,7,8,night,0.46,0.56,0.4,0.472,179.29,1.14,0.7,0.459
+Karnataka,Bengaluru,Indiranagar,7166,6,35,afternoon,0.46,0.56,0.4,0.472,170.62,5.83,0.3,0.516
+Karnataka,Bengaluru,Indiranagar,4805,10,31,night,0.46,0.56,0.4,0.472,68.64,3.1,0.7,0.498
+Karnataka,Bengaluru,Indiranagar,4998,5,20,evening,0.46,0.56,0.4,0.472,142.8,4.0,0.6,0.511
+Karnataka,Bengaluru,Indiranagar,6788,10,13,evening,0.46,0.56,0.4,0.472,96.97,1.3,0.6,0.457
+Karnataka,Bengaluru,Indiranagar,9440,10,25,night,0.46,0.56,0.4,0.472,134.86,2.5,0.7,0.486
+Karnataka,Bengaluru,Indiranagar,4123,4,27,evening,0.46,0.56,0.4,0.472,147.25,6.75,0.6,0.531
+Karnataka,Bengaluru,Indiranagar,6745,9,22,afternoon,0.46,0.56,0.4,0.472,107.06,2.44,0.3,0.465
+Karnataka,Bengaluru,Indiranagar,8698,11,8,afternoon,0.46,0.56,0.4,0.472,112.96,0.73,0.3,0.431
+Karnataka,Bengaluru,Indiranagar,6468,12,21,evening,0.46,0.56,0.4,0.472,77.0,1.75,0.6,0.466
+Karnataka,Bengaluru,Indiranagar,6007,5,28,afternoon,0.46,0.56,0.4,0.472,171.63,5.6,0.3,0.516
+Karnataka,Bengaluru,Indiranagar,4924,10,15,evening,0.46,0.56,0.4,0.472,70.34,1.5,0.6,0.461
+Karnataka,Bengaluru,Indiranagar,3349,6,25,afternoon,0.46,0.56,0.4,0.472,79.74,4.17,0.3,0.499
+Karnataka,Bengaluru,Indiranagar,7941,4,30,evening,0.46,0.56,0.4,0.472,283.61,7.5,0.6,0.531
+Karnataka,Bengaluru,Indiranagar,8483,9,32,morning,0.46,0.56,0.4,0.472,134.65,3.56,0.2,0.482
+Karnataka,Bengaluru,Indiranagar,9889,6,31,night,0.46,0.56,0.4,0.472,235.45,5.17,0.7,0.536
+Karnataka,Bengaluru,Indiranagar,3074,6,21,morning,0.46,0.56,0.4,0.472,73.19,3.5,0.2,0.481
+Karnataka,Bengaluru,Indiranagar,6516,10,34,morning,0.46,0.56,0.4,0.472,93.09,3.4,0.2,0.479
+Karnataka,Bengaluru,Indiranagar,4048,11,28,evening,0.46,0.56,0.4,0.472,52.57,2.55,0.6,0.482
+Karnataka,Bengaluru,Indiranagar,8937,5,29,night,0.46,0.56,0.4,0.472,255.34,5.8,0.7,0.536
+Karnataka,Bengaluru,Indiranagar,3381,4,13,morning,0.46,0.56,0.4,0.472,120.75,3.25,0.2,0.476
+Karnataka,Bengaluru,Indiranagar,9237,8,18,evening,0.46,0.56,0.4,0.472,164.95,2.25,0.6,0.476
+Karnataka,Bengaluru,Indiranagar,6522,5,35,night,0.46,0.56,0.4,0.472,186.34,7.0,0.7,0.536
+Karnataka,Bengaluru,Indiranagar,9091,5,19,night,0.46,0.56,0.4,0.472,259.74,3.8,0.7,0.512
+Karnataka,Bengaluru,Indiranagar,6985,11,8,night,0.46,0.56,0.4,0.472,90.71,0.73,0.7,0.451
+Karnataka,Bengaluru,Indiranagar,3304,10,11,evening,0.46,0.56,0.4,0.472,47.2,1.1,0.6,0.453
+Karnataka,Bengaluru,Indiranagar,4590,9,29,evening,0.46,0.56,0.4,0.472,72.86,3.22,0.6,0.495
+Karnataka,Bengaluru,Indiranagar,9113,10,34,night,0.46,0.56,0.4,0.472,130.19,3.4,0.7,0.504
+Karnataka,Bengaluru,Indiranagar,4405,5,21,morning,0.46,0.56,0.4,0.472,125.86,4.2,0.2,0.495
+Karnataka,Bengaluru,Indiranagar,9899,4,34,afternoon,0.46,0.56,0.4,0.472,353.54,8.5,0.3,0.516
+Karnataka,Bengaluru,Indiranagar,9783,5,29,morning,0.46,0.56,0.4,0.472,279.51,5.8,0.2,0.511
+Karnataka,Bengaluru,Indiranagar,7600,5,19,morning,0.46,0.56,0.4,0.472,217.14,3.8,0.2,0.487
+Karnataka,Bengaluru,Indiranagar,4963,12,24,afternoon,0.46,0.56,0.4,0.472,59.08,2.0,0.3,0.456
+Karnataka,Bengaluru,Indiranagar,9337,10,31,afternoon,0.46,0.56,0.4,0.472,133.39,3.1,0.3,0.478
+Karnataka,Bengaluru,Indiranagar,7373,4,20,afternoon,0.46,0.56,0.4,0.472,263.32,5.0,0.3,0.516
+Karnataka,Bengaluru,Indiranagar,6056,6,32,evening,0.46,0.56,0.4,0.472,144.19,5.33,0.6,0.531
+Karnataka,Bengaluru,Indiranagar,5254,12,10,morning,0.46,0.56,0.4,0.472,62.55,0.83,0.2,0.428
+Karnataka,Bengaluru,Indiranagar,7416,12,33,evening,0.46,0.56,0.4,0.472,88.29,2.75,0.6,0.486
+Karnataka,Bengaluru,Indiranagar,5383,9,18,morning,0.46,0.56,0.4,0.472,85.44,2.0,0.2,0.451
+Karnataka,Bengaluru,Indiranagar,9493,9,29,morning,0.46,0.56,0.4,0.472,150.68,3.22,0.2,0.475
+Karnataka,Bengaluru,Indiranagar,3227,6,32,evening,0.46,0.56,0.4,0.472,76.83,5.33,0.6,0.531
+Karnataka,Bengaluru,Indiranagar,9984,7,24,night,0.46,0.56,0.4,0.472,203.76,3.43,0.7,0.505
+Karnataka,Bengaluru,Indiranagar,3783,10,20,evening,0.46,0.56,0.4,0.472,54.04,2.0,0.6,0.471
+Karnataka,Bengaluru,Indiranagar,3115,9,18,morning,0.46,0.56,0.4,0.472,49.44,2.0,0.2,0.451
+Karnataka,Bengaluru,Indiranagar,7432,8,15,night,0.46,0.56,0.4,0.472,132.71,1.88,0.7,0.474
+Karnataka,Bengaluru,Indiranagar,3300,7,21,morning,0.46,0.56,0.4,0.472,67.35,3.0,0.2,0.471
+Karnataka,Bengaluru,Indiranagar,6120,12,14,morning,0.46,0.56,0.4,0.472,72.86,1.17,0.2,0.434
+Karnataka,Bengaluru,Indiranagar,7688,4,25,morning,0.46,0.56,0.4,0.472,274.57,6.25,0.2,0.511
+Karnataka,Bengaluru,Indiranagar,4312,8,19,morning,0.46,0.56,0.4,0.472,77.0,2.38,0.2,0.459
+Karnataka,Bengaluru,Indiranagar,4133,5,24,night,0.46,0.56,0.4,0.472,118.09,4.8,0.7,0.532
+Karnataka,Bengaluru,Indiranagar,3390,10,25,night,0.46,0.56,0.4,0.472,48.43,2.5,0.7,0.486
+Karnataka,Bengaluru,Indiranagar,9724,6,9,afternoon,0.46,0.56,0.4,0.472,231.52,1.5,0.3,0.446
+Karnataka,Bengaluru,Indiranagar,3075,8,21,afternoon,0.46,0.56,0.4,0.472,54.91,2.62,0.3,0.468
+Karnataka,Bengaluru,Indiranagar,7891,9,28,evening,0.46,0.56,0.4,0.472,125.25,3.11,0.6,0.493
+Karnataka,Bengaluru,Indiranagar,4633,7,8,afternoon,0.46,0.56,0.4,0.472,94.55,1.14,0.3,0.439
+Karnataka,Bengaluru,Indiranagar,5060,10,24,evening,0.46,0.56,0.4,0.472,72.29,2.4,0.6,0.479
+Karnataka,Bengaluru,Indiranagar,6908,9,29,morning,0.46,0.56,0.4,0.472,109.65,3.22,0.2,0.475
+Karnataka,Bengaluru,Indiranagar,5526,6,32,morning,0.46,0.56,0.4,0.472,131.57,5.33,0.2,0.511
+Karnataka,Bengaluru,Indiranagar,6034,5,33,night,0.46,0.56,0.4,0.472,172.4,6.6,0.7,0.536
+Karnataka,Bengaluru,Indiranagar,3173,11,29,afternoon,0.46,0.56,0.4,0.472,41.21,2.64,0.3,0.469
+Karnataka,Bengaluru,Koramangala,9577,12,9,evening,0.48,0.57,0.44,0.495,114.01,0.75,0.6,0.466
+Karnataka,Bengaluru,Koramangala,6528,6,13,evening,0.48,0.57,0.44,0.495,155.43,2.17,0.6,0.494
+Karnataka,Bengaluru,Koramangala,6035,12,17,night,0.48,0.57,0.44,0.495,71.85,1.42,0.7,0.484
+Karnataka,Bengaluru,Koramangala,9979,10,9,morning,0.48,0.57,0.44,0.495,142.56,0.9,0.2,0.449
+Karnataka,Bengaluru,Koramangala,9649,9,20,afternoon,0.48,0.57,0.44,0.495,153.16,2.22,0.3,0.48
+Karnataka,Bengaluru,Koramangala,7087,6,34,night,0.48,0.57,0.44,0.495,168.74,5.67,0.7,0.555
+Karnataka,Bengaluru,Koramangala,5033,4,16,evening,0.48,0.57,0.44,0.495,179.75,4.0,0.6,0.53
+Karnataka,Bengaluru,Koramangala,6493,10,22,afternoon,0.48,0.57,0.44,0.495,92.76,2.2,0.3,0.48
+Karnataka,Bengaluru,Koramangala,5559,11,27,evening,0.48,0.57,0.44,0.495,72.19,2.45,0.6,0.499
+Karnataka,Bengaluru,Koramangala,3399,9,26,morning,0.48,0.57,0.44,0.495,53.95,2.89,0.2,0.488
+Karnataka,Bengaluru,Koramangala,3215,9,17,morning,0.48,0.57,0.44,0.495,51.03,1.89,0.2,0.468
+Karnataka,Bengaluru,Koramangala,9060,9,25,evening,0.48,0.57,0.44,0.495,143.81,2.78,0.6,0.506
+Karnataka,Bengaluru,Koramangala,6824,9,18,morning,0.48,0.57,0.44,0.495,108.32,2.0,0.2,0.471
+Karnataka,Bengaluru,Koramangala,7393,11,11,morning,0.48,0.57,0.44,0.495,96.01,1.0,0.2,0.451
+Karnataka,Bengaluru,Koramangala,9470,6,28,evening,0.48,0.57,0.44,0.495,225.48,4.67,0.6,0.544
+Karnataka,Bengaluru,Koramangala,5413,10,13,afternoon,0.48,0.57,0.44,0.495,77.33,1.3,0.3,0.462
+Karnataka,Bengaluru,Koramangala,6766,12,31,afternoon,0.48,0.57,0.44,0.495,80.55,2.58,0.3,0.487
+Karnataka,Bengaluru,Koramangala,7424,9,17,evening,0.48,0.57,0.44,0.495,117.84,1.89,0.6,0.488
+Karnataka,Bengaluru,Koramangala,8878,10,25,evening,0.48,0.57,0.44,0.495,126.83,2.5,0.6,0.5
+Karnataka,Bengaluru,Koramangala,3076,4,20,night,0.48,0.57,0.44,0.495,109.86,5.0,0.7,0.555
+Karnataka,Bengaluru,Koramangala,4868,9,32,evening,0.48,0.57,0.44,0.495,77.27,3.56,0.6,0.522
+Karnataka,Bengaluru,Koramangala,7406,4,34,night,0.48,0.57,0.44,0.495,264.5,8.5,0.7,0.555
+Karnataka,Bengaluru,Koramangala,5060,8,8,afternoon,0.48,0.57,0.44,0.495,90.36,1.0,0.3,0.456
+Karnataka,Bengaluru,Koramangala,7819,8,24,morning,0.48,0.57,0.44,0.495,139.62,3.0,0.2,0.49
+Karnataka,Bengaluru,Koramangala,6387,7,10,evening,0.48,0.57,0.44,0.495,130.35,1.43,0.6,0.479
+Karnataka,Bengaluru,Koramangala,9833,10,22,night,0.48,0.57,0.44,0.495,140.47,2.2,0.7,0.499
+Karnataka,Bengaluru,Koramangala,8007,7,33,morning,0.48,0.57,0.44,0.495,163.41,4.71,0.2,0.525
+Karnataka,Bengaluru,Koramangala,7482,12,10,evening,0.48,0.57,0.44,0.495,89.07,0.83,0.6,0.467
+Karnataka,Bengaluru,Koramangala,7620,10,31,morning,0.48,0.57,0.44,0.495,108.86,3.1,0.2,0.492
+Karnataka,Bengaluru,Koramangala,5296,9,34,afternoon,0.48,0.57,0.44,0.495,84.06,3.78,0.3,0.511
+Karnataka,Bengaluru,Koramangala,7162,5,14,evening,0.48,0.57,0.44,0.495,204.63,2.8,0.6,0.506
+Karnataka,Bengaluru,Koramangala,5167,4,35,afternoon,0.48,0.57,0.44,0.495,184.54,8.75,0.3,0.535
+Karnataka,Bengaluru,Koramangala,4722,8,8,afternoon,0.48,0.57,0.44,0.495,84.32,1.0,0.3,0.456
+Karnataka,Bengaluru,Koramangala,7265,12,16,afternoon,0.48,0.57,0.44,0.495,86.49,1.33,0.3,0.462
+Karnataka,Bengaluru,Koramangala,8063,11,20,morning,0.48,0.57,0.44,0.495,104.71,1.82,0.2,0.467
+Karnataka,Bengaluru,Koramangala,9351,7,21,morning,0.48,0.57,0.44,0.495,190.84,3.0,0.2,0.49
+Karnataka,Bengaluru,Koramangala,9273,5,17,morning,0.48,0.57,0.44,0.495,264.94,3.4,0.2,0.498
+Karnataka,Bengaluru,Koramangala,4195,9,35,night,0.48,0.57,0.44,0.495,66.59,3.89,0.7,0.533
+Karnataka,Bengaluru,Koramangala,4045,8,23,evening,0.48,0.57,0.44,0.495,72.23,2.88,0.6,0.508
+Karnataka,Bengaluru,Koramangala,4101,6,24,morning,0.48,0.57,0.44,0.495,97.64,4.0,0.2,0.51
+Karnataka,Bengaluru,Koramangala,7502,9,20,evening,0.48,0.57,0.44,0.495,119.08,2.22,0.6,0.495
+Karnataka,Bengaluru,Koramangala,5537,5,32,evening,0.48,0.57,0.44,0.495,158.2,6.4,0.6,0.55
+Karnataka,Bengaluru,Koramangala,4765,9,24,evening,0.48,0.57,0.44,0.495,75.63,2.67,0.6,0.504
+Karnataka,Bengaluru,Koramangala,7446,4,31,afternoon,0.48,0.57,0.44,0.495,265.93,7.75,0.3,0.535
+Karnataka,Bengaluru,Koramangala,3362,6,10,night,0.48,0.57,0.44,0.495,80.05,1.67,0.7,0.489
+Karnataka,Bengaluru,Koramangala,9867,10,26,evening,0.48,0.57,0.44,0.495,140.96,2.6,0.6,0.502
+Karnataka,Bengaluru,Koramangala,6398,8,25,night,0.48,0.57,0.44,0.495,114.25,3.12,0.7,0.518
+Karnataka,Bengaluru,Koramangala,5760,8,20,evening,0.48,0.57,0.44,0.495,102.86,2.5,0.6,0.5
+Karnataka,Bengaluru,Koramangala,5145,12,24,night,0.48,0.57,0.44,0.495,61.25,2.0,0.7,0.495
+Karnataka,Bengaluru,Koramangala,8642,9,22,evening,0.48,0.57,0.44,0.495,137.17,2.44,0.6,0.499
+Karnataka,Bengaluru,Koramangala,6589,12,32,evening,0.48,0.57,0.44,0.495,78.44,2.67,0.6,0.504
+Karnataka,Bengaluru,Koramangala,3380,11,31,evening,0.48,0.57,0.44,0.495,43.9,2.82,0.6,0.507
+Karnataka,Bengaluru,Koramangala,3075,8,25,night,0.48,0.57,0.44,0.495,54.91,3.12,0.7,0.518
+Karnataka,Bengaluru,Koramangala,8234,11,35,night,0.48,0.57,0.44,0.495,106.94,3.18,0.7,0.519
+Karnataka,Bengaluru,Koramangala,4229,10,34,morning,0.48,0.57,0.44,0.495,60.41,3.4,0.2,0.498
+Karnataka,Bengaluru,Koramangala,8606,6,28,evening,0.48,0.57,0.44,0.495,204.9,4.67,0.6,0.544
+Karnataka,Bengaluru,Koramangala,4425,4,31,night,0.48,0.57,0.44,0.495,158.04,7.75,0.7,0.555
+Karnataka,Bengaluru,Koramangala,5637,12,11,afternoon,0.48,0.57,0.44,0.495,67.11,0.92,0.3,0.454
+Karnataka,Bengaluru,Koramangala,3279,5,12,evening,0.48,0.57,0.44,0.495,93.69,2.4,0.6,0.498
+Karnataka,Bengaluru,Koramangala,7764,4,23,morning,0.48,0.57,0.44,0.495,277.29,5.75,0.2,0.53
+Karnataka,Bengaluru,Koramangala,6502,8,8,morning,0.48,0.57,0.44,0.495,116.11,1.0,0.2,0.451
+Karnataka,Bengaluru,Koramangala,9146,4,20,morning,0.48,0.57,0.44,0.495,326.64,5.0,0.2,0.53
+Karnataka,Bengaluru,Koramangala,4347,12,25,morning,0.48,0.57,0.44,0.495,51.75,2.08,0.2,0.472
+Karnataka,Bengaluru,Koramangala,5872,10,19,evening,0.48,0.57,0.44,0.495,83.89,1.9,0.6,0.489
+Karnataka,Bengaluru,Koramangala,4750,4,15,night,0.48,0.57,0.44,0.495,169.64,3.75,0.7,0.53
+Karnataka,Bengaluru,Koramangala,5906,10,33,evening,0.48,0.57,0.44,0.495,84.37,3.3,0.6,0.516
+Karnataka,Bengaluru,Koramangala,7467,6,20,night,0.48,0.57,0.44,0.495,177.79,3.33,0.7,0.522
+Karnataka,Bengaluru,Koramangala,9215,12,10,afternoon,0.48,0.57,0.44,0.495,109.7,0.83,0.3,0.452
+Karnataka,Bengaluru,Koramangala,3645,9,14,evening,0.48,0.57,0.44,0.495,57.86,1.56,0.6,0.482
+Karnataka,Bengaluru,Koramangala,9009,8,26,morning,0.48,0.57,0.44,0.495,160.88,3.25,0.2,0.495
+Karnataka,Bengaluru,Koramangala,9770,4,25,night,0.48,0.57,0.44,0.495,348.93,6.25,0.7,0.555
+Karnataka,Bengaluru,Koramangala,3743,11,26,night,0.48,0.57,0.44,0.495,48.61,2.36,0.7,0.503
+Karnataka,Bengaluru,Koramangala,8529,5,19,morning,0.48,0.57,0.44,0.495,243.69,3.8,0.2,0.506
+Karnataka,Bengaluru,Koramangala,8723,5,18,afternoon,0.48,0.57,0.44,0.495,249.23,3.6,0.3,0.507
+Karnataka,Bengaluru,Koramangala,4440,10,24,afternoon,0.48,0.57,0.44,0.495,63.43,2.4,0.3,0.483
+Karnataka,Bengaluru,Koramangala,3142,10,31,night,0.48,0.57,0.44,0.495,44.89,3.1,0.7,0.517
+Karnataka,Bengaluru,Koramangala,4644,6,34,night,0.48,0.57,0.44,0.495,110.57,5.67,0.7,0.555
+Karnataka,Bengaluru,Koramangala,7174,8,29,night,0.48,0.57,0.44,0.495,128.11,3.62,0.7,0.528
+Karnataka,Bengaluru,Koramangala,5673,9,20,night,0.48,0.57,0.44,0.495,90.05,2.22,0.7,0.5
+Karnataka,Bengaluru,Koramangala,4242,8,30,night,0.48,0.57,0.44,0.495,75.75,3.75,0.7,0.53
+Karnataka,Bengaluru,Whitefield,9781,6,16,morning,0.5,0.58,0.52,0.53,232.88,2.67,0.2,0.513
+Karnataka,Bengaluru,Whitefield,3998,6,35,afternoon,0.5,0.58,0.52,0.53,95.19,5.83,0.3,0.565
+Karnataka,Bengaluru,Whitefield,6846,4,23,night,0.5,0.58,0.52,0.53,244.5,5.75,0.7,0.585
+Karnataka,Bengaluru,Whitefield,5008,11,12,morning,0.5,0.58,0.52,0.53,65.04,1.09,0.2,0.482
+Karnataka,Bengaluru,Whitefield,4968,11,8,evening,0.5,0.58,0.52,0.53,64.52,0.73,0.6,0.495
+Karnataka,Bengaluru,Whitefield,4653,5,28,morning,0.5,0.58,0.52,0.53,132.94,5.6,0.2,0.56
+Karnataka,Bengaluru,Whitefield,8173,5,14,afternoon,0.5,0.58,0.52,0.53,233.51,2.8,0.3,0.521
+Karnataka,Bengaluru,Whitefield,7587,9,27,afternoon,0.5,0.58,0.52,0.53,120.43,3.0,0.3,0.525
+Karnataka,Bengaluru,Whitefield,5342,7,30,afternoon,0.5,0.58,0.52,0.53,109.02,4.29,0.3,0.551
+Karnataka,Bengaluru,Whitefield,5591,6,34,evening,0.5,0.58,0.52,0.53,133.12,5.67,0.6,0.58
+Karnataka,Bengaluru,Whitefield,3193,7,15,afternoon,0.5,0.58,0.52,0.53,65.16,2.14,0.3,0.508
+Karnataka,Bengaluru,Whitefield,7614,12,28,night,0.5,0.58,0.52,0.53,90.64,2.33,0.7,0.532
+Karnataka,Bengaluru,Whitefield,6201,11,29,evening,0.5,0.58,0.52,0.53,80.53,2.64,0.6,0.533
+Karnataka,Bengaluru,Whitefield,8286,6,15,night,0.5,0.58,0.52,0.53,197.29,2.5,0.7,0.535
+Karnataka,Bengaluru,Whitefield,4940,11,10,afternoon,0.5,0.58,0.52,0.53,64.16,0.91,0.3,0.483
+Karnataka,Bengaluru,Whitefield,5948,5,14,morning,0.5,0.58,0.52,0.53,169.94,2.8,0.2,0.516
+Karnataka,Bengaluru,Whitefield,3407,4,34,afternoon,0.5,0.58,0.52,0.53,121.68,8.5,0.3,0.565
+Karnataka,Bengaluru,Whitefield,9901,7,19,evening,0.5,0.58,0.52,0.53,202.06,2.71,0.6,0.534
+Karnataka,Bengaluru,Whitefield,3856,4,19,evening,0.5,0.58,0.52,0.53,137.71,4.75,0.6,0.575
+Karnataka,Bengaluru,Whitefield,5498,7,19,evening,0.5,0.58,0.52,0.53,112.2,2.71,0.6,0.534
+Karnataka,Bengaluru,Whitefield,6386,10,18,night,0.5,0.58,0.52,0.53,91.23,1.8,0.7,0.521
+Karnataka,Bengaluru,Whitefield,8883,9,27,evening,0.5,0.58,0.52,0.53,141.0,3.0,0.6,0.54
+Karnataka,Bengaluru,Whitefield,6037,7,14,night,0.5,0.58,0.52,0.53,123.2,2.0,0.7,0.525
+Karnataka,Bengaluru,Whitefield,8947,12,34,morning,0.5,0.58,0.52,0.53,106.51,2.83,0.2,0.517
+Karnataka,Bengaluru,Whitefield,5416,8,32,afternoon,0.5,0.58,0.52,0.53,96.71,4.0,0.3,0.545
+Karnataka,Bengaluru,Whitefield,4158,9,8,morning,0.5,0.58,0.52,0.53,66.0,0.89,0.2,0.478
+Karnataka,Bengaluru,Whitefield,8666,6,22,evening,0.5,0.58,0.52,0.53,206.33,3.67,0.6,0.553
+Karnataka,Bengaluru,Whitefield,3199,5,27,morning,0.5,0.58,0.52,0.53,91.4,5.4,0.2,0.56
+Karnataka,Bengaluru,Whitefield,4500,9,13,evening,0.5,0.58,0.52,0.53,71.43,1.44,0.6,0.509
+Karnataka,Bengaluru,Whitefield,8616,11,24,night,0.5,0.58,0.52,0.53,111.9,2.18,0.7,0.529
+Karnataka,Bengaluru,Whitefield,6960,4,11,night,0.5,0.58,0.52,0.53,248.57,2.75,0.7,0.54
+Karnataka,Bengaluru,Whitefield,4021,9,29,night,0.5,0.58,0.52,0.53,63.83,3.22,0.7,0.549
+Karnataka,Bengaluru,Whitefield,9887,9,19,night,0.5,0.58,0.52,0.53,156.94,2.11,0.7,0.527
+Karnataka,Bengaluru,Whitefield,4212,11,19,evening,0.5,0.58,0.52,0.53,54.7,1.73,0.6,0.515
+Karnataka,Bengaluru,Whitefield,6415,5,22,morning,0.5,0.58,0.52,0.53,183.29,4.4,0.2,0.548
+Karnataka,Bengaluru,Whitefield,8705,9,16,evening,0.5,0.58,0.52,0.53,138.17,1.78,0.6,0.516
+Karnataka,Bengaluru,Whitefield,7000,8,11,afternoon,0.5,0.58,0.52,0.53,125.0,1.38,0.3,0.493
+Karnataka,Bengaluru,Whitefield,8673,9,19,morning,0.5,0.58,0.52,0.53,137.67,2.11,0.2,0.502
+Karnataka,Bengaluru,Whitefield,6432,4,17,evening,0.5,0.58,0.52,0.53,229.71,4.25,0.6,0.565
+Karnataka,Bengaluru,Whitefield,7158,4,20,afternoon,0.5,0.58,0.52,0.53,255.64,5.0,0.3,0.565
+Karnataka,Bengaluru,Whitefield,5766,4,27,evening,0.5,0.58,0.52,0.53,205.93,6.75,0.6,0.58
+Karnataka,Bengaluru,Whitefield,5181,6,26,evening,0.5,0.58,0.52,0.53,123.36,4.33,0.6,0.567
+Karnataka,Bengaluru,Whitefield,7092,11,26,afternoon,0.5,0.58,0.52,0.53,92.1,2.36,0.3,0.512
+Karnataka,Bengaluru,Whitefield,4445,4,33,afternoon,0.5,0.58,0.52,0.53,158.75,8.25,0.3,0.565
+Karnataka,Bengaluru,Whitefield,3810,4,29,evening,0.5,0.58,0.52,0.53,136.07,7.25,0.6,0.58
+Karnataka,Bengaluru,Whitefield,5940,5,13,night,0.5,0.58,0.52,0.53,169.71,2.6,0.7,0.537
+Karnataka,Bengaluru,Whitefield,7725,6,25,morning,0.5,0.58,0.52,0.53,183.93,4.17,0.2,0.543
+Karnataka,Bengaluru,Whitefield,5310,9,9,evening,0.5,0.58,0.52,0.53,84.29,1.0,0.6,0.5
+Karnataka,Bengaluru,Whitefield,3130,10,30,night,0.5,0.58,0.52,0.53,44.71,3.0,0.7,0.545
+Karnataka,Bengaluru,Whitefield,8525,8,21,evening,0.5,0.58,0.52,0.53,152.23,2.62,0.6,0.532
+Karnataka,Bengaluru,Whitefield,7141,11,32,evening,0.5,0.58,0.52,0.53,92.74,2.91,0.6,0.538
+Karnataka,Bengaluru,Whitefield,4083,12,25,evening,0.5,0.58,0.52,0.53,48.61,2.08,0.6,0.522
+Karnataka,Bengaluru,Whitefield,8397,12,20,night,0.5,0.58,0.52,0.53,99.96,1.67,0.7,0.518
+Karnataka,Bengaluru,Whitefield,4821,11,13,afternoon,0.5,0.58,0.52,0.53,62.61,1.18,0.3,0.489
+Karnataka,Bengaluru,Whitefield,4776,6,25,afternoon,0.5,0.58,0.52,0.53,113.71,4.17,0.3,0.548
+Karnataka,Bengaluru,Whitefield,8233,11,10,afternoon,0.5,0.58,0.52,0.53,106.92,0.91,0.3,0.483
+Karnataka,Bengaluru,Whitefield,9863,12,29,afternoon,0.5,0.58,0.52,0.53,117.42,2.42,0.3,0.513
+Karnataka,Bengaluru,Whitefield,8150,4,27,afternoon,0.5,0.58,0.52,0.53,291.07,6.75,0.3,0.565
+Karnataka,Bengaluru,Whitefield,5545,12,20,morning,0.5,0.58,0.52,0.53,66.01,1.67,0.2,0.493
+Karnataka,Bengaluru,Whitefield,9561,4,9,afternoon,0.5,0.58,0.52,0.53,341.46,2.25,0.3,0.51
+Karnataka,Bengaluru,Whitefield,4801,10,22,night,0.5,0.58,0.52,0.53,68.59,2.2,0.7,0.529
+Karnataka,Bengaluru,Whitefield,9446,5,20,night,0.5,0.58,0.52,0.53,269.89,4.0,0.7,0.565
+Karnataka,Bengaluru,Whitefield,3521,8,10,afternoon,0.5,0.58,0.52,0.53,62.88,1.25,0.3,0.49
+Karnataka,Bengaluru,Whitefield,9730,7,11,evening,0.5,0.58,0.52,0.53,198.57,1.57,0.6,0.511
+Karnataka,Bengaluru,Whitefield,7624,7,29,evening,0.5,0.58,0.52,0.53,155.59,4.14,0.6,0.563
+Karnataka,Bengaluru,Whitefield,9227,9,33,night,0.5,0.58,0.52,0.53,146.46,3.67,0.7,0.558
+Karnataka,Bengaluru,Whitefield,4311,12,19,evening,0.5,0.58,0.52,0.53,51.32,1.58,0.6,0.512
+Karnataka,Bengaluru,Whitefield,5090,10,34,afternoon,0.5,0.58,0.52,0.53,72.71,3.4,0.3,0.533
+Karnataka,Bengaluru,Whitefield,8655,9,21,evening,0.5,0.58,0.52,0.53,137.38,2.33,0.6,0.527
+Karnataka,Bengaluru,Whitefield,3393,4,21,morning,0.5,0.58,0.52,0.53,121.18,5.25,0.2,0.56
+Karnataka,Bengaluru,Whitefield,6896,5,10,afternoon,0.5,0.58,0.52,0.53,197.03,2.0,0.3,0.505
+Karnataka,Bengaluru,Whitefield,7128,9,27,evening,0.5,0.58,0.52,0.53,113.14,3.0,0.6,0.54
+Karnataka,Bengaluru,Whitefield,4525,4,16,afternoon,0.5,0.58,0.52,0.53,161.61,4.0,0.3,0.545
+Karnataka,Bengaluru,Whitefield,8308,8,19,afternoon,0.5,0.58,0.52,0.53,148.36,2.38,0.3,0.513
+Karnataka,Bengaluru,Whitefield,6352,9,16,night,0.5,0.58,0.52,0.53,100.83,1.78,0.7,0.521
+Karnataka,Bengaluru,Whitefield,3822,9,21,afternoon,0.5,0.58,0.52,0.53,60.67,2.33,0.3,0.512
+Karnataka,Bengaluru,Whitefield,5266,6,31,afternoon,0.5,0.58,0.52,0.53,125.38,5.17,0.3,0.565
+Karnataka,Bengaluru,Whitefield,6179,6,32,evening,0.5,0.58,0.52,0.53,147.12,5.33,0.6,0.58
+Karnataka,Bengaluru,Whitefield,4146,4,10,morning,0.5,0.58,0.52,0.53,148.07,2.5,0.2,0.51
+Karnataka,Bengaluru,Whitefield,3869,6,15,night,0.5,0.58,0.52,0.53,92.12,2.5,0.7,0.535
+Delhi,New Delhi,Connaught Place,4174,6,8,morning,0.22,0.86,0.48,0.49,99.38,1.33,0.2,0.449
+Delhi,New Delhi,Connaught Place,5121,5,29,morning,0.22,0.86,0.48,0.49,146.31,5.8,0.2,0.522
+Delhi,New Delhi,Connaught Place,5973,10,27,morning,0.22,0.86,0.48,0.49,85.33,2.7,0.2,0.476
+Delhi,New Delhi,Connaught Place,4139,9,27,afternoon,0.22,0.86,0.48,0.49,65.7,3.0,0.3,0.487
+Delhi,New Delhi,Connaught Place,7274,8,35,morning,0.22,0.86,0.48,0.49,129.89,4.38,0.2,0.51
+Delhi,New Delhi,Connaught Place,3361,8,22,night,0.22,0.86,0.48,0.49,60.02,2.75,0.7,0.502
+Delhi,New Delhi,Connaught Place,7608,6,30,evening,0.22,0.86,0.48,0.49,181.14,5.0,0.6,0.542
+Delhi,New Delhi,Connaught Place,6873,10,17,morning,0.22,0.86,0.48,0.49,98.19,1.7,0.2,0.456
+Delhi,New Delhi,Connaught Place,8840,9,8,afternoon,0.22,0.86,0.48,0.49,140.32,0.89,0.3,0.445
+Delhi,New Delhi,Connaught Place,6928,8,32,afternoon,0.22,0.86,0.48,0.49,123.71,4.0,0.3,0.507
+Delhi,New Delhi,Connaught Place,8553,4,20,afternoon,0.22,0.86,0.48,0.49,305.46,5.0,0.3,0.527
+Delhi,New Delhi,Connaught Place,5986,12,21,night,0.22,0.86,0.48,0.49,71.26,1.75,0.7,0.482
+Delhi,New Delhi,Connaught Place,6479,7,11,afternoon,0.22,0.86,0.48,0.49,132.22,1.57,0.3,0.458
+Delhi,New Delhi,Connaught Place,4090,5,16,afternoon,0.22,0.86,0.48,0.49,116.86,3.2,0.3,0.491
+Delhi,New Delhi,Connaught Place,6872,12,13,night,0.22,0.86,0.48,0.49,81.81,1.08,0.7,0.469
+Delhi,New Delhi,Connaught Place,4781,4,15,evening,0.22,0.86,0.48,0.49,170.75,3.75,0.6,0.517
+Delhi,New Delhi,Connaught Place,9839,7,28,night,0.22,0.86,0.48,0.49,200.8,4.0,0.7,0.527
+Delhi,New Delhi,Connaught Place,4370,11,11,afternoon,0.22,0.86,0.48,0.49,56.75,1.0,0.3,0.447
+Delhi,New Delhi,Connaught Place,9905,9,30,morning,0.22,0.86,0.48,0.49,157.22,3.33,0.2,0.489
+Delhi,New Delhi,Connaught Place,5380,8,10,evening,0.22,0.86,0.48,0.49,96.07,1.25,0.6,0.467
+Delhi,New Delhi,Connaught Place,6691,8,21,morning,0.22,0.86,0.48,0.49,119.48,2.62,0.2,0.474
+Delhi,New Delhi,Connaught Place,7141,11,35,morning,0.22,0.86,0.48,0.49,92.74,3.18,0.2,0.486
+Delhi,New Delhi,Connaught Place,7724,5,16,night,0.22,0.86,0.48,0.49,220.69,3.2,0.7,0.511
+Delhi,New Delhi,Connaught Place,3811,5,17,night,0.22,0.86,0.48,0.49,108.89,3.4,0.7,0.515
+Delhi,New Delhi,Connaught Place,6488,12,35,afternoon,0.22,0.86,0.48,0.49,77.24,2.92,0.3,0.485
+Delhi,New Delhi,Connaught Place,7816,4,24,evening,0.22,0.86,0.48,0.49,279.14,6.0,0.6,0.542
+Delhi,New Delhi,Connaught Place,7744,9,26,morning,0.22,0.86,0.48,0.49,122.92,2.89,0.2,0.48
+Delhi,New Delhi,Connaught Place,9042,11,19,night,0.22,0.86,0.48,0.49,117.43,1.73,0.7,0.482
+Delhi,New Delhi,Connaught Place,6869,7,19,evening,0.22,0.86,0.48,0.49,140.18,2.71,0.6,0.496
+Delhi,New Delhi,Connaught Place,9769,4,17,evening,0.22,0.86,0.48,0.49,348.89,4.25,0.6,0.527
+Delhi,New Delhi,Connaught Place,8145,7,10,night,0.22,0.86,0.48,0.49,166.22,1.43,0.7,0.476
+Delhi,New Delhi,Connaught Place,5419,7,23,afternoon,0.22,0.86,0.48,0.49,110.59,3.29,0.3,0.493
+Delhi,New Delhi,Connaught Place,6780,12,9,night,0.22,0.86,0.48,0.49,80.71,0.75,0.7,0.462
+Delhi,New Delhi,Connaught Place,3918,6,23,evening,0.22,0.86,0.48,0.49,93.29,3.83,0.6,0.519
+Delhi,New Delhi,Connaught Place,3892,8,31,morning,0.22,0.86,0.48,0.49,69.5,3.88,0.2,0.5
+Delhi,New Delhi,Connaught Place,4350,11,9,evening,0.22,0.86,0.48,0.49,56.49,0.82,0.6,0.458
+Delhi,New Delhi,Connaught Place,4291,10,16,night,0.22,0.86,0.48,0.49,61.3,1.6,0.7,0.479
+Delhi,New Delhi,Connaught Place,9801,10,28,night,0.22,0.86,0.48,0.49,140.01,2.8,0.7,0.503
+Delhi,New Delhi,Connaught Place,4241,8,13,night,0.22,0.86,0.48,0.49,75.73,1.62,0.7,0.479
+Delhi,New Delhi,Connaught Place,8892,4,29,evening,0.22,0.86,0.48,0.49,317.57,7.25,0.6,0.542
+Delhi,New Delhi,Connaught Place,5610,7,9,night,0.22,0.86,0.48,0.49,114.49,1.29,0.7,0.473
+Delhi,New Delhi,Connaught Place,5887,6,23,night,0.22,0.86,0.48,0.49,140.17,3.83,0.7,0.524
+Delhi,New Delhi,Connaught Place,5157,11,10,evening,0.22,0.86,0.48,0.49,66.97,0.91,0.6,0.46
+Delhi,New Delhi,Connaught Place,3540,6,28,night,0.22,0.86,0.48,0.49,84.29,4.67,0.7,0.54
+Delhi,New Delhi,Connaught Place,8182,9,29,evening,0.22,0.86,0.48,0.49,129.87,3.22,0.6,0.506
+Delhi,New Delhi,Connaught Place,8863,12,26,evening,0.22,0.86,0.48,0.49,105.51,2.17,0.6,0.485
+Delhi,New Delhi,Connaught Place,8947,7,17,morning,0.22,0.86,0.48,0.49,182.59,2.43,0.2,0.471
+Delhi,New Delhi,Connaught Place,6078,10,8,evening,0.22,0.86,0.48,0.49,86.83,0.8,0.6,0.458
+Delhi,New Delhi,Connaught Place,9883,8,34,morning,0.22,0.86,0.48,0.49,176.48,4.25,0.2,0.507
+Delhi,New Delhi,Connaught Place,6346,5,15,evening,0.22,0.86,0.48,0.49,181.31,3.0,0.6,0.502
+Delhi,New Delhi,Connaught Place,3940,5,25,morning,0.22,0.86,0.48,0.49,112.57,5.0,0.2,0.522
+Delhi,New Delhi,Connaught Place,4962,8,24,morning,0.22,0.86,0.48,0.49,88.61,3.0,0.2,0.482
+Delhi,New Delhi,Connaught Place,7244,6,24,afternoon,0.22,0.86,0.48,0.49,172.48,4.0,0.3,0.507
+Delhi,New Delhi,Connaught Place,3071,8,8,night,0.22,0.86,0.48,0.49,54.84,1.0,0.7,0.467
+Delhi,New Delhi,Connaught Place,4472,5,26,evening,0.22,0.86,0.48,0.49,127.77,5.2,0.6,0.542
+Delhi,New Delhi,Connaught Place,6124,4,8,evening,0.22,0.86,0.48,0.49,218.71,2.0,0.6,0.482
+Delhi,New Delhi,Connaught Place,3288,8,25,night,0.22,0.86,0.48,0.49,58.71,3.12,0.7,0.509
+Delhi,New Delhi,Connaught Place,5240,8,11,morning,0.22,0.86,0.48,0.49,93.57,1.38,0.2,0.45
+Delhi,New Delhi,Connaught Place,7503,7,10,evening,0.22,0.86,0.48,0.49,153.12,1.43,0.6,0.471
+Delhi,New Delhi,Connaught Place,7154,11,15,morning,0.22,0.86,0.48,0.49,92.91,1.36,0.2,0.449
+Delhi,New Delhi,Connaught Place,9431,8,33,evening,0.22,0.86,0.48,0.49,168.41,4.12,0.6,0.524
+Delhi,New Delhi,Connaught Place,7471,7,31,afternoon,0.22,0.86,0.48,0.49,152.47,4.43,0.3,0.516
+Delhi,New Delhi,Connaught Place,4155,8,25,evening,0.22,0.86,0.48,0.49,74.2,3.12,0.6,0.504
+Delhi,New Delhi,Connaught Place,8829,4,22,afternoon,0.22,0.86,0.48,0.49,315.32,5.5,0.3,0.527
+Delhi,New Delhi,Connaught Place,5266,8,16,evening,0.22,0.86,0.48,0.49,94.04,2.0,0.6,0.482
+Delhi,New Delhi,Connaught Place,4413,8,17,afternoon,0.22,0.86,0.48,0.49,78.8,2.12,0.3,0.469
+Delhi,New Delhi,Connaught Place,8854,5,11,morning,0.22,0.86,0.48,0.49,252.97,2.2,0.2,0.466
+Delhi,New Delhi,Connaught Place,3969,8,27,afternoon,0.22,0.86,0.48,0.49,70.88,3.38,0.3,0.495
+Delhi,New Delhi,Connaught Place,9690,8,10,evening,0.22,0.86,0.48,0.49,173.04,1.25,0.6,0.467
+Delhi,New Delhi,Connaught Place,8560,7,11,afternoon,0.22,0.86,0.48,0.49,174.69,1.57,0.3,0.458
+Delhi,New Delhi,Connaught Place,7127,9,28,afternoon,0.22,0.86,0.48,0.49,113.13,3.11,0.3,0.489
+Delhi,New Delhi,Connaught Place,8512,6,20,evening,0.22,0.86,0.48,0.49,202.67,3.33,0.6,0.509
+Delhi,New Delhi,Connaught Place,6712,6,12,night,0.22,0.86,0.48,0.49,159.81,2.0,0.7,0.487
+Delhi,New Delhi,Connaught Place,4573,5,23,afternoon,0.22,0.86,0.48,0.49,130.66,4.6,0.3,0.519
+Delhi,New Delhi,Connaught Place,9218,4,23,morning,0.22,0.86,0.48,0.49,329.21,5.75,0.2,0.522
+Delhi,New Delhi,Connaught Place,4025,5,31,evening,0.22,0.86,0.48,0.49,115.0,6.2,0.6,0.542
+Delhi,New Delhi,Connaught Place,9237,6,11,night,0.22,0.86,0.48,0.49,219.93,1.83,0.7,0.484
+Delhi,New Delhi,Connaught Place,3706,7,16,afternoon,0.22,0.86,0.48,0.49,75.63,2.29,0.3,0.473
+Delhi,New Delhi,Connaught Place,9260,12,9,afternoon,0.22,0.86,0.48,0.49,110.24,0.75,0.3,0.442
+Delhi,New Delhi,Connaught Place,4548,6,19,night,0.22,0.86,0.48,0.49,108.29,3.17,0.7,0.51
+Delhi,New Delhi,Hauz Khas,8042,12,26,evening,0.24,0.82,0.34,0.444,95.74,2.17,0.6,0.447
+Delhi,New Delhi,Hauz Khas,4255,9,27,morning,0.24,0.82,0.34,0.444,67.54,3.0,0.2,0.444
+Delhi,New Delhi,Hauz Khas,6380,6,31,evening,0.24,0.82,0.34,0.444,151.9,5.17,0.6,0.504
+Delhi,New Delhi,Hauz Khas,8217,12,12,night,0.24,0.82,0.34,0.444,97.82,1.0,0.7,0.429
+Delhi,New Delhi,Hauz Khas,3469,9,16,night,0.24,0.82,0.34,0.444,55.06,1.78,0.7,0.445
+Delhi,New Delhi,Hauz Khas,8842,7,19,night,0.24,0.82,0.34,0.444,180.45,2.71,0.7,0.463
+Delhi,New Delhi,Hauz Khas,5411,7,9,night,0.24,0.82,0.34,0.444,110.43,1.29,0.7,0.435
+Delhi,New Delhi,Hauz Khas,3776,10,25,night,0.24,0.82,0.34,0.444,53.94,2.5,0.7,0.459
+Delhi,New Delhi,Hauz Khas,5353,4,32,night,0.24,0.82,0.34,0.444,191.18,8.0,0.7,0.509
+Delhi,New Delhi,Hauz Khas,3281,9,10,night,0.24,0.82,0.34,0.444,52.08,1.11,0.7,0.431
+Delhi,New Delhi,Hauz Khas,9300,6,8,afternoon,0.24,0.82,0.34,0.444,221.43,1.33,0.3,0.416
+Delhi,New Delhi,Hauz Khas,5449,5,16,morning,0.24,0.82,0.34,0.444,155.69,3.2,0.2,0.448
+Delhi,New Delhi,Hauz Khas,5520,9,18,morning,0.24,0.82,0.34,0.444,87.62,2.0,0.2,0.424
+Delhi,New Delhi,Hauz Khas,7009,5,30,night,0.24,0.82,0.34,0.444,200.26,6.0,0.7,0.509
+Delhi,New Delhi,Hauz Khas,6856,5,32,afternoon,0.24,0.82,0.34,0.444,195.89,6.4,0.3,0.489
+Delhi,New Delhi,Hauz Khas,7065,4,35,afternoon,0.24,0.82,0.34,0.444,252.32,8.75,0.3,0.489
+Delhi,New Delhi,Hauz Khas,7581,12,18,afternoon,0.24,0.82,0.34,0.444,90.25,1.5,0.3,0.419
+Delhi,New Delhi,Hauz Khas,7835,10,25,afternoon,0.24,0.82,0.34,0.444,111.93,2.5,0.3,0.439
+Delhi,New Delhi,Hauz Khas,7803,10,24,morning,0.24,0.82,0.34,0.444,111.47,2.4,0.2,0.432
+Delhi,New Delhi,Hauz Khas,6337,9,12,morning,0.24,0.82,0.34,0.444,100.59,1.33,0.2,0.411
+Delhi,New Delhi,Hauz Khas,6533,4,27,morning,0.24,0.82,0.34,0.444,233.32,6.75,0.2,0.484
+Delhi,New Delhi,Hauz Khas,9509,7,29,afternoon,0.24,0.82,0.34,0.444,194.06,4.14,0.3,0.472
+Delhi,New Delhi,Hauz Khas,8005,6,26,morning,0.24,0.82,0.34,0.444,190.6,4.33,0.2,0.471
+Delhi,New Delhi,Hauz Khas,4155,8,18,morning,0.24,0.82,0.34,0.444,74.2,2.25,0.2,0.429
+Delhi,New Delhi,Hauz Khas,8816,5,18,morning,0.24,0.82,0.34,0.444,251.89,3.6,0.2,0.456
+Delhi,New Delhi,Hauz Khas,8901,10,35,evening,0.24,0.82,0.34,0.444,127.16,3.5,0.6,0.474
+Delhi,New Delhi,Hauz Khas,4033,12,16,morning,0.24,0.82,0.34,0.444,48.01,1.33,0.2,0.411
+Delhi,New Delhi,Hauz Khas,9276,10,26,evening,0.24,0.82,0.34,0.444,132.51,2.6,0.6,0.456
+Delhi,New Delhi,Hauz Khas,3470,11,32,afternoon,0.24,0.82,0.34,0.444,45.06,2.91,0.3,0.447
+Delhi,New Delhi,Hauz Khas,4870,5,35,afternoon,0.24,0.82,0.34,0.444,139.14,7.0,0.3,0.489
+Delhi,New Delhi,Hauz Khas,4379,5,22,afternoon,0.24,0.82,0.34,0.444,125.11,4.4,0.3,0.477
+Delhi,New Delhi,Hauz Khas,8400,4,17,night,0.24,0.82,0.34,0.444,300.0,4.25,0.7,0.494
+Delhi,New Delhi,Hauz Khas,8415,11,29,morning,0.24,0.82,0.34,0.444,109.29,2.64,0.2,0.437
+Delhi,New Delhi,Hauz Khas,4515,11,10,morning,0.24,0.82,0.34,0.444,58.64,0.91,0.2,0.402
+Delhi,New Delhi,Hauz Khas,8597,10,20,night,0.24,0.82,0.34,0.444,122.81,2.0,0.7,0.449
+Delhi,New Delhi,Hauz Khas,7039,4,12,afternoon,0.24,0.82,0.34,0.444,251.39,3.0,0.3,0.449
+Delhi,New Delhi,Hauz Khas,9032,10,23,afternoon,0.24,0.82,0.34,0.444,129.03,2.3,0.3,0.435
+Delhi,New Delhi,Hauz Khas,9515,7,22,night,0.24,0.82,0.34,0.444,194.18,3.14,0.7,0.472
+Delhi,New Delhi,Hauz Khas,7483,4,32,afternoon,0.24,0.82,0.34,0.444,267.25,8.0,0.3,0.489
+Delhi,New Delhi,Hauz Khas,4283,10,9,night,0.24,0.82,0.34,0.444,61.19,0.9,0.7,0.427
+Delhi,New Delhi,Hauz Khas,3993,6,35,night,0.24,0.82,0.34,0.444,95.07,5.83,0.7,0.509
+Delhi,New Delhi,Hauz Khas,9073,12,11,afternoon,0.24,0.82,0.34,0.444,108.01,0.92,0.3,0.407
+Delhi,New Delhi,Hauz Khas,6659,8,23,night,0.24,0.82,0.34,0.444,118.91,2.88,0.7,0.467
+Delhi,New Delhi,Hauz Khas,6395,12,10,evening,0.24,0.82,0.34,0.444,76.13,0.83,0.6,0.421
+Delhi,New Delhi,Hauz Khas,8273,4,28,morning,0.24,0.82,0.34,0.444,295.46,7.0,0.2,0.484
+Delhi,New Delhi,Hauz Khas,8205,5,24,afternoon,0.24,0.82,0.34,0.444,234.43,4.8,0.3,0.485
+Delhi,New Delhi,Hauz Khas,8532,12,25,morning,0.24,0.82,0.34,0.444,101.57,2.08,0.2,0.426
+Delhi,New Delhi,Hauz Khas,6809,5,29,morning,0.24,0.82,0.34,0.444,194.54,5.8,0.2,0.484
+Delhi,New Delhi,Hauz Khas,9965,11,8,morning,0.24,0.82,0.34,0.444,129.42,0.73,0.2,0.399
+Delhi,New Delhi,Hauz Khas,6197,12,16,night,0.24,0.82,0.34,0.444,73.77,1.33,0.7,0.436
+Delhi,New Delhi,Hauz Khas,9883,10,34,evening,0.24,0.82,0.34,0.444,141.19,3.4,0.6,0.472
+Delhi,New Delhi,Hauz Khas,6447,4,13,afternoon,0.24,0.82,0.34,0.444,230.25,3.25,0.3,0.454
+Delhi,New Delhi,Hauz Khas,4035,5,33,night,0.24,0.82,0.34,0.444,115.29,6.6,0.7,0.509
+Delhi,New Delhi,Hauz Khas,6116,6,33,evening,0.24,0.82,0.34,0.444,145.62,5.5,0.6,0.504
+Delhi,New Delhi,Hauz Khas,9858,6,31,morning,0.24,0.82,0.34,0.444,234.71,5.17,0.2,0.484
+Delhi,New Delhi,Hauz Khas,4778,10,20,night,0.24,0.82,0.34,0.444,68.26,2.0,0.7,0.449
+Delhi,New Delhi,Hauz Khas,3676,4,29,evening,0.24,0.82,0.34,0.444,131.29,7.25,0.6,0.504
+Delhi,New Delhi,Hauz Khas,8216,11,10,morning,0.24,0.82,0.34,0.444,106.7,0.91,0.2,0.402
+Delhi,New Delhi,Hauz Khas,4757,6,26,morning,0.24,0.82,0.34,0.444,113.26,4.33,0.2,0.471
+Delhi,New Delhi,Hauz Khas,6648,5,22,morning,0.24,0.82,0.34,0.444,189.94,4.4,0.2,0.472
+Delhi,New Delhi,Hauz Khas,3022,8,34,morning,0.24,0.82,0.34,0.444,53.96,4.25,0.2,0.469
+Delhi,New Delhi,Hauz Khas,5299,9,23,afternoon,0.24,0.82,0.34,0.444,84.11,2.56,0.3,0.44
+Delhi,New Delhi,Hauz Khas,6046,7,31,afternoon,0.24,0.82,0.34,0.444,123.39,4.43,0.3,0.478
+Delhi,New Delhi,Hauz Khas,6679,8,25,morning,0.24,0.82,0.34,0.444,119.27,3.12,0.2,0.446
+Delhi,New Delhi,Hauz Khas,7267,11,23,night,0.24,0.82,0.34,0.444,94.38,2.09,0.7,0.451
+Delhi,New Delhi,Hauz Khas,8929,8,24,night,0.24,0.82,0.34,0.444,159.45,3.0,0.7,0.469
+Delhi,New Delhi,Hauz Khas,7976,7,16,evening,0.24,0.82,0.34,0.444,162.78,2.29,0.6,0.45
+Delhi,New Delhi,Hauz Khas,6585,7,10,morning,0.24,0.82,0.34,0.444,134.39,1.43,0.2,0.413
+Delhi,New Delhi,Hauz Khas,3458,4,8,morning,0.24,0.82,0.34,0.444,123.5,2.0,0.2,0.424
+Delhi,New Delhi,Hauz Khas,4186,6,20,morning,0.24,0.82,0.34,0.444,99.67,3.33,0.2,0.451
+Delhi,New Delhi,Hauz Khas,9761,8,22,afternoon,0.24,0.82,0.34,0.444,174.3,2.75,0.3,0.444
+Delhi,New Delhi,Hauz Khas,8431,9,22,evening,0.24,0.82,0.34,0.444,133.83,2.44,0.6,0.453
+Delhi,New Delhi,Hauz Khas,9653,12,27,night,0.24,0.82,0.34,0.444,114.92,2.25,0.7,0.454
+Delhi,New Delhi,Hauz Khas,3901,12,17,evening,0.24,0.82,0.34,0.444,46.44,1.42,0.6,0.432
+Delhi,New Delhi,Hauz Khas,6451,5,33,night,0.24,0.82,0.34,0.444,184.31,6.6,0.7,0.509
+Delhi,New Delhi,Hauz Khas,9282,5,22,night,0.24,0.82,0.34,0.444,265.2,4.4,0.7,0.497
+Delhi,New Delhi,Hauz Khas,8714,8,20,morning,0.24,0.82,0.34,0.444,155.61,2.5,0.2,0.434
+Delhi,New Delhi,Hauz Khas,7970,8,17,morning,0.24,0.82,0.34,0.444,142.32,2.12,0.2,0.426
+Delhi,New Delhi,Hauz Khas,4214,8,16,evening,0.24,0.82,0.34,0.444,75.25,2.0,0.6,0.444
+Delhi,New Delhi,Hauz Khas,5045,10,33,evening,0.24,0.82,0.34,0.444,72.07,3.3,0.6,0.47
+Delhi,New Delhi,Dwarka,7718,6,26,night,0.2,0.84,0.36,0.44,183.76,4.33,0.7,0.492
+Delhi,New Delhi,Dwarka,6912,12,32,night,0.2,0.84,0.36,0.44,82.29,2.67,0.7,0.458
+Delhi,New Delhi,Dwarka,8440,9,22,evening,0.2,0.84,0.36,0.44,133.97,2.44,0.6,0.449
+Delhi,New Delhi,Dwarka,6063,7,21,night,0.2,0.84,0.36,0.44,123.73,3.0,0.7,0.465
+Delhi,New Delhi,Dwarka,4777,7,34,morning,0.2,0.84,0.36,0.44,97.49,4.86,0.2,0.477
+Delhi,New Delhi,Dwarka,8057,7,32,night,0.2,0.84,0.36,0.44,164.43,4.57,0.7,0.496
+Delhi,New Delhi,Dwarka,6795,11,19,evening,0.2,0.84,0.36,0.44,88.25,1.73,0.6,0.435
+Delhi,New Delhi,Dwarka,5018,11,26,night,0.2,0.84,0.36,0.44,65.17,2.36,0.7,0.452
+Delhi,New Delhi,Dwarka,9407,9,25,evening,0.2,0.84,0.36,0.44,149.32,2.78,0.6,0.456
+Delhi,New Delhi,Dwarka,7875,6,26,afternoon,0.2,0.84,0.36,0.44,187.5,4.33,0.3,0.472
+Delhi,New Delhi,Dwarka,6529,4,30,night,0.2,0.84,0.36,0.44,233.18,7.5,0.7,0.505
+Delhi,New Delhi,Dwarka,9509,4,12,afternoon,0.2,0.84,0.36,0.44,339.61,3.0,0.3,0.445
+Delhi,New Delhi,Dwarka,5362,5,34,afternoon,0.2,0.84,0.36,0.44,153.2,6.8,0.3,0.485
+Delhi,New Delhi,Dwarka,9282,10,10,evening,0.2,0.84,0.36,0.44,132.6,1.0,0.6,0.42
+Delhi,New Delhi,Dwarka,5217,6,8,night,0.2,0.84,0.36,0.44,124.21,1.33,0.7,0.432
+Delhi,New Delhi,Dwarka,6472,5,15,afternoon,0.2,0.84,0.36,0.44,184.91,3.0,0.3,0.445
+Delhi,New Delhi,Dwarka,7472,11,33,afternoon,0.2,0.84,0.36,0.44,97.04,3.0,0.3,0.445
+Delhi,New Delhi,Dwarka,6609,6,9,morning,0.2,0.84,0.36,0.44,157.36,1.5,0.2,0.41
+Delhi,New Delhi,Dwarka,9105,6,22,evening,0.2,0.84,0.36,0.44,216.79,3.67,0.6,0.473
+Delhi,New Delhi,Dwarka,8922,6,25,evening,0.2,0.84,0.36,0.44,212.43,4.17,0.6,0.483
+Delhi,New Delhi,Dwarka,9477,8,33,night,0.2,0.84,0.36,0.44,169.23,4.12,0.7,0.487
+Delhi,New Delhi,Dwarka,7265,10,35,evening,0.2,0.84,0.36,0.44,103.79,3.5,0.6,0.47
+Delhi,New Delhi,Dwarka,4340,5,25,night,0.2,0.84,0.36,0.44,124.0,5.0,0.7,0.505
+Delhi,New Delhi,Dwarka,7203,4,26,evening,0.2,0.84,0.36,0.44,257.25,6.5,0.6,0.5
+Delhi,New Delhi,Dwarka,5381,9,35,night,0.2,0.84,0.36,0.44,85.41,3.89,0.7,0.483
+Delhi,New Delhi,Dwarka,5347,9,14,night,0.2,0.84,0.36,0.44,84.87,1.56,0.7,0.436
+Delhi,New Delhi,Dwarka,6359,8,19,morning,0.2,0.84,0.36,0.44,113.55,2.38,0.2,0.428
+Delhi,New Delhi,Dwarka,4931,5,29,morning,0.2,0.84,0.36,0.44,140.89,5.8,0.2,0.48
+Delhi,New Delhi,Dwarka,4907,9,32,night,0.2,0.84,0.36,0.44,77.89,3.56,0.7,0.476
+Delhi,New Delhi,Dwarka,9887,12,24,morning,0.2,0.84,0.36,0.44,117.7,2.0,0.2,0.42
+Delhi,New Delhi,Dwarka,3258,12,18,morning,0.2,0.84,0.36,0.44,38.79,1.5,0.2,0.41
+Delhi,New Delhi,Dwarka,7875,11,27,afternoon,0.2,0.84,0.36,0.44,102.27,2.45,0.3,0.434
+Delhi,New Delhi,Dwarka,7850,7,31,evening,0.2,0.84,0.36,0.44,160.2,4.43,0.6,0.489
+Delhi,New Delhi,Dwarka,4983,10,32,morning,0.2,0.84,0.36,0.44,71.19,3.2,0.2,0.444
+Delhi,New Delhi,Dwarka,9305,6,32,evening,0.2,0.84,0.36,0.44,221.55,5.33,0.6,0.5
+Delhi,New Delhi,Dwarka,3365,11,13,morning,0.2,0.84,0.36,0.44,43.7,1.18,0.2,0.404
+Delhi,New Delhi,Dwarka,8340,11,22,afternoon,0.2,0.84,0.36,0.44,108.31,2.0,0.3,0.425
+Delhi,New Delhi,Dwarka,3092,11,26,afternoon,0.2,0.84,0.36,0.44,40.16,2.36,0.3,0.432
+Delhi,New Delhi,Dwarka,8876,5,10,evening,0.2,0.84,0.36,0.44,253.6,2.0,0.6,0.44
+Delhi,New Delhi,Dwarka,5960,5,33,evening,0.2,0.84,0.36,0.44,170.29,6.6,0.6,0.5
+Delhi,New Delhi,Dwarka,3588,11,13,afternoon,0.2,0.84,0.36,0.44,46.6,1.18,0.3,0.409
+Delhi,New Delhi,Dwarka,4658,12,14,evening,0.2,0.84,0.36,0.44,55.45,1.17,0.6,0.423
+Delhi,New Delhi,Dwarka,3053,8,33,afternoon,0.2,0.84,0.36,0.44,54.52,4.12,0.3,0.467
+Delhi,New Delhi,Dwarka,8579,6,31,afternoon,0.2,0.84,0.36,0.44,204.26,5.17,0.3,0.485
+Delhi,New Delhi,Dwarka,4634,8,18,morning,0.2,0.84,0.36,0.44,82.75,2.25,0.2,0.425
+Delhi,New Delhi,Dwarka,3296,12,19,evening,0.2,0.84,0.36,0.44,39.24,1.58,0.6,0.432
+Delhi,New Delhi,Dwarka,8451,5,20,morning,0.2,0.84,0.36,0.44,241.46,4.0,0.2,0.46
+Delhi,New Delhi,Dwarka,5443,4,13,evening,0.2,0.84,0.36,0.44,194.39,3.25,0.6,0.465
+Delhi,New Delhi,Dwarka,9445,5,14,morning,0.2,0.84,0.36,0.44,269.86,2.8,0.2,0.436
+Delhi,New Delhi,Dwarka,5009,5,17,night,0.2,0.84,0.36,0.44,143.11,3.4,0.7,0.473
+Delhi,New Delhi,Dwarka,8264,5,19,night,0.2,0.84,0.36,0.44,236.11,3.8,0.7,0.481
+Delhi,New Delhi,Dwarka,3086,7,26,morning,0.2,0.84,0.36,0.44,62.98,3.71,0.2,0.454
+Delhi,New Delhi,Dwarka,8308,5,13,afternoon,0.2,0.84,0.36,0.44,237.37,2.6,0.3,0.437
+Delhi,New Delhi,Dwarka,9491,5,23,evening,0.2,0.84,0.36,0.44,271.17,4.6,0.6,0.492
+Delhi,New Delhi,Dwarka,7806,5,10,night,0.2,0.84,0.36,0.44,223.03,2.0,0.7,0.445
+Delhi,New Delhi,Dwarka,8463,10,10,night,0.2,0.84,0.36,0.44,120.9,1.0,0.7,0.425
+Delhi,New Delhi,Dwarka,9036,6,11,evening,0.2,0.84,0.36,0.44,215.14,1.83,0.6,0.437
+Delhi,New Delhi,Dwarka,8011,10,20,morning,0.2,0.84,0.36,0.44,114.44,2.0,0.2,0.42
+Delhi,New Delhi,Dwarka,7828,9,28,morning,0.2,0.84,0.36,0.44,124.25,3.11,0.2,0.442
+Delhi,New Delhi,Dwarka,3924,4,9,morning,0.2,0.84,0.36,0.44,140.14,2.25,0.2,0.425
+Delhi,New Delhi,Dwarka,5962,8,31,evening,0.2,0.84,0.36,0.44,106.46,3.88,0.6,0.478
+Delhi,New Delhi,Dwarka,6164,4,18,afternoon,0.2,0.84,0.36,0.44,220.14,4.5,0.3,0.475
+Delhi,New Delhi,Dwarka,6992,4,18,afternoon,0.2,0.84,0.36,0.44,249.71,4.5,0.3,0.475
+Delhi,New Delhi,Dwarka,5848,8,11,morning,0.2,0.84,0.36,0.44,104.43,1.38,0.2,0.408
+Delhi,New Delhi,Dwarka,7632,5,11,afternoon,0.2,0.84,0.36,0.44,218.06,2.2,0.3,0.429
+Delhi,New Delhi,Dwarka,6106,11,18,night,0.2,0.84,0.36,0.44,79.3,1.64,0.7,0.438
+Delhi,New Delhi,Dwarka,4153,12,26,afternoon,0.2,0.84,0.36,0.44,49.44,2.17,0.3,0.428
+Delhi,New Delhi,Dwarka,7402,10,27,afternoon,0.2,0.84,0.36,0.44,105.74,2.7,0.3,0.439
+Delhi,New Delhi,Dwarka,7313,11,20,morning,0.2,0.84,0.36,0.44,94.97,1.82,0.2,0.416
+Delhi,New Delhi,Dwarka,3925,5,15,evening,0.2,0.84,0.36,0.44,112.14,3.0,0.6,0.46
+Delhi,New Delhi,Dwarka,6933,5,17,afternoon,0.2,0.84,0.36,0.44,198.09,3.4,0.3,0.453
+Delhi,New Delhi,Dwarka,5795,7,20,night,0.2,0.84,0.36,0.44,118.27,2.86,0.7,0.462
+Delhi,New Delhi,Dwarka,4711,9,16,night,0.2,0.84,0.36,0.44,74.78,1.78,0.7,0.441
+Delhi,New Delhi,Dwarka,6975,12,11,evening,0.2,0.84,0.36,0.44,83.04,0.92,0.6,0.418
+Delhi,New Delhi,Dwarka,6529,6,34,evening,0.2,0.84,0.36,0.44,155.45,5.67,0.6,0.5
+Delhi,New Delhi,Dwarka,9044,9,31,afternoon,0.2,0.84,0.36,0.44,143.56,3.44,0.3,0.454
+Delhi,New Delhi,Dwarka,9610,12,28,evening,0.2,0.84,0.36,0.44,114.4,2.33,0.6,0.447
+Delhi,New Delhi,Dwarka,4429,5,29,evening,0.2,0.84,0.36,0.44,126.54,5.8,0.6,0.5
+Delhi,New Delhi,Dwarka,9001,5,29,evening,0.2,0.84,0.36,0.44,257.17,5.8,0.6,0.5
+Delhi,New Delhi,Dwarka,5095,11,24,evening,0.2,0.84,0.36,0.44,66.17,2.18,0.6,0.444

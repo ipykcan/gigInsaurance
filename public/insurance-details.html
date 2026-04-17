@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Plan Details - DriverSheild</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/dashboard.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background: #fafafa;
+        }
+
+        .details-wrapper {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border: 1px solid rgba(255, 138, 42, 0.2);
+        }
+
+        .plan-title {
+            font-size: 32px;
+            font-weight: 800;
+            color: #333;
+            margin-bottom: 10px;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .plan-price {
+            font-size: 48px;
+            font-weight: 700;
+            color: #ff8a2a;
+            margin-bottom: 20px;
+        }
+
+        .plan-price span {
+            font-size: 20px;
+            color: #888;
+            font-weight: 500;
+        }
+
+        .plan-desc {
+            color: #555;
+            font-size: 16px;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+
+        .features-list {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 40px;
+            text-align: left;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .features-list li {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+            color: #444;
+        }
+
+        .features-list li svg {
+            margin-right: 15px;
+            color: #10b981;
+        }
+
+        .btn-pay {
+            background: linear-gradient(135deg, #ff8a2a, #ff6a00);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 18px;
+            border-radius: 99px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 15px rgba(255, 138, 42, 0.3);
+        }
+
+        .btn-pay:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(255, 138, 42, 0.4);
+        }
+
+        .btn-pay:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #ff8a2a;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        .alert-msg {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            display: none;
+            font-weight: 600;
+        }
+
+        .alert-success {
+            background: #d1fae5;
+            color: #065f46;
+            display: block;
+        }
+
+        .alert-error {
+            background: #fee2e2;
+            color: #991b1b;
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="details-wrapper">
+        <a href="dashboard.html" class="back-link">← Back to Dashboard</a>
+        <div class="glass-card">
+            <h1 class="plan-title" id="pagePlanTitle">Loading Plan...</h1>
+            <div class="plan-price" id="pagePlanPrice">₹0<span> / week</span></div>
+            <p class="plan-desc" id="pagePlanDesc">Review the details of your selected insurance plan below before
+                confirming your payment.</p>
+
+            <div style="margin-bottom: 30px; font-size: 18px; font-weight: 600; color: #ff8a2a;">
+                Ongoing Weekly Premium: <span id="weeklyPremiumDisplay">₹0 / week</span>
+            </div>
+
+            <ul class="features-list" id="featuresList">
+                <!-- Injected via JS -->
+            </ul>
+
+            <button id="btnConfirmPay" class="btn-pay">Pay Premium</button>
+            <div id="paymentAlert" class="alert-msg"></div>
+        </div>
+    </div>
+
+    <!-- Firebase SDKs are module imported in the js file -->
+    <script type="module" src="js/insurance-details.js"></script>
+</body>
+
+</html>

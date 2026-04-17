@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Shield v2.0 - Auth</title>
+    <link rel="stylesheet" href="css/claim.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background:
+                linear-gradient(135deg, #fff6f0, #ffe5d6, #fffaf7),
+                radial-gradient(circle at 30% 40%, rgba(255, 138, 42, 0.25), transparent 60%),
+                radial-gradient(circle at 70% 70%, rgba(255, 120, 0, 0.15), transparent 65%),
+                radial-gradient(circle at 50% 20%, rgba(0, 0, 0, 0.05), transparent 70%);
+            background-attachment: fixed;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .auth-container {
+            max-width: 480px;
+            width: 100%;
+        }
+
+        .glass-panel {
+            background: #ffffff;
+            border-radius: 28px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.08);
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Subtle glass morphism effect */
+        .glass-panel::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.4) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .glass-panel>* {
+            position: relative;
+            z-index: 1;
+        }
+
+        .form-header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .form-header h2 {
+            margin: 0 0 10px 0;
+            font-size: 28px;
+            font-weight: 600;
+            color: #1a1a1a;
+            letter-spacing: -0.3px;
+        }
+
+        .form-header p {
+            color: #888;
+            font-size: 15px;
+            font-weight: 400;
+            margin: 0;
+            line-height: 1.5;
+        }
+
+        /* INPUTS */
+        .form-group {
+            margin-bottom: 18px;
+        }
+
+        .form-label {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 8px;
+            display: block;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        .input-wrapper {
+            display: flex;
+            align-items: center;
+            border: 1px solid #eee;
+            border-radius: 12px;
+            padding: 12px 14px;
+            background: #fafafa;
+            transition: all 0.25s ease;
+        }
+
+        .input-wrapper:focus-within {
+            border-color: #ff8a2a;
+            background: #fff;
+            box-shadow: 0 0 0 3px rgba(255, 138, 42, 0.15);
+        }
+
+        .input-icon {
+            width: 18px;
+            height: 18px;
+            margin-right: 10px;
+            color: #aaa;
+            flex-shrink: 0;
+        }
+
+        .form-input {
+            border: none;
+            outline: none;
+            width: 100%;
+            background: transparent;
+            font-size: 14px;
+            color: #1a1a1a;
+            font-family: inherit;
+        }
+
+        .form-input::placeholder {
+            color: #bbb;
+        }
+
+        /* PASSWORD TOGGLE */
+        .password-toggle {
+            cursor: pointer;
+            width: 18px;
+            height: 18px;
+            color: #aaa;
+            transition: color 0.25s ease;
+            margin-left: 6px;
+            flex-shrink: 0;
+        }
+
+        .password-toggle:hover {
+            color: #ff8a2a;
+        }
+
+        /* BUTTON */
+        .submit-button {
+            width: 100%;
+            padding: 14px;
+            border-radius: 999px;
+            border: none;
+            font-size: 15px;
+            font-weight: 600;
+            background: linear-gradient(135deg, #ff8a2a, #ff6a00);
+            color: white;
+            cursor: pointer;
+            margin-top: 16px;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 20px rgba(255, 138, 42, 0.3);
+            letter-spacing: 0.3px;
+        }
+
+        .submit-button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 12px 30px rgba(255, 138, 42, 0.35);
+        }
+
+        .submit-button:active {
+            transform: translateY(0);
+        }
+
+        /* TOGGLE */
+        .auth-toggle {
+            text-align: center;
+            margin-top: 24px;
+            font-size: 14px;
+            color: #777;
+        }
+
+        .auth-toggle a {
+            color: #ff8a2a;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.25s ease;
+            text-decoration: none;
+        }
+
+        .auth-toggle a:hover {
+            color: #ff6a00;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="auth-container">
+        <div class="glass-panel">
+            <div class="form-header">
+                <h2 id="formTitle">Create Account</h2>
+                <p>Let's get you set up in minutes</p>
+            </div>
+
+            <div id="authErrorMsg"
+                style="color: #ef4444; background: #fee2e2; padding: 10px; border-radius: 8px; display: none; margin-bottom: 15px; font-size: 14px; text-align: center;">
+            </div>
+
+            <div style="display: flex; gap: 10px; margin-bottom: 20px;">
+                <button type="button" id="btnRoleClient"
+                    style="flex: 1; padding: 10px; border: 1px solid #e5e7eb; border-radius: 8px; cursor: pointer; font-weight: 600; background: #ff7800; color: white; transition: all 0.2s ease;">Driver</button>
+                <button type="button" id="btnRoleAdmin"
+                    style="flex: 1; padding: 10px; border: 1px solid #e5e7eb; border-radius: 8px; cursor: pointer; font-weight: 600; background: transparent; color: #666; transition: all 0.2s ease;">Admin</button>
+            </div>
+
+            <form id="authForm">
+                <div class="form-group">
+                    <label class="form-label">Full Name</label>
+                    <div class="input-wrapper">
+                        <input type="text" id="fullName" class="form-input" placeholder="Jane Doe">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label id="labelIdentifier" class="form-label">Email Address</label>
+                    <div class="input-wrapper">
+                        <i data-lucide="mail" class="input-icon"></i>
+                        <input type="text" id="identifier" class="form-input" placeholder="jane@shieldai.com">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Password</label>
+                    <div class="input-wrapper">
+                        <i data-lucide="lock" class="input-icon"></i>
+                        <input type="password" id="password" class="form-input" placeholder="••••••••">
+                        <i data-lucide="eye" class="password-toggle" id="passwordToggle"></i>
+                    </div>
+                </div>
+
+                <div class="form-group" id="homeZoneGroup" style="display:none; margin-top: 15px;">
+                    <label class="form-label">Home Zone (Required for Drivers)</label>
+                    <div style="display: flex; gap: 10px; margin-bottom: 8px;">
+                        <button type="button" id="btnDetectLocation" style="flex: 1; padding: 10px; border: 1px solid #ff8a2a; border-radius: 8px; background: #fff3e0; color: #ff8a2a; font-weight: 600; cursor: pointer; transition: all 0.2s; font-size: 13px;">Detect My Location</button>
+                    </div>
+                    <div id="homeZoneDisplay" style="font-size: 12px; color: #10b981; font-weight: 600; display: none;">Home Zone Set: <span id="homeZoneCoordsText"></span></div>
+                </div>
+
+                <button type="submit" class="submit-button" id="btnAuthSubmit">
+                    Continue →
+                </button>
+            </form>
+
+            <div class="auth-toggle">
+                <span id="toggleText">Already have an account?</span>
+                <a id="toggleLink">Sign in</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+
+        // Password visibility toggle
+        const passwordToggle = document.getElementById('passwordToggle');
+        const passwordInput = document.getElementById('password');
+
+        if (passwordToggle) {
+            passwordToggle.addEventListener('click', function () {
+                const isPassword = passwordInput.type === 'password';
+                passwordInput.type = isPassword ? 'text' : 'password';
+                const icon = isPassword ? 'eye-off' : 'eye';
+                passwordToggle.setAttribute('data-lucide', icon);
+                lucide.createIcons();
+            });
+        }
+    </script>
+    <!-- Use Type=Module to utilize modern import syntax -->
+    <script type="module" src="js/register.js?v=2"></script>
+</body>
+
+</html>
